@@ -1,0 +1,627 @@
+Nom,age,nationnalité,Position,res Position,valeur marchande,venant de 1,venant de 2,montant de la transaction,team_acheteur,team vendeur
+Declan RiceD. Rice,24,Angleterre,Milieu défensif,MDC,"100,00 mio. €",West Ham United,Angleterre,"116,60 mio. €",Arsenal FC,
+Kai HavertzK. Havertz,24,Allemagne,Milieu offensif,MO,"60,00 mio. €",Chelsea FC,Angleterre,"75,00 mio. €",Arsenal FC,
+Jurrien TimberJ. Timber,22,Pays-Bas,Défenseur central,DC,"42,00 mio. €",Ajax Amsterdam,Pays-Bas,"40,00 mio. €",Arsenal FC,
+David RayaD. Raya,27,Espagne,Gardien de but,GdB,"32,00 mio. €",FC Brentford,Angleterre,"Montant du prêt:3,34 mio. €",Arsenal FC,
+Albert Sambi LokongaA. Lokonga,24,Belgique,Milieu central,MC,"15,00 mio. €",Luton Town,Angleterre,Fin du prêt31 mai 2024,Arsenal FC,
+Cédric SoaresC. Soares,31,Portugal,Arrière droit,ArD,"3,00 mio. €",FC Fulham,Angleterre,Fin du prêt30 juin 2023,Arsenal FC,
+Arthur OkonkwoA. Okonkwo,21,Angleterre,Gardien de but,GdB,"2,00 mio. €",SK Sturm Graz,Autriche,Fin du prêt30 juin 2023,Arsenal FC,
+Rúnar Alex RúnarssonR. Rúnarsson,29,Islande,Gardien de but,GdB,"1,00 mio. €",Cardiff City,Angleterre,Fin du prêt31 mai 2024,Arsenal FC,
+Nicolas PépéN. Pépé,28,Côte d'Ivoire,Ailier droit,AiD,"14,00 mio. €",OGC Nice,France,Fin du prêt30 juin 2023,Arsenal FC,
+Rúnar Alex RúnarssonR. Rúnarsson,28,Islande,Gardien de but,GdB,"1,00 mio. €",Alanyaspor,Turquie,Fin du prêt30 juin 2023,Arsenal FC,
+Pablo MaríP. Marí,29,Espagne,Défenseur central,DC,"5,00 mio. €",AC Monza,Italie,Fin du prêt30 juin 2023,Arsenal FC,
+Arthur OkonkwoA. Okonkwo,22,Angleterre,Gardien de but,GdB,"2,00 mio. €",Wrexham AFC,Angleterre,Fin du prêt31 mai 2024,Arsenal FC,
+Folarin BalogunF. Balogun,21,États-Unis,Avant-centre,AC,"30,00 mio. €",Stade de Reims,France,Fin du prêt30 juin 2023,Arsenal FC,
+Nuno TavaresN. Tavares,23,Portugal,Arrière gauche,ArG,"18,00 mio. €",Olympique de Marseille,France,Fin du prêt30 juin 2023,Arsenal FC,
+Folarin BalogunF. Balogun,22,États-Unis,Avant-centre,AC,"30,00 mio. €",AS Monaco,France,"30,00 mio. €",,Arsenal FC
+Granit XhakaG. Xhaka,30,Suisse,Milieu défensif,MDC,"20,00 mio. €",Bayer 04 Leverkusen,Allemagne,"15,00 mio. €",,Arsenal FC
+Matt TurnerM. Turner,29,États-Unis,Gardien de but,GdB,"10,00 mio. €",Nottingham Forest,Angleterre,"8,15 mio. €",,Arsenal FC
+Auston TrustyA. Trusty,24,États-Unis,Défenseur central,DC,"8,00 mio. €",Sheffield United,Angleterre,"5,80 mio. €",,Arsenal FC
+Pablo MaríP. Marí,29,Espagne,Défenseur central,DC,"5,00 mio. €",AC Monza,Italie,"4,90 mio. €",,Arsenal FC
+Kieran TierneyK. Tierney,26,Écosse,Arrière gauche,ArG,"25,00 mio. €",Real Sociedad,Espagne,"Montant du prêt:1,40 mio. €",,Arsenal FC
+Rob HoldingR. Holding,27,Angleterre,Défenseur central,DC,"8,00 mio. €",Crystal Palace,Angleterre,"1,20 mio. €",,Arsenal FC
+Nuno TavaresN. Tavares,23,Portugal,Arrière gauche,ArG,"18,00 mio. €",Nottingham Forest,Angleterre,"Montant du prêt:1,15 mio. €",,Arsenal FC
+MarquinhosMarquinhos,20,Brésil,Ailier droit,AiD,"10,00 mio. €",FC Nantes,France,Montant du prêt:300 K €,,Arsenal FC
+Nicolas PépéN. Pépé,28,Côte d'Ivoire,Ailier droit,AiD,"14,00 mio. €",Trabzonspor,Turquie,Tr. libre,,Arsenal FC
+Ainsley Maitland-NilesA. Maitland-Niles,25,Angleterre,Milieu central,MC,"6,00 mio. €",Olympique Lyonnais,France,Tr. libre,,Arsenal FC
+Rúnar Alex RúnarssonR. Rúnarsson,28,Islande,Gardien de but,GdB,"1,00 mio. €",Cardiff City,Angleterre,Prêt,,Arsenal FC
+Arthur OkonkwoA. Okonkwo,21,Angleterre,Gardien de but,GdB,"2,00 mio. €",Wrexham AFC,Angleterre,Prêt,,Arsenal FC
+Albert Sambi LokongaA. Lokonga,23,Belgique,Milieu central,MC,"15,00 mio. €",Luton Town,Angleterre,Prêt,,Arsenal FC
+Moussa DiabyM. Diaby,24,France,Ailier droit,AiD,"55,00 mio. €",Bayer 04 Leverkusen,Allemagne,"55,00 mio. €",Aston Villa,
+Pau TorresP. Torres,26,Espagne,Défenseur central,DC,"45,00 mio. €",Villarreal CF,Espagne,"33,00 mio. €",Aston Villa,
+Nicolò ZanioloN. Zaniolo,24,Italie,Milieu offensif,MO,"27,00 mio. €",Galatasaray,Turquie,"Montant du prêt:5,00 mio. €",Aston Villa,
+Youri TielemansY. Tielemans,26,Belgique,Milieu central,MC,"20,00 mio. €",Leicester City,Angleterre,Tr. libre,Aston Villa,
+Clément LengletC. Lenglet,28,France,Défenseur central,DC,"10,00 mio. €",FC Barcelone,Espagne,Prêt,Aston Villa,
+Viljami SinisaloV. Sinisalo,22,Finlande,Gardien de but,GdB,500 K €,Exeter City,Angleterre,Fin du prêt31 mai 2024,Aston Villa,
+Morgan SansonM. Sanson,28,France,Milieu central,MC,"7,00 mio. €",RC Strasbourg Alsace,France,Fin du prêt30 juin 2023,Aston Villa,
+Wesley MoraesWesley Moraes,26,Brésil,Avant-centre,AC,"2,50 mio. €",UD Levante,Espagne,Fin du prêt30 juin 2023,Aston Villa,
+Cameron ArcherC. Archer,21,Angleterre,Avant-centre,AC,"18,00 mio. €",Sheffield United,Angleterre,"21,55 mio. €",,Aston Villa
+Jaden PhilogeneJ. Philogene,21,Angleterre,Ailier gauche,AiG,"5,00 mio. €",Hull City,Angleterre,"5,80 mio. €",,Aston Villa
+Marvelous NakambaM. Nakamba,29,Zimbabwe,Milieu défensif,MDC,"4,00 mio. €",Luton Town,Angleterre,"2,90 mio. €",,Aston Villa
+Keinan DavisK. Davis,25,Angleterre,Avant-centre,AC,"3,00 mio. €",Udinese Calcio,Italie,"2,30 mio. €",,Aston Villa
+Ashley YoungA. Young,38,Angleterre,Arrière gauche,ArG,600 K €,FC Everton,Angleterre,Tr. libre,,Aston Villa
+Wesley MoraesWesley Moraes,26,Brésil,Avant-centre,AC,"2,50 mio. €",Stoke City,Angleterre,?,,Aston Villa
+Philippe CoutinhoP. Coutinho,31,Brésil,Milieu offensif,MO,"10,00 mio. €",Al-Duhail SC,Qatar,Prêt,,Aston Villa
+Morgan SansonM. Sanson,28,France,Milieu central,MC,"7,00 mio. €",OGC Nice,France,Prêt,,Aston Villa
+Viljami SinisaloV. Sinisalo,21,Finlande,Gardien de but,GdB,500 K €,Exeter City,Angleterre,Prêt,,Aston Villa
+Jed SteerJed Steer,30,Angleterre,Gardien de but,GdB,400 K €,Sans club,   Sans club,-,,Aston Villa
+Tyler AdamsT. Adams,24,États-Unis,Milieu défensif,MDC,"20,00 mio. €",Leeds United,Angleterre,"26,90 mio. €",AFC Bournemouth,
+Hamed Junior TraorèH. Traorè,23,Côte d'Ivoire,Milieu offensif,MO,"22,00 mio. €",US Sassuolo,Italie,"25,62 mio. €",AFC Bournemouth,
+Alex ScottA. Scott,19,Angleterre,Milieu central,MC,"20,00 mio. €",Bristol City,Angleterre,"23,00 mio. €",AFC Bournemouth,
+Milos KerkezM. Kerkez,19,Hongrie,Arrière gauche,ArG,"18,00 mio. €",AZ Alkmaar,Pays-Bas,"17,87 mio. €",AFC Bournemouth,
+Romain FaivreR. Faivre,24,France,Milieu droit,MD,"15,00 mio. €",Olympique Lyonnais,France,"15,00 mio. €",AFC Bournemouth,
+Justin KluivertJ. Kluivert,24,Pays-Bas,Ailier gauche,AiG,"14,00 mio. €",AS Roma,Italie,"11,20 mio. €",AFC Bournemouth,
+Max AaronsM. Aarons,23,Angleterre,Arrière droit,ArD,"16,00 mio. €",Norwich City,Angleterre,"8,10 mio. €",AFC Bournemouth,
+Luis SinisterraL. Sinisterra,24,Colombie,Ailier gauche,AiG,"20,00 mio. €",Leeds United,Angleterre,Prêt,AFC Bournemouth,
+Ionuț RaduI. Radu,26,Roumanie,Gardien de but,GdB,"3,50 mio. €",Inter Milan,Italie,Prêt,AFC Bournemouth,
+James HillJ. Hill,22,Angleterre,Défenseur central,DC,"1,00 mio. €",Blackburn Rovers,Angleterre,Fin du prêt31 mai 2024,AFC Bournemouth,
+Jaidon AnthonyJ. Anthony,24,Angleterre,Ailier gauche,AiG,"9,00 mio. €",Leeds United,Angleterre,Fin du prêt31 mai 2024,AFC Bournemouth,
+James HillJ. Hill,21,Angleterre,Défenseur central,DC,"1,00 mio. €",Heart of Midlothian FC,Écosse,Fin du prêt30 juin 2023,AFC Bournemouth,
+Mark TraversM. Travers,24,Irlande,Gardien de but,GdB,"3,50 mio. €",Stoke City,Angleterre,Fin du prêt27 oct. 2023,AFC Bournemouth,
+Will DennisW. Dennis,23,Angleterre,Gardien de but,GdB,150 K €,Kilmarnock FC,Écosse,Fin du prêt31 mai 2024,AFC Bournemouth,
+Siriki DembéléS. Dembélé,26,Écosse,Ailier gauche,AiG,"2,00 mio. €",AJ Auxerre,France,Fin du prêt30 juin 2023,AFC Bournemouth,
+Jamal LoweJ. Lowe,28,Jamaïque,Ailier droit,AiD,"1,50 mio. €",Queens Park Rangers,Angleterre,Fin du prêt30 juin 2023,AFC Bournemouth,
+Emiliano MarcondesE. Marcondes,28,Danemark,Milieu offensif,MO,"1,50 mio. €",FC Nordsjaelland,Danemark,Fin du prêt30 juin 2023,AFC Bournemouth,
+Ben PearsonB. Pearson,28,Angleterre,Milieu défensif,MDC,"2,20 mio. €",Stoke City,Angleterre,"1,50 mio. €",,AFC Bournemouth
+Jordan ZemuraJ. Zemura,23,Zimbabwe,Arrière gauche,ArG,"6,00 mio. €",Udinese Calcio,Italie,Tr. libre,,AFC Bournemouth
+Jack StaceyJ. Stacey,27,Angleterre,Arrière droit,ArD,"2,20 mio. €",Norwich City,Angleterre,Tr. libre,,AFC Bournemouth
+Jefferson LermaJ. Lerma,28,Colombie,Milieu défensif,MDC,"20,00 mio. €",Crystal Palace,Angleterre,Tr. libre,,AFC Bournemouth
+Christian SaydeeC. Saydee,21,Angleterre,Avant-centre,AC,400 K €,FC Portsmouth,Angleterre,?,,AFC Bournemouth
+Siriki DembéléS. Dembélé,26,Écosse,Ailier gauche,AiG,"2,00 mio. €",Birmingham City,Angleterre,?,,AFC Bournemouth
+Will DennisW. Dennis,22,Angleterre,Gardien de but,GdB,150 K €,Kilmarnock FC,Écosse,Prêt,,AFC Bournemouth
+Jamal LoweJ. Lowe,29,Jamaïque,Ailier droit,AiD,"1,50 mio. €",Swansea City,Angleterre,Prêt,,AFC Bournemouth
+Romain FaivreR. Faivre,25,France,Milieu droit,MD,"15,00 mio. €",FC Lorient,France,Prêt,,AFC Bournemouth
+Jaidon AnthonyJ. Anthony,23,Angleterre,Ailier gauche,AiG,"9,00 mio. €",Leeds United,Angleterre,Prêt,,AFC Bournemouth
+Mark TraversM. Travers,24,Irlande,Gardien de but,GdB,"3,50 mio. €",Stoke City,Angleterre,Prêt,,AFC Bournemouth
+James HillJ. Hill,21,Angleterre,Défenseur central,DC,"1,00 mio. €",Blackburn Rovers,Angleterre,Prêt,,AFC Bournemouth
+Junior StanislasJ. Stanislas,33,Angleterre,Ailier gauche,AiG,-,Sans club,   Sans club,-,,AFC Bournemouth
+Luis SinisterraL. Sinisterra,24,Colombie,Ailier gauche,AiG,"20,00 mio. €",Leeds United,Angleterre,Fin du prêt31 mai 2024,,AFC Bournemouth
+Hamed Junior TraorèH. Traorè,23,Côte d'Ivoire,Milieu offensif,MO,"22,00 mio. €",US Sassuolo,Italie,Fin du prêt30 juin 2023,,AFC Bournemouth
+Matías ViñaM. Viña,25,Uruguay,Arrière gauche,ArG,"8,00 mio. €",AS Roma,Italie,Fin du prêt30 juin 2023,,AFC Bournemouth
+Nathan CollinsN. Collins,22,Irlande,Défenseur central,DC,"22,00 mio. €",Wolverhampton Wanderers,Angleterre,"26,85 mio. €",FC Brentford,
+Kevin SchadeK. Schade,21,Allemagne,Ailier droit,AiD,"25,00 mio. €",SC Fribourg,Allemagne,"25,00 mio. €",FC Brentford,
+Mark FlekkenM. Flekken,30,Pays-Bas,Gardien de but,GdB,"12,00 mio. €",SC Fribourg,Allemagne,"13,00 mio. €",FC Brentford,
+Neal MaupayN. Maupay,27,France,Avant-centre,AC,"10,00 mio. €",FC Everton,Angleterre,Prêt,FC Brentford,
+Ryan TrevittR. Trevitt,20,Angleterre,Milieu central,MC,100 K €,FC Brentford B,Angleterre,-,FC Brentford,
+Yegor YarmolyukY. Yarmolyuk,19,Ukraine,Milieu offensif,MO,"1,00 mio. €",FC Brentford B,Angleterre,-,FC Brentford,
+Paris MaghomaP. Maghoma,23,Angleterre,Milieu central,MC,350 K €,Bolton Wanderers,Angleterre,Fin du prêt31 mai 2024,FC Brentford,
+Fin StevensF. Stevens,21,Pays de Galles,Arrière droit,ArD,300 K €,Oxford United,Angleterre,Fin du prêt31 mai 2024,FC Brentford,
+Matthew CoxM. Cox,21,Angleterre,Gardien de but,GdB,500 K €,Bristol Rovers,Angleterre,Fin du prêt31 mai 2024,FC Brentford,
+Ryan TrevittR. Trevitt,21,Angleterre,Milieu central,MC,100 K €,Exeter City,Angleterre,Fin du prêt31 mai 2024,FC Brentford,
+Mads BidstrupM. Bidstrup,22,Danemark,Milieu central,MC,"7,50 mio. €",FC Nordsjaelland,Danemark,Fin du prêt30 juin 2023,FC Brentford,
+Sergi CanósS. Canós,26,Espagne,Ailier droit,AiD,"4,00 mio. €",Olympiakós Le Pirée,Grèce,Fin du prêt30 juin 2023,FC Brentford,
+Mads Bech SörensenM. Bech Sörensen,24,Danemark,Défenseur central,DC,"2,50 mio. €",FC Groningen,Pays-Bas,Fin du prêt30 juin 2023,FC Brentford,
+Joel ValenciaJ. Valencia,28,Équateur,Milieu offensif,MO,300 K €,De Graafschap Doetinchem,Pays-Bas,Fin du prêt30 juin 2023,FC Brentford,
+Mads BidstrupM. Bidstrup,22,Danemark,Milieu central,MC,"7,50 mio. €",Red Bull Salzbourg,Autriche,"6,00 mio. €",,FC Brentford
+David RayaD. Raya,27,Espagne,Gardien de but,GdB,"32,00 mio. €",Arsenal FC,Angleterre,"Montant du prêt:3,34 mio. €",,FC Brentford
+Halil DervişoğluH. Dervişoğlu,23,Turquie,Avant-centre,AC,"1,80 mio. €",Galatasaray,Turquie,500 K €,,FC Brentford
+Sergi CanósS. Canós,26,Espagne,Ailier droit,AiD,"4,00 mio. €",FC Valencia,Espagne,250 K €,,FC Brentford
+Pontus JanssonP. Jansson,32,Suède,Défenseur central,DC,"2,00 mio. €",Malmö FF,Suède,Tr. libre,,FC Brentford
+Joel ValenciaJ. Valencia,28,Équateur,Milieu offensif,MO,300 K €,Zaglebie Sosnowiec,Pologne,Tr. libre,,FC Brentford
+Mads Bech SörensenM. Bech Sörensen,24,Danemark,Défenseur central,DC,"2,50 mio. €",FC Midtjylland,Danemark,?,,FC Brentford
+Matthew CoxM. Cox,20,Angleterre,Gardien de but,GdB,500 K €,Bristol Rovers,Angleterre,Prêt,,FC Brentford
+Paris MaghomaP. Maghoma,22,Angleterre,Milieu central,MC,350 K €,Bolton Wanderers,Angleterre,Prêt,,FC Brentford
+Ryan TrevittR. Trevitt,20,Angleterre,Milieu central,MC,100 K €,Exeter City,Angleterre,Prêt,,FC Brentford
+Tariqe FosuT. Fosu,27,Ghana,Ailier gauche,AiG,"1,50 mio. €",Sans club,   Sans club,-,,FC Brentford
+Fin StevensF. Stevens,20,Pays de Galles,Arrière droit,ArD,300 K €,Oxford United,Angleterre,Prêt,,FC Brentford
+Kevin SchadeK. Schade,21,Allemagne,Ailier droit,AiD,"25,00 mio. €",SC Fribourg,Allemagne,Fin du prêt30 juin 2023,,FC Brentford
+João PedroJoão Pedro,21,Brésil,Avant-centre,AC,"32,00 mio. €",FC Watford,Angleterre,"34,20 mio. €",Brighton & Hove Albion,
+Carlos BalebaC. Baleba,19,Cameroun,Milieu défensif,MDC,"20,00 mio. €",LOSC Lille,France,"27,00 mio. €",Brighton & Hove Albion,
+Bart VerbruggenB. Verbruggen,20,Pays-Bas,Gardien de but,GdB,"15,00 mio. €",RSC Anderlecht,Belgique,"20,00 mio. €",Brighton & Hove Albion,
+IgorIgor,25,Brésil,Défenseur central,DC,"15,00 mio. €",ACF Fiorentina,Italie,"17,00 mio. €",Brighton & Hove Albion,
+Adrian MaziluA. Mazilu,18,Roumanie,Ailier droit,AiD,"2,00 mio. €",FCV Farul Constanta,Roumanie,"3,00 mio. €",Brighton & Hove Albion,
+Mahmoud DahoudM. Dahoud,27,Allemagne,Milieu central,MC,"12,00 mio. €",Borussia Dortmund,Allemagne,Tr. libre,Brighton & Hove Albion,
+James MilnerJ. Milner,37,Angleterre,Milieu central,MC,"1,50 mio. €",FC Liverpool,Angleterre,Tr. libre,Brighton & Hove Albion,
+Ansu FatiAnsu Fati,20,Espagne,Ailier gauche,AiG,"35,00 mio. €",FC Barcelone,Espagne,Prêt,Brighton & Hove Albion,
+Carl RushworthC. Rushworth,21,Angleterre,Gardien de but,GdB,"2,00 mio. €",Brighton & Hove Albion U21,Angleterre,-,Brighton & Hove Albion,
+Ed TurnsEd Turns,20,Pays de Galles,Défenseur central,DC,350 K €,Brighton & Hove Albion U21,Angleterre,-,Brighton & Hove Albion,
+Marc LeonardM. Leonard,21,Écosse,Milieu central,MC,300 K €,Brighton & Hove Albion U21,Angleterre,-,Brighton & Hove Albion,
+Reda KhadraR. Khadra,21,Allemagne,Milieu offensif,MO,"1,80 mio. €",Brighton & Hove Albion U21,Angleterre,-,Brighton & Hove Albion,
+Jensen WeirJ. Weir,21,Angleterre,Milieu central,MC,450 K €,Brighton & Hove Albion U21,Angleterre,-,Brighton & Hove Albion,
+Andy MoranA. Moran,19,Irlande,Milieu offensif,MO,"1,20 mio. €",Brighton & Hove Albion U21,Angleterre,-,Brighton & Hove Albion,
+Andi ZeqiriA. Zeqiri,24,Suisse,Avant-centre,AC,"4,50 mio. €",FC Bâle 1893,Suisse,Fin du prêt30 juin 2023,Brighton & Hove Albion,
+Michal KarbownikM. Karbownik,22,Pologne,Arrière gauche,ArG,"4,00 mio. €",Fortuna Düsseldorf,Allemagne,Fin du prêt30 juin 2023,Brighton & Hove Albion,
+Jeremy SarmientoJ. Sarmiento,21,Équateur,Milieu offensif,MO,"5,00 mio. €",West Bromwich Albion,Angleterre,Fin du prêt31 mai 2024,Brighton & Hove Albion,
+Steven AlzateS. Alzate,24,Colombie,Milieu central,MC,"5,00 mio. €",Standard de Liège,Belgique,Fin du prêt30 juin 2023,Brighton & Hove Albion,
+Abdallah SimaA. Sima,22,Sénégal,Ailier droit,AiD,"6,00 mio. €",Angers SCO,France,Fin du prêt30 juin 2023,Brighton & Hove Albion,
+Kacper KozlowskiK. Kozlowski,19,Pologne,Milieu central,MC,"5,00 mio. €",Vitesse Arnhem,Pays-Bas,Fin du prêt30 juin 2023,Brighton & Hove Albion,
+Simon AdingraS. Adingra,21,Côte d'Ivoire,Ailier gauche,AiG,"15,00 mio. €",Royale Union Saint-Gilloise,Belgique,Fin du prêt30 juin 2023,Brighton & Hove Albion,
+Andy MoranA. Moran,20,Irlande,Milieu offensif,MO,"1,20 mio. €",Blackburn Rovers,Angleterre,Fin du prêt31 mai 2024,Brighton & Hove Albion,
+Kjell ScherpenK. Scherpen,23,Pays-Bas,Gardien de but,GdB,"2,00 mio. €",Vitesse Arnhem,Pays-Bas,Fin du prêt30 juin 2023,Brighton & Hove Albion,
+Yasin AyariY. Ayari,20,Suède,Milieu central,MC,"6,00 mio. €",Coventry City,Angleterre,Fin du prêt31 mai 2024,Brighton & Hove Albion,
+Abdallah SimaA. Sima,22,Sénégal,Ailier droit,AiD,"6,00 mio. €",Glasgow Rangers,Écosse,Fin du prêt31 mai 2024,Brighton & Hove Albion,
+Ed TurnsEd Turns,21,Pays de Galles,Défenseur central,DC,350 K €,Leyton Orient,Angleterre,Fin du prêt31 mai 2024,Brighton & Hove Albion,
+Carl RushworthC. Rushworth,22,Angleterre,Gardien de but,GdB,"2,00 mio. €",Swansea City,Angleterre,Fin du prêt31 mai 2024,Brighton & Hove Albion,
+Marc LeonardM. Leonard,22,Écosse,Milieu central,MC,300 K €,Northampton Town,Angleterre,Fin du prêt31 mai 2024,Brighton & Hove Albion,
+Jensen WeirJ. Weir,22,Angleterre,Milieu central,MC,450 K €,Blackpool FC,Angleterre,Fin du prêt31 mai 2024,Brighton & Hove Albion,
+Moisés CaicedoM. Caicedo,21,Équateur,Milieu défensif,MDC,"90,00 mio. €",Chelsea FC,Angleterre,"116,00 mio. €",,Brighton & Hove Albion
+Alexis Mac AllisterA. Mac Allister,24,Argentine,Milieu central,MC,"65,00 mio. €",FC Liverpool,Angleterre,"42,00 mio. €",,Brighton & Hove Albion
+Robert SánchezR. Sánchez,25,Espagne,Gardien de but,GdB,"28,00 mio. €",Chelsea FC,Angleterre,"23,00 mio. €",,Brighton & Hove Albion
+Andi ZeqiriA. Zeqiri,24,Suisse,Avant-centre,AC,"4,50 mio. €",KRC Genk,Belgique,"2,75 mio. €",,Brighton & Hove Albion
+Michal KarbownikM. Karbownik,22,Pologne,Arrière gauche,ArG,"4,00 mio. €",Hertha BSC,Allemagne,"2,50 mio. €",,Brighton & Hove Albion
+Reda KhadraR. Khadra,22,Allemagne,Milieu offensif,MO,"1,80 mio. €",Stade de Reims,France,"1,90 mio. €",,Brighton & Hove Albion
+Aaron ConnollyA. Connolly,23,Irlande,Avant-centre,AC,"3,50 mio. €",Hull City,Angleterre,"1,35 mio. €",,Brighton & Hove Albion
+Deniz UndavD. Undav,27,Allemagne,Avant-centre,AC,"10,00 mio. €",VfB Stuttgart,Allemagne,Montant du prêt:700 K €,,Brighton & Hove Albion
+Haydon RobertsH. Roberts,21,Angleterre,Arrière gauche,ArG,700 K €,Bristol City,Angleterre,Tr. libre,,Brighton & Hove Albion
+Taylor RichardsT. Richards,22,Angleterre,Milieu central,MC,400 K €,Queens Park Rangers,Angleterre,?,,Brighton & Hove Albion
+Carl RushworthC. Rushworth,22,Angleterre,Gardien de but,GdB,"2,00 mio. €",Swansea City,Angleterre,Prêt,,Brighton & Hove Albion
+Marc LeonardM. Leonard,21,Écosse,Milieu central,MC,300 K €,Northampton Town,Angleterre,Prêt,,Brighton & Hove Albion
+Ed TurnsEd Turns,20,Pays de Galles,Défenseur central,DC,350 K €,Leyton Orient,Angleterre,Prêt,,Brighton & Hove Albion
+Steven AlzateS. Alzate,24,Colombie,Milieu central,MC,"5,00 mio. €",Standard de Liège,Belgique,Prêt,,Brighton & Hove Albion
+Jensen WeirJ. Weir,21,Angleterre,Milieu central,MC,450 K €,Blackpool FC,Angleterre,Prêt,,Brighton & Hove Albion
+Andy MoranA. Moran,19,Irlande,Milieu offensif,MO,"1,20 mio. €",Blackburn Rovers,Angleterre,Prêt,,Brighton & Hove Albion
+Yasin AyariY. Ayari,19,Suède,Milieu central,MC,"6,00 mio. €",Coventry City,Angleterre,Prêt,,Brighton & Hove Albion
+Abdallah SimaA. Sima,22,Sénégal,Ailier droit,AiD,"6,00 mio. €",Glasgow Rangers,Écosse,Prêt,,Brighton & Hove Albion
+Jeremy SarmientoJ. Sarmiento,21,Équateur,Milieu offensif,MO,"5,00 mio. €",West Bromwich Albion,Angleterre,Prêt,,Brighton & Hove Albion
+Kacper KozlowskiK. Kozlowski,19,Pologne,Milieu central,MC,"5,00 mio. €",Vitesse Arnhem,Pays-Bas,Prêt,,Brighton & Hove Albion
+Kjell ScherpenK. Scherpen,23,Pays-Bas,Gardien de but,GdB,"2,00 mio. €",SK Sturm Graz,Autriche,Prêt,,Brighton & Hove Albion
+Zeki AmdouniZ. Amdouni,22,Suisse,Avant-centre,AC,"15,00 mio. €",FC Bâle 1893,Suisse,"18,60 mio. €",Burnley FC,
+James TraffordJ. Trafford,20,Angleterre,Gardien de but,GdB,"15,00 mio. €",Manchester City U21,Angleterre,"17,30 mio. €",Burnley FC,
+Aaron RamseyA. Ramsey,20,Angleterre,Milieu offensif,MO,"15,00 mio. €",Aston Villa U21,Angleterre,"16,45 mio. €",Burnley FC,
+Jordan BeyerJ. Beyer,23,Allemagne,Défenseur central,DC,"16,00 mio. €",Borussia Mönchengladbach,Allemagne,"15,00 mio. €",Burnley FC,
+Sander BergeS. Berge,25,Norvège,Milieu défensif,MDC,"20,00 mio. €",Sheffield United,Angleterre,"13,90 mio. €",Burnley FC,
+Wilson OdobertW. Odobert,18,France,Ailier droit,AiD,"9,00 mio. €",ESTAC Troyes,France,"12,00 mio. €",Burnley FC,
+Dara O'SheaD. O'Shea,24,Irlande,Défenseur central,DC,"5,00 mio. €",West Bromwich Albion,Angleterre,"7,80 mio. €",Burnley FC,
+Michael ObafemiM. Obafemi,22,Irlande,Avant-centre,AC,"5,00 mio. €",Swansea City,Angleterre,"4,00 mio. €",Burnley FC,
+Hannes DelcroixH. Delcroix,24,Belgique,Défenseur central,DC,"2,00 mio. €",RSC Anderlecht,Belgique,"3,00 mio. €",Burnley FC,
+Luca KoleoshoL. Koleosho,18,Italie,Ailier gauche,AiG,"6,00 mio. €",RCD Espanyol B,Espagne,"3,00 mio. €",Burnley FC,
+Lawrence VigourouxL. Vigouroux,29,Chili,Gardien de but,GdB,300 K €,Leyton Orient,Angleterre,Tr. libre,Burnley FC,
+Han-Noah MassengoH. Massengo,22,France,Milieu défensif,MDC,"5,00 mio. €",Bristol City,Angleterre,Tr. libre,Burnley FC,
+Nathan RedmondN. Redmond,29,Angleterre,Ailier droit,AiD,"10,00 mio. €",Besiktas JK,Turquie,Tr. libre,Burnley FC,
+Mike TrésorM. Trésor,24,Belgique,Ailier gauche,AiG,"15,00 mio. €",KRC Genk,Belgique,Prêt,Burnley FC,
+Jacob Bruun LarsenJ. Bruun Larsen,24,Danemark,Ailier gauche,AiG,"3,00 mio. €",TSG 1899 Hoffenheim,Allemagne,Prêt,Burnley FC,
+Luke McNallyL. McNally,24,Irlande,Défenseur central,DC,"2,20 mio. €",Stoke City,Angleterre,Fin du prêt31 mai 2024,Burnley FC,
+Dara CostelloeD. Costelloe,21,Irlande,Ailier gauche,AiG,300 K €,St. Johnstone FC,Écosse,Fin du prêt31 mai 2024,Burnley FC,
+Scott TwineS. Twine,24,Angleterre,Milieu offensif,MO,"2,80 mio. €",Hull City,Angleterre,Fin du prêt31 mai 2024,Burnley FC,
+Enock AgyeiE. Agyei,18,Belgique,Ailier droit,AiD,800 K €,KV Mechelen,Belgique,Fin du prêt30 juin 2023,Burnley FC,
+Wout WeghorstW. Weghorst,30,Pays-Bas,Avant-centre,AC,"9,00 mio. €",Manchester United,Angleterre,Fin du prêt30 juin 2023,Burnley FC,
+Bobby ThomasB. Thomas,22,Angleterre,Défenseur central,DC,"2,00 mio. €",Coventry City,Angleterre,"2,30 mio. €",,Burnley FC
+Wout WeghorstW. Weghorst,31,Pays-Bas,Avant-centre,AC,"9,00 mio. €",TSG 1899 Hoffenheim,Allemagne,"Montant du prêt:1,50 mio. €",,Burnley FC
+Ashley BarnesA. Barnes,33,Angleterre,Avant-centre,AC,"1,00 mio. €",Norwich City,Angleterre,Tr. libre,,Burnley FC
+Will NorrisW. Norris,29,Angleterre,Gardien de but,GdB,350 K €,FC Portsmouth,Angleterre,Tr. libre,,Burnley FC
+Scott TwineS. Twine,24,Angleterre,Milieu offensif,MO,"2,80 mio. €",Hull City,Angleterre,Prêt,,Burnley FC
+Dara CostelloeD. Costelloe,20,Irlande,Ailier gauche,AiG,300 K €,St. Johnstone FC,Écosse,Prêt,,Burnley FC
+Samuel BastienS. Bastien,26,RD Congo,Milieu central,MC,"1,80 mio. €",Kasimpasa,Turquie,Prêt,,Burnley FC
+Luke McNallyL. McNally,23,Irlande,Défenseur central,DC,"2,20 mio. €",Stoke City,Angleterre,Prêt,,Burnley FC
+Matthew LowtonM. Lowton,34,Angleterre,Arrière droit,ArD,-,Sans club,   Sans club,-,,Burnley FC
+Bailey Peacock-FarrellB. Peacock-Farrell,26,Irlande du Nord,Gardien de but,GdB,"1,00 mio. €",Aarhus GF,Danemark,Prêt,,Burnley FC
+Jordan BeyerJ. Beyer,23,Allemagne,Défenseur central,DC,"16,00 mio. €",Borussia Mönchengladbach,Allemagne,Fin du prêt30 juin 2023,,Burnley FC
+Moisés CaicedoM. Caicedo,21,Équateur,Milieu défensif,MDC,"90,00 mio. €",Brighton & Hove Albion,Angleterre,"116,00 mio. €",Chelsea FC,
+Roméo LaviaR. Lavia,19,Belgique,Milieu défensif,MDC,"50,00 mio. €",FC Southampton,Angleterre,"62,10 mio. €",Chelsea FC,
+Christopher NkunkuC. Nkunku,25,France,Milieu offensif,MO,"80,00 mio. €",RasenBallsport Leipzig,Allemagne,"60,00 mio. €",Chelsea FC,
+Cole PalmerC. Palmer,21,Angleterre,Milieu offensif,MO,"32,00 mio. €",Manchester City,Angleterre,"47,00 mio. €",Chelsea FC,
+Axel DisasiA. Disasi,25,France,Défenseur central,DC,"40,00 mio. €",AS Monaco,France,"45,00 mio. €",Chelsea FC,
+Nicolas JacksonN. Jackson,22,Sénégal,Avant-centre,AC,"35,00 mio. €",Villarreal CF,Espagne,"37,00 mio. €",Chelsea FC,
+Lesley UgochukwuL. Ugochukwu,19,France,Milieu défensif,MDC,"25,00 mio. €",Stade Rennais FC,France,"27,00 mio. €",Chelsea FC,
+Robert SánchezR. Sánchez,25,Espagne,Gardien de but,GdB,"28,00 mio. €",Brighton & Hove Albion,Angleterre,"23,00 mio. €",Chelsea FC,
+Deivid WashingtonDeivid Washington,18,Brésil,Avant-centre,AC,"9,00 mio. €",Santos FC,Brésil,"16,00 mio. €",Chelsea FC,
+ÂngeloÂngelo,18,Brésil,Ailier droit,AiD,"15,00 mio. €",Santos FC,Brésil,"15,00 mio. €",Chelsea FC,
+Djordje PetrovicD. Petrovic,23,Serbie,Gardien de but,GdB,"9,00 mio. €",New England Revolution,États-Unis,"14,00 mio. €",Chelsea FC,
+Diego MoreiraD. Moreira,18,Portugal,Ailier gauche,AiG,"3,00 mio. €",SL Benfica B,Portugal,Tr. libre,Chelsea FC,
+Lucas BergströmL. Bergström,20,Finlande,Gardien de but,GdB,500 K €,Chelsea FC U21,Angleterre,-,Chelsea FC,
+Ian MaatsenI. Maatsen,21,Pays-Bas,Arrière gauche,ArG,"20,00 mio. €",Chelsea FC U21,Angleterre,-,Chelsea FC,
+Lewis HallL. Hall,18,Angleterre,Arrière gauche,ArG,"18,00 mio. €",Chelsea FC U21,Angleterre,-,Chelsea FC,
+Levi ColwillL. Colwill,20,Angleterre,Défenseur central,DC,"42,00 mio. €",Chelsea FC U21,Angleterre,-,Chelsea FC,
+Andrey SantosAndrey Santos,19,Brésil,Milieu défensif,MDC,"15,00 mio. €",Clube de Regatas Vasco da Gama,Brésil,Fin du prêt30 juin 2023,Chelsea FC,
+Lewis HallL. Hall,19,Angleterre,Arrière gauche,ArG,"18,00 mio. €",Newcastle United,Angleterre,Fin du prêt31 mai 2024,Chelsea FC,
+Malo GustoM. Gusto,20,France,Arrière droit,ArD,"25,00 mio. €",Olympique Lyonnais,France,Fin du prêt30 juin 2023,Chelsea FC,
+Andrey SantosAndrey Santos,20,Brésil,Milieu défensif,MDC,"15,00 mio. €",Nottingham Forest,Angleterre,Fin du prêt31 mai 2024,Chelsea FC,
+Ethan AmpaduE. Ampadu,22,Pays de Galles,Milieu défensif,MDC,"12,00 mio. €",Spezia Calcio,Italie,Fin du prêt30 juin 2023,Chelsea FC,
+Callum Hudson-OdoiC. Hudson-Odoi,22,Angleterre,Ailier gauche,AiG,"12,00 mio. €",Bayer 04 Leverkusen,Allemagne,Fin du prêt30 juin 2023,Chelsea FC,
+Malang SarrM. Sarr,24,France,Défenseur central,DC,"6,00 mio. €",AS Monaco,France,Fin du prêt30 juin 2023,Chelsea FC,
+Romelu LukakuR. Lukaku,30,Belgique,Avant-centre,AC,"40,00 mio. €",Inter Milan,Italie,Fin du prêt30 juin 2023,Chelsea FC,
+Tiemoué BakayokoT. Bakayoko,28,France,Milieu défensif,MDC,"2,50 mio. €",AC Milan,Italie,Fin du prêt30 juin 2023,Chelsea FC,
+Kai HavertzK. Havertz,24,Allemagne,Milieu offensif,MO,"60,00 mio. €",Arsenal FC,Angleterre,"75,00 mio. €",,Chelsea FC
+Mason MountM. Mount,24,Angleterre,Milieu offensif,MO,"60,00 mio. €",Manchester United,Angleterre,"64,20 mio. €",,Chelsea FC
+Mateo KovacicM. Kovacic,29,Croatie,Milieu central,MC,"38,00 mio. €",Manchester City,Angleterre,"29,10 mio. €",,Chelsea FC
+Kalidou KoulibalyK. Koulibaly,32,Sénégal,Défenseur central,DC,"12,00 mio. €",Al-Hilal SFC,Arabie Saoudite,"23,00 mio. €",,Chelsea FC
+Christian PulisicC. Pulisic,24,États-Unis,Ailier droit,AiD,"25,00 mio. €",AC Milan,Italie,"20,00 mio. €",,Chelsea FC
+Edouard MendyE. Mendy,31,Sénégal,Gardien de but,GdB,"10,00 mio. €",Al-Ahli SFC,Arabie Saoudite,"18,50 mio. €",,Chelsea FC
+Ruben Loftus-CheekR. Loftus-Cheek,27,Angleterre,Milieu central,MC,"25,00 mio. €",AC Milan,Italie,"18,40 mio. €",,Chelsea FC
+Ethan AmpaduE. Ampadu,22,Pays de Galles,Milieu défensif,MDC,"12,00 mio. €",Leeds United,Angleterre,"8,10 mio. €",,Chelsea FC
+Romelu LukakuR. Lukaku,30,Belgique,Avant-centre,AC,"40,00 mio. €",AS Roma,Italie,"Montant du prêt:5,80 mio. €",,Chelsea FC
+Callum Hudson-OdoiC. Hudson-Odoi,22,Angleterre,Ailier gauche,AiG,"12,00 mio. €",Nottingham Forest,Angleterre,"3,50 mio. €",,Chelsea FC
+Diego MoreiraD. Moreira,19,Portugal,Ailier gauche,AiG,"3,00 mio. €",Olympique Lyonnais,France,"Montant du prêt:2,80 mio. €",,Chelsea FC
+Kepa ArrizabalagaK. Arrizabalaga,28,Espagne,Gardien de but,GdB,"18,00 mio. €",Real Madrid,Espagne,"Montant du prêt:1,00 mio. €",,Chelsea FC
+Abdul Rahman BabaA. Baba,29,Ghana,Arrière gauche,ArG,"1,20 mio. €",PAOK Thessaloniki,Grèce,Tr. libre,,Chelsea FC
+César AzpilicuetaC. Azpilicueta,33,Espagne,Arrière droit,ArD,"5,00 mio. €",Atlético de Madrid,Espagne,Tr. libre,,Chelsea FC
+N'Golo KantéN. Kanté,32,France,Milieu défensif,MDC,"12,00 mio. €",Al-Ittihad Club,Arabie Saoudite,Tr. libre,,Chelsea FC
+Pierre-Emerick AubameyangP. Aubameyang,34,Gabon,Avant-centre,AC,"4,00 mio. €",Olympique de Marseille,France,Tr. libre,,Chelsea FC
+Tiemoué BakayokoT. Bakayoko,29,France,Milieu défensif,MDC,"2,50 mio. €",FC Lorient,France,Tr. libre,,Chelsea FC
+Hakim ZiyechH. Ziyech,30,Maroc,Ailier droit,AiD,"15,00 mio. €",Galatasaray,Turquie,Prêt,,Chelsea FC
+David Datro FofanaD. Fofana,20,Côte d'Ivoire,Avant-centre,AC,"10,00 mio. €",1.FC Union Berlin,Allemagne,Prêt,,Chelsea FC
+Lewis HallL. Hall,18,Angleterre,Arrière gauche,ArG,"18,00 mio. €",Newcastle United,Angleterre,Prêt,,Chelsea FC
+Gabriel SloninaG. Slonina,19,États-Unis,Gardien de but,GdB,"6,50 mio. €",KAS Eupen,Belgique,Prêt,,Chelsea FC
+ÂngeloÂngelo,18,Brésil,Ailier droit,AiD,"15,00 mio. €",RC Strasbourg Alsace,France,Prêt,,Chelsea FC
+Andrey SantosAndrey Santos,19,Brésil,Milieu défensif,MDC,"15,00 mio. €",Nottingham Forest,Angleterre,Prêt,,Chelsea FC
+João FélixJoão Félix,23,Portugal,Ailier gauche,AiG,"50,00 mio. €",Atlético de Madrid,Espagne,Fin du prêt30 juin 2023,,Chelsea FC
+Denis ZakariaD. Zakaria,26,Suisse,Milieu défensif,MDC,"20,00 mio. €",Juventus Turin,Italie,Fin du prêt30 juin 2023,,Chelsea FC
+Matheus FrançaMatheus França,19,Brésil,Milieu offensif,MO,"15,00 mio. €",Clube Regatas Flamengo,Brésil,"20,00 mio. €",Crystal Palace,
+Dean HendersonD. Henderson,26,Angleterre,Gardien de but,GdB,"18,00 mio. €",Manchester United,Angleterre,"17,50 mio. €",Crystal Palace,
+Rob HoldingR. Holding,27,Angleterre,Défenseur central,DC,"8,00 mio. €",Arsenal FC,Angleterre,"1,20 mio. €",Crystal Palace,
+Jefferson LermaJ. Lerma,28,Colombie,Milieu défensif,MDC,"20,00 mio. €",AFC Bournemouth,Angleterre,Tr. libre,Crystal Palace,
+Jack ButlandJ. Butland,30,Angleterre,Gardien de but,GdB,"2,00 mio. €",Manchester United,Angleterre,Fin du prêt30 juin 2023,Crystal Palace,
+Luke PlangeL. Plange,21,Angleterre,Avant-centre,AC,"1,00 mio. €",Carlisle United,Angleterre,Fin du prêt14 janv. 2024,Crystal Palace,
+Luka MilivojevicL. Milivojevic,32,Serbie,Milieu défensif,MDC,"2,00 mio. €",Shabab Al-Ahli Club,Émirats Arabes Unis,Tr. libre,,Crystal Palace
+Jack ButlandJ. Butland,30,Angleterre,Gardien de but,GdB,"2,00 mio. €",Glasgow Rangers,Écosse,Tr. libre,,Crystal Palace
+Wilfried ZahaW. Zaha,30,Côte d'Ivoire,Ailier gauche,AiG,"20,00 mio. €",Galatasaray,Turquie,Tr. libre,,Crystal Palace
+Vicente GuaitaV. Guaita,36,Espagne,Gardien de but,GdB,"1,00 mio. €",Celta Vigo,Espagne,Tr. libre,,Crystal Palace
+Luke PlangeL. Plange,20,Angleterre,Avant-centre,AC,"1,00 mio. €",Carlisle United,Angleterre,Prêt,,Crystal Palace
+James McArthurJ. McArthur,35,Écosse,Milieu central,MC,-,Fin de carrière,   Fin de carrière,-,,Crystal Palace
+BetoBeto,25,Portugal,Avant-centre,AC,"25,00 mio. €",Udinese Calcio,Italie,"25,00 mio. €",FC Everton,
+ChermitiChermiti,19,Portugal,Avant-centre,AC,"9,00 mio. €",Sporting CP,Portugal,"12,50 mio. €",FC Everton,
+Arnaut DanjumaA. Danjuma,26,Pays-Bas,Ailier gauche,AiG,"20,00 mio. €",Villarreal CF,Espagne,"Montant du prêt:3,00 mio. €",FC Everton,
+Ashley YoungA. Young,38,Angleterre,Arrière gauche,ArG,600 K €,Aston Villa,Angleterre,Tr. libre,FC Everton,
+Jack HarrisonJ. Harrison,26,Angleterre,Ailier droit,AiD,"22,00 mio. €",Leeds United,Angleterre,Prêt,FC Everton,
+Lewis DobbinL. Dobbin,20,Angleterre,Ailier gauche,AiG,900 K €,FC Everton U21,Angleterre,-,FC Everton,
+Tyler OnyangoT. Onyango,20,Angleterre,Milieu central,MC,450 K €,FC Everton U21,Angleterre,-,FC Everton,
+Thomas CannonT. Cannon,20,Irlande,Avant-centre,AC,"6,00 mio. €",FC Everton U21,Angleterre,-,FC Everton,
+João VirgíniaJ. Virgínia,23,Portugal,Gardien de but,GdB,600 K €,SC Cambuur Leeuwarden,Pays-Bas,Fin du prêt30 juin 2023,FC Everton,
+Jarrad BranthwaiteJ. Branthwaite,21,Angleterre,Défenseur central,DC,"18,00 mio. €",PSV Eindhoven,Pays-Bas,Fin du prêt30 juin 2023,FC Everton,
+Dele AlliDele Alli,27,Angleterre,Milieu offensif,MO,"5,00 mio. €",Besiktas JK,Turquie,Fin du prêt30 juin 2023,FC Everton,
+Jean-Philippe GbaminJ. Gbamin,27,Côte d'Ivoire,Milieu défensif,MDC,"4,00 mio. €",Trabzonspor,Turquie,Fin du prêt30 juin 2023,FC Everton,
+Mason HolgateM. Holgate,27,Angleterre,Défenseur central,DC,"7,00 mio. €",FC Southampton,Angleterre,Fin du prêt31 mai 2024,FC Everton,
+André GomesA. Gomes,29,Portugal,Milieu central,MC,"16,00 mio. €",LOSC Lille,France,Fin du prêt30 juin 2023,FC Everton,
+Niels NkounkouN. Nkounkou,22,France,Arrière gauche,ArG,"7,50 mio. €",AS Saint-Étienne,France,Fin du prêt30 juin 2023,FC Everton,
+Moise KeanM. Kean,23,Italie,Avant-centre,AC,"18,00 mio. €",Juventus Turin,Italie,Fin du prêt30 juin 2023,FC Everton,
+Moise KeanM. Kean,23,Italie,Avant-centre,AC,"18,00 mio. €",Juventus Turin,Italie,"30,00 mio. €",,FC Everton
+Alex IwobiA. Iwobi,27,Nigeria,Milieu offensif,MO,"28,00 mio. €",FC Fulham,Angleterre,"25,70 mio. €",,FC Everton
+Demarai GrayD. Gray,27,Jamaïque,Ailier gauche,AiG,"12,00 mio. €",Al-Ettifaq FC,Arabie Saoudite,"9,30 mio. €",,FC Everton
+Thomas CannonT. Cannon,20,Irlande,Avant-centre,AC,"6,00 mio. €",Leicester City,Angleterre,"8,80 mio. €",,FC Everton
+Ellis SimmsE. Simms,22,Angleterre,Avant-centre,AC,"6,00 mio. €",Coventry City,Angleterre,"7,00 mio. €",,FC Everton
+Niels NkounkouN. Nkounkou,22,France,Arrière gauche,ArG,"7,50 mio. €",AS Saint-Étienne,France,"2,00 mio. €",,FC Everton
+Asmir BegovicA. Begovic,36,Bosnie-Herzégovine,Gardien de but,GdB,400 K €,Queens Park Rangers,Angleterre,Tr. libre,,FC Everton
+Tom DaviesT. Davies,25,Angleterre,Milieu central,MC,"9,00 mio. €",Sheffield United,Angleterre,Tr. libre,,FC Everton
+Yerry MinaY. Mina,28,Colombie,Défenseur central,DC,"10,00 mio. €",ACF Fiorentina,Italie,Tr. libre,,FC Everton
+Mason HolgateM. Holgate,26,Angleterre,Défenseur central,DC,"7,00 mio. €",FC Southampton,Angleterre,Prêt,,FC Everton
+Neal MaupayN. Maupay,27,France,Avant-centre,AC,"10,00 mio. €",FC Brentford,Angleterre,Prêt,,FC Everton
+Jean-Philippe GbaminJ. Gbamin,27,Côte d'Ivoire,Milieu défensif,MDC,"4,00 mio. €",Sans club,   Sans club,-,,FC Everton
+Andros TownsendA. Townsend,31,Angleterre,Ailier droit,AiD,"1,50 mio. €",Sans club,   Sans club,-,,FC Everton
+Rúben VinagreR. Vinagre,24,Portugal,Arrière gauche,ArG,"3,50 mio. €",Sporting CP,Portugal,Fin du prêt30 juin 2023,,FC Everton
+Conor CoadyC. Coady,30,Angleterre,Défenseur central,DC,"8,00 mio. €",Wolverhampton Wanderers,Angleterre,Fin du prêt30 juin 2023,,FC Everton
+Jack HarrisonJ. Harrison,27,Angleterre,Ailier droit,AiD,"22,00 mio. €",Leeds United,Angleterre,Fin du prêt31 mai 2024,,FC Everton
+Alex IwobiA. Iwobi,27,Nigeria,Milieu offensif,MO,"28,00 mio. €",FC Everton,Angleterre,"25,70 mio. €",FC Fulham,
+Calvin BasseyC. Bassey,23,Nigeria,Défenseur central,DC,"15,00 mio. €",Ajax Amsterdam,Pays-Bas,"22,50 mio. €",FC Fulham,
+Timothy CastagneT. Castagne,27,Belgique,Arrière droit,ArD,"17,00 mio. €",Leicester City,Angleterre,"13,00 mio. €",FC Fulham,
+Raúl JiménezR. Jiménez,32,Mexique,Avant-centre,AC,"6,00 mio. €",Wolverhampton Wanderers,Angleterre,"6,40 mio. €",FC Fulham,
+Steven BendaS. Benda,24,Allemagne,Gardien de but,GdB,"1,00 mio. €",Swansea City,Angleterre,870 K €,FC Fulham,
+Adama TraoréA. Traoré,27,Espagne,Ailier droit,AiD,"10,00 mio. €",Wolverhampton Wanderers,Angleterre,Tr. libre,FC Fulham,
+Fodé Ballo-TouréF. Ballo-Touré,26,Sénégal,Arrière gauche,ArG,"3,50 mio. €",AC Milan,Italie,Prêt,FC Fulham,
+Luke HarrisL. Harris,18,Pays de Galles,Milieu offensif,MO,"1,00 mio. €",FC Fulham U21,Angleterre,-,FC Fulham,
+Jay StansfieldJ. Stansfield,20,Angleterre,Avant-centre,AC,"2,20 mio. €",FC Fulham U21,Angleterre,-,FC Fulham,
+Jay StansfieldJ. Stansfield,21,Angleterre,Avant-centre,AC,"2,20 mio. €",Birmingham City,Angleterre,Fin du prêt31 mai 2024,FC Fulham,
+Kevin MbabuK. Mbabu,28,Suisse,Arrière droit,ArD,"3,50 mio. €",Servette FC,Suisse,Fin du prêt30 juin 2023,FC Fulham,
+Ivan CavaleiroI. Cavaleiro,29,Angola,Ailier gauche,AiG,"2,50 mio. €",Alanyaspor,Turquie,Fin du prêt30 juin 2023,FC Fulham,
+Terence KongoloT. Kongolo,29,Pays-Bas,Défenseur central,DC,900 K €,Le Havre AC,France,Fin du prêt30 juin 2023,FC Fulham,
+Paulo GazzanigaP. Gazzaniga,31,Argentine,Gardien de but,GdB,"3,00 mio. €",Girona FC,Espagne,Fin du prêt30 juin 2023,FC Fulham,
+Joe BryanJoe Bryan,29,Angleterre,Arrière gauche,ArG,"2,20 mio. €",OGC Nice,France,Fin du prêt30 juin 2023,FC Fulham,
+Aleksandar MitrovicA. Mitrovic,28,Serbie,Avant-centre,AC,"28,00 mio. €",Al-Hilal SFC,Arabie Saoudite,"52,60 mio. €",,FC Fulham
+Shane DuffyS. Duffy,31,Irlande,Défenseur central,DC,"2,00 mio. €",Norwich City,Angleterre,Tr. libre,,FC Fulham
+Ivan CavaleiroI. Cavaleiro,29,Angola,Ailier gauche,AiG,"2,50 mio. €",LOSC Lille,France,Tr. libre,,FC Fulham
+Steven SessegnonS. Sessegnon,23,Angleterre,Arrière droit,ArD,800 K €,Wigan Athletic,Angleterre,Tr. libre,,FC Fulham
+Neeskens KebanoN. Kebano,31,RD Congo,Ailier gauche,AiG,"2,00 mio. €",Al-Jazira (Abu Dhabi),Émirats Arabes Unis,Tr. libre,,FC Fulham
+Joe BryanJoe Bryan,29,Angleterre,Arrière gauche,ArG,"2,20 mio. €",FC Millwall,Angleterre,Tr. libre,,FC Fulham
+Paulo GazzanigaP. Gazzaniga,31,Argentine,Gardien de but,GdB,"3,00 mio. €",Girona FC,Espagne,Tr. libre,,FC Fulham
+Anthony KnockaertA. Knockaert,31,France,Ailier droit,AiD,900 K €,Valenciennes FC,France,Tr. libre,,FC Fulham
+Kevin MbabuK. Mbabu,28,Suisse,Arrière droit,ArD,"3,50 mio. €",FC Augsburg,Allemagne,Prêt,,FC Fulham
+Jay StansfieldJ. Stansfield,20,Angleterre,Avant-centre,AC,"2,20 mio. €",Birmingham City,Angleterre,Prêt,,FC Fulham
+Terence KongoloT. Kongolo,29,Pays-Bas,Défenseur central,DC,900 K €,Rapid Vienne,Autriche,Prêt,,FC Fulham
+Manor SolomonM. Solomon,23,Israël,Ailier gauche,AiG,"18,00 mio. €",Shakhtar Donetsk,Ukraine,Fin du prêt30 juin 2023,,FC Fulham
+Cédric SoaresC. Soares,31,Portugal,Arrière droit,ArD,"3,00 mio. €",Arsenal FC,Angleterre,Fin du prêt30 juin 2023,,FC Fulham
+Layvin KurzawaL. Kurzawa,30,France,Arrière gauche,ArG,"3,00 mio. €",Paris Saint-Germain,France,Fin du prêt30 juin 2023,,FC Fulham
+Dominik SzoboszlaiD. Szoboszlai,22,Hongrie,Milieu central,MC,"70,00 mio. €",RasenBallsport Leipzig,Allemagne,"70,00 mio. €",FC Liverpool,
+Alexis Mac AllisterA. Mac Allister,24,Argentine,Milieu central,MC,"65,00 mio. €",Brighton & Hove Albion,Angleterre,"42,00 mio. €",FC Liverpool,
+Ryan GravenberchR. Gravenberch,21,Pays-Bas,Milieu central,MC,"35,00 mio. €",Bayern Munich,Allemagne,"40,00 mio. €",FC Liverpool,
+Wataru EndoW. Endo,30,Japon,Milieu défensif,MDC,"13,00 mio. €",VfB Stuttgart,Allemagne,"20,00 mio. €",FC Liverpool,
+Jarell QuansahJ. Quansah,20,Angleterre,Défenseur central,DC,"2,00 mio. €",FC Liverpool U21,Angleterre,-,FC Liverpool,
+Conor BradleyC. Bradley,19,Irlande du Nord,Arrière droit,ArD,"1,50 mio. €",FC Liverpool U21,Angleterre,-,FC Liverpool,
+Ben DoakBen Doak,17,Écosse,Ailier droit,AiD,"10,00 mio. €",FC Liverpool U18,Angleterre,-,FC Liverpool,
+Rhys WilliamsR. Williams,23,Angleterre,Défenseur central,DC,"2,00 mio. €",Aberdeen FC,Écosse,Fin du prêt31 mai 2024,FC Liverpool,
+Nathaniel PhillipsN. Phillips,26,Angleterre,Défenseur central,DC,"4,00 mio. €",Celtic Glasgow,Écosse,Fin du prêt3 janv. 2024,FC Liverpool,
+Calvin RamsayC. Ramsay,20,Écosse,Arrière droit,ArD,"5,00 mio. €",Preston North End,Angleterre,Fin du prêt31 mai 2024,FC Liverpool,
+Sepp van den BergS. van den Berg,21,Pays-Bas,Défenseur central,DC,"5,00 mio. €",FC Schalke 04,Allemagne,Fin du prêt30 juin 2023,FC Liverpool,
+FabinhoFabinho,29,Brésil,Milieu défensif,MDC,"38,00 mio. €",Al-Ittihad Club,Arabie Saoudite,"46,70 mio. €",,FC Liverpool
+Jordan HendersonJ. Henderson,33,Angleterre,Milieu central,MC,"8,00 mio. €",Al-Ettifaq FC,Arabie Saoudite,"14,00 mio. €",,FC Liverpool
+Alex Oxlade-ChamberlainA. Oxlade-Chamberlain,29,Angleterre,Milieu central,MC,"6,00 mio. €",Besiktas JK,Turquie,Tr. libre,,FC Liverpool
+Naby KeïtaN. Keïta,28,Guinée,Milieu central,MC,"9,00 mio. €",SV Werder Bremen,Allemagne,Tr. libre,,FC Liverpool
+James MilnerJ. Milner,37,Angleterre,Milieu central,MC,"1,50 mio. €",Brighton & Hove Albion,Angleterre,Tr. libre,,FC Liverpool
+Roberto FirminoRoberto Firmino,31,Brésil,Avant-centre,AC,"15,00 mio. €",Al-Ahli SFC,Arabie Saoudite,Tr. libre,,FC Liverpool
+Rhys WilliamsR. Williams,22,Angleterre,Défenseur central,DC,"2,00 mio. €",Aberdeen FC,Écosse,Prêt,,FC Liverpool
+Sepp van den BergS. van den Berg,21,Pays-Bas,Défenseur central,DC,"5,00 mio. €",1.FSV Mainz 05,Allemagne,Prêt,,FC Liverpool
+Fábio CarvalhoF. Carvalho,20,Portugal,Milieu offensif,MO,"16,00 mio. €",RasenBallsport Leipzig,Allemagne,Prêt,,FC Liverpool
+Nathaniel PhillipsN. Phillips,26,Angleterre,Défenseur central,DC,"4,00 mio. €",Celtic Glasgow,Écosse,Prêt,,FC Liverpool
+Calvin RamsayC. Ramsay,19,Écosse,Arrière droit,ArD,"5,00 mio. €",Preston North End,Angleterre,Prêt,,FC Liverpool
+Arthur MeloArthur Melo,26,Brésil,Milieu central,MC,"15,00 mio. €",Juventus Turin,Italie,Fin du prêt30 juin 2023,,FC Liverpool
+Ryan GilesR. Giles,23,Angleterre,Arrière gauche,ArG,"6,00 mio. €",Wolverhampton Wanderers,Angleterre,"5,85 mio. €",Luton Town,
+Tahith ChongT. Chong,23,Pays-Bas,Milieu offensif,MO,"4,50 mio. €",Birmingham City,Angleterre,"4,70 mio. €",Luton Town,
+Mads AndersenM. Andersen,25,Danemark,Défenseur central,DC,"3,00 mio. €",Barnsley FC,Angleterre,"3,50 mio. €",Luton Town,
+Jacob BrownJ. Brown,25,Écosse,Avant-centre,AC,"4,00 mio. €",Stoke City,Angleterre,"2,90 mio. €",Luton Town,
+Thomas KaminskiT. Kaminski,30,Belgique,Gardien de but,GdB,"2,80 mio. €",Blackburn Rovers,Angleterre,"2,90 mio. €",Luton Town,
+Marvelous NakambaM. Nakamba,29,Zimbabwe,Milieu défensif,MDC,"4,00 mio. €",Aston Villa,Angleterre,"2,90 mio. €",Luton Town,
+Ross BarkleyR. Barkley,29,Angleterre,Milieu central,MC,"4,50 mio. €",OGC Nice,France,Tr. libre,Luton Town,
+Chiedozie OgbeneC. Ogbene,26,Irlande,Ailier droit,AiD,"2,00 mio. €",Rotherham United,Angleterre,Tr. libre,Luton Town,
+Tim KrulTim Krul,35,Pays-Bas,Gardien de but,GdB,600 K €,Norwich City,Angleterre,?,Luton Town,
+Teden MengiT. Mengi,21,Angleterre,Défenseur central,DC,"2,00 mio. €",Manchester United,Angleterre,?,Luton Town,
+Albert Sambi LokongaA. Lokonga,23,Belgique,Milieu central,MC,"15,00 mio. €",Arsenal FC,Angleterre,Prêt,Luton Town,
+Andros TownsendA. Townsend,32,Angleterre,Ailier droit,AiD,"1,50 mio. €",Sans club,   Sans club,-,Luton Town,
+Issa KaboréI. Kaboré,22,Burkina Faso,Arrière droit,ArD,"7,00 mio. €",Manchester City,Angleterre,Prêt,Luton Town,
+Louie WatsonL. Watson,22,Irlande,Milieu central,MC,250 K €,Charlton Athletic,Angleterre,Fin du prêt31 mai 2024,Luton Town,
+Aribim PeppleA. Pepple,21,Canada,Avant-centre,AC,100 K €,Bromley FC,Angleterre,Fin du prêt31 mai 2024,Luton Town,
+Allan CampbellA. Campbell,25,Écosse,Milieu central,MC,"3,00 mio. €",FC Millwall,Angleterre,Fin du prêt31 mai 2024,Luton Town,
+Dion PereiraD. Pereira,25,Antigua-et-Barbuda,Ailier gauche,AiG,200 K €,Sutton United,Angleterre,Fin du prêt31 mai 2024,Luton Town,
+Admiral MuskweA. Muskwe,25,Zimbabwe,Avant-centre,AC,300 K €,Exeter City,Angleterre,Fin du prêt31 mai 2024,Luton Town,
+John McAteeJ. McAtee,24,Angleterre,Deuxième attaquant,2S,200 K €,Barnsley FC,Angleterre,Fin du prêt31 mai 2024,Luton Town,
+Joe TaylorJ. Taylor,21,Pays de Galles,Avant-centre,AC,250 K €,Colchester United,Angleterre,Fin du prêt31 mai 2024,Luton Town,
+Fred OnyedinmaF. Onyedinma,27,Nigeria,Milieu offensif,MO,500 K €,Rotherham United,Angleterre,Fin du prêt31 mai 2024,Luton Town,
+Jack WaltonJ. Walton,26,Angleterre,Gardien de but,GdB,400 K €,Dundee United FC,Écosse,Fin du prêt31 mai 2024,Luton Town,
+Elliot ThorpeE. Thorpe,23,Pays de Galles,Milieu central,MC,250 K €,Shrewsbury Town,Angleterre,Fin du prêt31 mai 2024,Luton Town,
+Sonny BradleyS. Bradley,31,Angleterre,Défenseur central,DC,600 K €,Derby County,Angleterre,Tr. libre,,Luton Town
+Harry IstedH. Isted,26,Angleterre,Gardien de but,GdB,350 K €,Charlton Athletic,Angleterre,Tr. libre,,Luton Town
+Carlos MendesC. Mendes,24,Guinée-Bissau,Ailier droit,AiD,350 K €,Bolton Wanderers,Angleterre,?,,Luton Town
+Elliot ThorpeE. Thorpe,22,Pays de Galles,Milieu central,MC,250 K €,Shrewsbury Town,Angleterre,Prêt,,Luton Town
+Aribim PeppleA. Pepple,20,Canada,Avant-centre,AC,100 K €,Bromley FC,Angleterre,Prêt,,Luton Town
+John McAteeJ. McAtee,24,Angleterre,Deuxième attaquant,2S,200 K €,Barnsley FC,Angleterre,Prêt,,Luton Town
+Joe TaylorJ. Taylor,20,Pays de Galles,Avant-centre,AC,250 K €,Colchester United,Angleterre,Prêt,,Luton Town
+Fred OnyedinmaF. Onyedinma,26,Nigeria,Milieu offensif,MO,500 K €,Rotherham United,Angleterre,Prêt,,Luton Town
+Louie WatsonL. Watson,22,Irlande,Milieu central,MC,250 K €,Charlton Athletic,Angleterre,Prêt,,Luton Town
+Admiral MuskweA. Muskwe,25,Zimbabwe,Avant-centre,AC,300 K €,Exeter City,Angleterre,Prêt,,Luton Town
+Dion PereiraD. Pereira,24,Antigua-et-Barbuda,Ailier gauche,AiG,200 K €,Sutton United,Angleterre,Prêt,,Luton Town
+Allan CampbellA. Campbell,25,Écosse,Milieu central,MC,"3,00 mio. €",FC Millwall,Angleterre,Prêt,,Luton Town
+Albert Sambi LokongaA. Lokonga,24,Belgique,Milieu central,MC,"15,00 mio. €",Arsenal FC,Angleterre,Fin du prêt31 mai 2024,,Luton Town
+Luke FreemanL. Freeman,31,Angleterre,Milieu offensif,MO,500 K €,Sans club,   Sans club,-,,Luton Town
+Henri LansburyH. Lansbury,32,Angleterre,Milieu central,MC,-,Fin de carrière,   Fin de carrière,-,,Luton Town
+Matt MaceyM. Macey,28,Angleterre,Gardien de but,GdB,350 K €,Sans club,   Sans club,-,,Luton Town
+Glen ReaGlen Rea,28,Irlande,Milieu défensif,MDC,200 K €,Sans club,   Sans club,-,,Luton Town
+Jack WaltonJ. Walton,25,Angleterre,Gardien de but,GdB,400 K €,Dundee United FC,Écosse,Prêt,,Luton Town
+Ethan HorvathE. Horvath,28,États-Unis,Gardien de but,GdB,"1,50 mio. €",Nottingham Forest,Angleterre,Fin du prêt30 juin 2023,,Luton Town
+Issa KaboréI. Kaboré,23,Burkina Faso,Arrière droit,ArD,"7,00 mio. €",Manchester City,Angleterre,Fin du prêt31 mai 2024,,Luton Town
+Josko GvardiolJ. Gvardiol,21,Croatie,Défenseur central,DC,"80,00 mio. €",RasenBallsport Leipzig,Allemagne,"90,00 mio. €",Manchester City,
+Matheus NunesM. Nunes,25,Portugal,Milieu central,MC,"55,00 mio. €",Wolverhampton Wanderers,Angleterre,"62,00 mio. €",Manchester City,
+Jérémy DokuJ. Doku,21,Belgique,Ailier gauche,AiG,"60,00 mio. €",Stade Rennais FC,France,"60,00 mio. €",Manchester City,
+Mateo KovacicM. Kovacic,29,Croatie,Milieu central,MC,"38,00 mio. €",Chelsea FC,Angleterre,"29,10 mio. €",Manchester City,
+Tommy DoyleT. Doyle,21,Angleterre,Milieu central,MC,"7,00 mio. €",Manchester City U21,Angleterre,-,Manchester City,
+Oscar BobbO. Bobb,19,Norvège,Ailier droit,AiD,"10,00 mio. €",Manchester City U21,Angleterre,-,Manchester City,
+James McAteeJ. McAtee,20,Angleterre,Milieu central,MC,"12,00 mio. €",Manchester City U21,Angleterre,-,Manchester City,
+Taylor Harwood-BellisT. Harwood-Bellis,22,Angleterre,Défenseur central,DC,"25,00 mio. €",FC Southampton,Angleterre,Fin du prêt31 mai 2024,Manchester City,
+Tommy DoyleT. Doyle,22,Angleterre,Milieu central,MC,"7,00 mio. €",Wolverhampton Wanderers,Angleterre,Fin du prêt31 mai 2024,Manchester City,
+Issa KaboréI. Kaboré,23,Burkina Faso,Arrière droit,ArD,"7,00 mio. €",Luton Town,Angleterre,Fin du prêt31 mai 2024,Manchester City,
+João CanceloJ. Cancelo,29,Portugal,Arrière droit,ArD,"50,00 mio. €",Bayern Munich,Allemagne,Fin du prêt30 juin 2023,Manchester City,
+James McAteeJ. McAtee,21,Angleterre,Milieu central,MC,"12,00 mio. €",Sheffield United,Angleterre,Fin du prêt31 mai 2024,Manchester City,
+Nahuel BustosN. Bustos,24,Argentine,Avant-centre,AC,"4,50 mio. €",CA Talleres,Argentine,Fin du prêt30 juin 2023,Manchester City,
+Issa KaboréI. Kaboré,22,Burkina Faso,Arrière droit,ArD,"7,00 mio. €",Olympique de Marseille,France,Fin du prêt30 juin 2023,Manchester City,
+Slobodan TedicS. Tedic,24,Serbie,Avant-centre,AC,600 K €,Charlton Athletic,Angleterre,Fin du prêt31 mai 2024,Manchester City,
+Yangel HerreraY. Herrera,25,Venezuela,Milieu central,MC,"10,00 mio. €",Girona FC,Espagne,Fin du prêt30 juin 2023,Manchester City,
+Cole PalmerC. Palmer,21,Angleterre,Milieu offensif,MO,"32,00 mio. €",Chelsea FC,Angleterre,"47,00 mio. €",,Manchester City
+Riyad MahrezR. Mahrez,32,Algérie,Ailier droit,AiD,"18,00 mio. €",Al-Ahli SFC,Arabie Saoudite,"35,00 mio. €",,Manchester City
+Aymeric LaporteA. Laporte,29,Espagne,Défenseur central,DC,"25,00 mio. €",Al-Nassr FC,Arabie Saoudite,"27,50 mio. €",,Manchester City
+Yangel HerreraY. Herrera,25,Venezuela,Milieu central,MC,"10,00 mio. €",Girona FC,Espagne,"5,00 mio. €",,Manchester City
+İlkay Gündoğanİ. Gündoğan,32,Allemagne,Milieu central,MC,"20,00 mio. €",FC Barcelone,Espagne,Tr. libre,,Manchester City
+Nahuel BustosN. Bustos,24,Argentine,Avant-centre,AC,"4,50 mio. €",CA Talleres,Argentine,Tr. libre,,Manchester City
+Benjamin MendyB. Mendy,29,France,Arrière gauche,ArG,"3,00 mio. €",FC Lorient,France,Tr. libre,,Manchester City
+James McAteeJ. McAtee,20,Angleterre,Milieu central,MC,"12,00 mio. €",Sheffield United,Angleterre,Prêt,,Manchester City
+Josh Wilson-EsbrandJ. Wilson-Esbrand,20,Angleterre,Arrière gauche,ArG,"1,50 mio. €",Stade de Reims,France,Prêt,,Manchester City
+João CanceloJ. Cancelo,29,Portugal,Arrière droit,ArD,"50,00 mio. €",FC Barcelone,Espagne,Prêt,,Manchester City
+Tommy DoyleT. Doyle,21,Angleterre,Milieu central,MC,"7,00 mio. €",Wolverhampton Wanderers,Angleterre,Prêt,,Manchester City
+Máximo PerroneM. Perrone,20,Argentine,Milieu défensif,MDC,"10,00 mio. €",UD Las Palmas,Espagne,Prêt,,Manchester City
+Slobodan TedicS. Tedic,23,Serbie,Avant-centre,AC,600 K €,Charlton Athletic,Angleterre,Prêt,,Manchester City
+Taylor Harwood-BellisT. Harwood-Bellis,21,Angleterre,Défenseur central,DC,"25,00 mio. €",FC Southampton,Angleterre,Prêt,,Manchester City
+Issa KaboréI. Kaboré,22,Burkina Faso,Arrière droit,ArD,"7,00 mio. €",Luton Town,Angleterre,Prêt,,Manchester City
+Rasmus HøjlundR. Højlund,20,Danemark,Avant-centre,AC,"65,00 mio. €",Atalanta BC,Italie,"75,00 mio. €",Manchester United,
+Mason MountM. Mount,24,Angleterre,Milieu offensif,MO,"60,00 mio. €",Chelsea FC,Angleterre,"64,20 mio. €",Manchester United,
+André OnanaA. Onana,27,Cameroun,Gardien de but,GdB,"40,00 mio. €",Inter Milan,Italie,"50,20 mio. €",Manchester United,
+Sofyan AmrabatS. Amrabat,27,Maroc,Milieu défensif,MDC,"30,00 mio. €",ACF Fiorentina,Italie,"Montant du prêt:10,00 mio. €",Manchester United,
+Altay BayındırA. Bayındır,25,Turquie,Gardien de but,GdB,"10,00 mio. €",Fenerbahce,Turquie,"5,00 mio. €",Manchester United,
+Jonny EvansJ. Evans,35,Irlande du Nord,Défenseur central,DC,"2,00 mio. €",Leicester City,Angleterre,Tr. libre,Manchester United,
+Sergio ReguilónS. Reguilón,26,Espagne,Arrière gauche,ArG,"10,00 mio. €",Tottenham Hotspur,Angleterre,Prêt,Manchester United,
+Brandon WilliamsB. Williams,23,Angleterre,Arrière gauche,ArG,"5,00 mio. €",Ipswich Town,Angleterre,Fin du prêt31 mai 2024,Manchester United,
+Matej KovarM. Kovar,23,Tchéquie,Gardien de but,GdB,"5,00 mio. €",AC Sparta Prague,Tchéquie,Fin du prêt30 juin 2023,Manchester United,
+Eric BaillyE. Bailly,29,Côte d'Ivoire,Défenseur central,DC,"4,00 mio. €",Olympique de Marseille,France,Fin du prêt30 juin 2023,Manchester United,
+Alex TellesA. Telles,30,Brésil,Arrière gauche,ArG,"7,00 mio. €",Sevilla FC,Espagne,Fin du prêt30 juin 2023,Manchester United,
+Dean HendersonD. Henderson,26,Angleterre,Gardien de but,GdB,"18,00 mio. €",Crystal Palace,Angleterre,"17,50 mio. €",,Manchester United
+Anthony ElangaA. Elanga,21,Suède,Ailier gauche,AiG,"18,00 mio. €",Nottingham Forest,Angleterre,"17,50 mio. €",,Manchester United
+FredFred,30,Brésil,Milieu central,MC,"20,00 mio. €",Fenerbahce,Turquie,"9,74 mio. €",,Manchester United
+Matej KovarM. Kovar,23,Tchéquie,Gardien de but,GdB,"5,00 mio. €",Bayer 04 Leverkusen,Allemagne,"5,00 mio. €",,Manchester United
+Alex TellesA. Telles,30,Brésil,Arrière gauche,ArG,"7,00 mio. €",Al-Nassr FC,Arabie Saoudite,"4,60 mio. €",,Manchester United
+Zidane IqbalZ. Iqbal,20,Irak,Milieu central,MC,"1,00 mio. €",FC Utrecht,Pays-Bas,"1,00 mio. €",,Manchester United
+Eric BaillyE. Bailly,29,Côte d'Ivoire,Défenseur central,DC,"4,00 mio. €",Besiktas JK,Turquie,Tr. libre,,Manchester United
+Teden MengiT. Mengi,21,Angleterre,Défenseur central,DC,"2,00 mio. €",Luton Town,Angleterre,?,,Manchester United
+Brandon WilliamsB. Williams,22,Angleterre,Arrière gauche,ArG,"5,00 mio. €",Ipswich Town,Angleterre,Prêt,,Manchester United
+Mason GreenwoodM. Greenwood,21,Angleterre,Ailier droit,AiD,"5,00 mio. €",FC Getafe,Espagne,Prêt,,Manchester United
+Álvaro CarrerasÁ. Carreras,20,Espagne,Arrière gauche,ArG,"7,00 mio. €",FC Granada,Espagne,Prêt,,Manchester United
+David de GeaD. de Gea,32,Espagne,Gardien de but,GdB,"8,00 mio. €",Sans club,   Sans club,-,,Manchester United
+Axel TuanzebeA. Tuanzebe,25,Angleterre,Défenseur central,DC,"3,50 mio. €",Sans club,   Sans club,-,,Manchester United
+Phil JonesP. Jones,31,Angleterre,Défenseur central,DC,"1,00 mio. €",Sans club,   Sans club,-,,Manchester United
+Marcel SabitzerM. Sabitzer,29,Autriche,Milieu central,MC,"20,00 mio. €",Bayern Munich,Allemagne,Fin du prêt30 juin 2023,,Manchester United
+Wout WeghorstW. Weghorst,30,Pays-Bas,Avant-centre,AC,"9,00 mio. €",Burnley FC,Angleterre,Fin du prêt30 juin 2023,,Manchester United
+Jack ButlandJ. Butland,30,Angleterre,Gardien de but,GdB,"2,00 mio. €",Crystal Palace,Angleterre,Fin du prêt30 juin 2023,,Manchester United
+Sandro TonaliS. Tonali,23,Italie,Milieu défensif,MDC,"60,00 mio. €",AC Milan,Italie,"64,00 mio. €",Newcastle United,
+Harvey BarnesH. Barnes,25,Angleterre,Ailier gauche,AiG,"35,00 mio. €",Leicester City,Angleterre,"44,00 mio. €",Newcastle United,
+Tino LivramentoT. Livramento,20,Angleterre,Arrière droit,ArD,"30,00 mio. €",FC Southampton,Angleterre,"37,20 mio. €",Newcastle United,
+Yankuba MintehY. Minteh,18,Gambie,Ailier droit,AiD,"8,00 mio. €",Odense Boldklub,Danemark,"8,00 mio. €",Newcastle United,
+Lewis HallL. Hall,18,Angleterre,Arrière gauche,ArG,"18,00 mio. €",Chelsea FC,Angleterre,Prêt,Newcastle United,
+Kell WattsK. Watts,24,Angleterre,Défenseur central,DC,300 K €,Wigan Athletic,Angleterre,Fin du prêt31 mai 2024,Newcastle United,
+Jamal LewisJ. Lewis,26,Irlande du Nord,Arrière gauche,ArG,"4,00 mio. €",FC Watford,Angleterre,Fin du prêt31 mai 2024,Newcastle United,
+Harrison AshbyH. Ashby,22,Écosse,Arrière droit,ArD,"1,00 mio. €",Swansea City,Angleterre,Fin du prêt31 mai 2024,Newcastle United,
+Ryan FraserR. Fraser,30,Écosse,Ailier gauche,AiG,"4,00 mio. €",FC Southampton,Angleterre,Fin du prêt31 mai 2024,Newcastle United,
+Chris WoodC. Wood,31,Nouvelle-Zélande,Avant-centre,AC,"8,00 mio. €",Nottingham Forest,Angleterre,Fin du prêt30 juin 2023,Newcastle United,
+Jeff HendrickJ. Hendrick,32,Irlande,Milieu central,MC,"1,20 mio. €",Sheffield Wednesday,Angleterre,Fin du prêt31 mai 2024,Newcastle United,
+Garang KuolG. Kuol,18,Australie,Ailier droit,AiD,800 K €,Heart of Midlothian FC,Écosse,Fin du prêt30 juin 2023,Newcastle United,
+Allan Saint-MaximinA. Saint-Maximin,26,France,Ailier gauche,AiG,"24,00 mio. €",Al-Ahli SFC,Arabie Saoudite,"27,20 mio. €",,Newcastle United
+Chris WoodC. Wood,31,Nouvelle-Zélande,Avant-centre,AC,"8,00 mio. €",Nottingham Forest,Angleterre,"17,00 mio. €",,Newcastle United
+Karl DarlowK. Darlow,32,Angleterre,Gardien de but,GdB,"1,00 mio. €",Leeds United,Angleterre,400 K €,,Newcastle United
+Isaac HaydenI. Hayden,28,Angleterre,Milieu défensif,MDC,"3,50 mio. €",Standard de Liège,Belgique,Prêt,,Newcastle United
+Jeff HendrickJ. Hendrick,31,Irlande,Milieu central,MC,"1,20 mio. €",Sheffield Wednesday,Angleterre,Prêt,,Newcastle United
+Ryan FraserR. Fraser,29,Écosse,Ailier gauche,AiG,"4,00 mio. €",FC Southampton,Angleterre,Prêt,,Newcastle United
+Garang KuolG. Kuol,18,Australie,Ailier droit,AiD,800 K €,FC Volendam,Pays-Bas,Prêt,,Newcastle United
+Harrison AshbyH. Ashby,21,Écosse,Arrière droit,ArD,"1,00 mio. €",Swansea City,Angleterre,Prêt,,Newcastle United
+Kell WattsK. Watts,23,Angleterre,Défenseur central,DC,300 K €,Wigan Athletic,Angleterre,Prêt,,Newcastle United
+Jamal LewisJ. Lewis,25,Irlande du Nord,Arrière gauche,ArG,"4,00 mio. €",FC Watford,Angleterre,Prêt,,Newcastle United
+Matty LongstaffM. Longstaff,23,Angleterre,Milieu central,MC,900 K €,Sans club,   Sans club,-,,Newcastle United
+Ciaran ClarkC. Clark,33,Irlande,Défenseur central,DC,600 K €,Sans club,   Sans club,-,,Newcastle United
+Lewis HallL. Hall,19,Angleterre,Arrière gauche,ArG,"18,00 mio. €",Chelsea FC,Angleterre,Fin du prêt31 mai 2024,,Newcastle United
+Yankuba MintehY. Minteh,18,Gambie,Ailier droit,AiD,"8,00 mio. €",Feyenoord Rotterdam,Pays-Bas,Prêt,,Newcastle United
+Ibrahim SangaréI. Sangaré,25,Côte d'Ivoire,Milieu défensif,MDC,"35,00 mio. €",PSV Eindhoven,Pays-Bas,"35,00 mio. €",Nottingham Forest,
+Anthony ElangaA. Elanga,21,Suède,Ailier gauche,AiG,"18,00 mio. €",Manchester United,Angleterre,"17,50 mio. €",Nottingham Forest,
+Chris WoodC. Wood,31,Nouvelle-Zélande,Avant-centre,AC,"8,00 mio. €",Newcastle United,Angleterre,"17,00 mio. €",Nottingham Forest,
+Andrew OmobamideleA. Omobamidele,21,Irlande,Défenseur central,DC,"11,00 mio. €",Norwich City,Angleterre,"12,85 mio. €",Nottingham Forest,
+MurilloMurillo,21,Brésil,Défenseur central,DC,"9,00 mio. €",Corinthians São Paulo,Brésil,"12,00 mio. €",Nottingham Forest,
+Nicolás DomínguezN. Domínguez,25,Argentine,Milieu central,MC,"17,00 mio. €",FC Bologna,Italie,"10,00 mio. €",Nottingham Forest,
+Matt TurnerM. Turner,29,États-Unis,Gardien de but,GdB,"10,00 mio. €",Arsenal FC,Angleterre,"8,15 mio. €",Nottingham Forest,
+Odysseas VlachodimosO. Vlachodimos,29,Grèce,Gardien de but,GdB,"10,00 mio. €",SL Benfica,Portugal,"4,90 mio. €",Nottingham Forest,
+Callum Hudson-OdoiC. Hudson-Odoi,22,Angleterre,Ailier gauche,AiG,"12,00 mio. €",Chelsea FC,Angleterre,"3,50 mio. €",Nottingham Forest,
+Nuno TavaresN. Tavares,23,Portugal,Arrière gauche,ArG,"18,00 mio. €",Arsenal FC,Angleterre,"Montant du prêt:1,15 mio. €",Nottingham Forest,
+Ola AinaOla Aina,26,Nigeria,Arrière droit,ArD,"5,00 mio. €",Torino FC,Italie,Tr. libre,Nottingham Forest,
+Divock OrigiD. Origi,28,Belgique,Avant-centre,AC,"6,00 mio. €",AC Milan,Italie,Prêt,Nottingham Forest,
+Gonzalo MontielG. Montiel,26,Argentine,Arrière droit,ArD,"12,00 mio. €",Sevilla FC,Espagne,Prêt,Nottingham Forest,
+Andrey SantosAndrey Santos,19,Brésil,Milieu défensif,MDC,"15,00 mio. €",Chelsea FC,Angleterre,Prêt,Nottingham Forest,
+Ethan HorvathE. Horvath,28,États-Unis,Gardien de but,GdB,"1,50 mio. €",Luton Town,Angleterre,Fin du prêt30 juin 2023,Nottingham Forest,
+Josh BowlerJ. Bowler,25,Angleterre,Ailier droit,AiD,"1,50 mio. €",Cardiff City,Angleterre,Fin du prêt31 mai 2024,Nottingham Forest,
+Ui-jo HwangU. Hwang,31,Corée du Sud,Avant-centre,AC,"4,80 mio. €",Norwich City,Angleterre,Fin du prêt31 mai 2024,Nottingham Forest,
+Richie LaryeaR. Laryea,28,Canada,Arrière droit,ArD,"2,50 mio. €",Vancouver Whitecaps FC,Canada,Fin du prêt31 déc. 2023,Nottingham Forest,
+Richie LaryeaR. Laryea,28,Canada,Arrière droit,ArD,"2,50 mio. €",Toronto FC,Canada,Fin du prêt30 juin 2023,Nottingham Forest,
+Loïc Mbe SohL. Mbe Soh,22,France,Défenseur central,DC,"2,00 mio. €",EA Guingamp,France,Fin du prêt30 juin 2023,Nottingham Forest,
+Brandon AguileraB. Aguilera,20,Costa Rica,Milieu offensif,MO,275 K €,Estoril Praia U23,Portugal,Fin du prêt30 juin 2023,Nottingham Forest,
+Jonathan PanzoJ. Panzo,23,Angleterre,Défenseur central,DC,"2,00 mio. €",Cardiff City,Angleterre,Fin du prêt31 mai 2024,Nottingham Forest,
+Mohamed DrägerM. Dräger,27,Tunisie,Arrière droit,ArD,700 K €,FC Lucerne,Suisse,Fin du prêt30 juin 2023,Nottingham Forest,
+Ui-jo HwangU. Hwang,30,Corée du Sud,Avant-centre,AC,"4,80 mio. €",FC Seoul,Corée du Sud,Fin du prêt30 juin 2023,Nottingham Forest,
+Lewis O'BrienL. O'Brien,24,Angleterre,Milieu central,MC,"6,00 mio. €",D.C. United,États-Unis,Fin du prêt16 juil. 2023,Nottingham Forest,
+Lewis O'BrienL. O'Brien,25,Angleterre,Milieu central,MC,"6,00 mio. €",Middlesbrough FC,Angleterre,Fin du prêt31 mai 2024,Nottingham Forest,
+Brennan JohnsonB. Johnson,22,Pays de Galles,Ailier droit,AiD,"48,00 mio. €",Tottenham Hotspur,Angleterre,"55,00 mio. €",,Nottingham Forest
+Sam SurridgeS. Surridge,24,Angleterre,Avant-centre,AC,"5,50 mio. €",Nashville SC,États-Unis,"5,80 mio. €",,Nottingham Forest
+Braian OjedaB. Ojeda,23,Paraguay,Milieu central,MC,"3,00 mio. €",Real Salt Lake City,États-Unis,"3,60 mio. €",,Nottingham Forest
+Mohamed DrägerM. Dräger,27,Tunisie,Arrière droit,ArD,700 K €,FC Bâle 1893,Suisse,420 K €,,Nottingham Forest
+Jack ColbackJ. Colback,33,Angleterre,Milieu défensif,MDC,600 K €,Queens Park Rangers,Angleterre,Tr. libre,,Nottingham Forest
+Jordan SmithJ. Smith,28,Angleterre,Gardien de but,GdB,250 K €,Stockport County,Angleterre,Tr. libre,,Nottingham Forest
+CafúCafú,30,Portugal,Milieu central,MC,600 K €,Rotherham United,Angleterre,Tr. libre,,Nottingham Forest
+Steve CookS. Cook,32,Angleterre,Défenseur central,DC,"1,80 mio. €",Queens Park Rangers,Angleterre,?,,Nottingham Forest
+Giulian BianconeG. Biancone,23,France,Arrière droit,ArD,"6,00 mio. €",Olympiakós Le Pirée,Grèce,?,,Nottingham Forest
+Josh BowlerJ. Bowler,24,Angleterre,Ailier droit,AiD,"1,50 mio. €",Cardiff City,Angleterre,Prêt,,Nottingham Forest
+Emmanuel DennisE. Dennis,25,Nigeria,Ailier gauche,AiG,"7,00 mio. €",Basaksehir FK,Turquie,Prêt,,Nottingham Forest
+Jonjo ShelveyJ. Shelvey,31,Angleterre,Milieu central,MC,"3,70 mio. €",Caykur Rizespor,Turquie,Prêt,,Nottingham Forest
+Alex MightenA. Mighten,21,Angleterre,Ailier gauche,AiG,600 K €,KV Kortrijk,Belgique,Prêt,,Nottingham Forest
+Ui-jo HwangU. Hwang,31,Corée du Sud,Avant-centre,AC,"4,80 mio. €",Norwich City,Angleterre,Prêt,,Nottingham Forest
+Remo FreulerR. Freuler,31,Suisse,Milieu central,MC,"6,50 mio. €",FC Bologna,Italie,Prêt,,Nottingham Forest
+Jonathan PanzoJ. Panzo,22,Angleterre,Défenseur central,DC,"2,00 mio. €",Cardiff City,Angleterre,Prêt,,Nottingham Forest
+Loïc Mbe SohL. Mbe Soh,22,France,Défenseur central,DC,"2,00 mio. €",Almere City FC,Pays-Bas,Prêt,,Nottingham Forest
+Lewis O'BrienL. O'Brien,24,Angleterre,Milieu central,MC,"6,00 mio. €",Middlesbrough FC,Angleterre,Prêt,,Nottingham Forest
+Omar RichardsO. Richards,25,Angleterre,Arrière gauche,ArG,"5,00 mio. €",Olympiakós Le Pirée,Grèce,Prêt,,Nottingham Forest
+Gustavo ScarpaG. Scarpa,29,Brésil,Milieu offensif,MO,"8,00 mio. €",Olympiakós Le Pirée,Grèce,Prêt,,Nottingham Forest
+Richie LaryeaR. Laryea,28,Canada,Arrière droit,ArD,"2,50 mio. €",Vancouver Whitecaps FC,Canada,Prêt,,Nottingham Forest
+Adnan KanuricA. Kanuric,22,Bosnie-Herzégovine,Gardien de but,GdB,150 K €,Sans club,   Sans club,-,,Nottingham Forest
+Lyle TaylorL. Taylor,33,Montserrat,Avant-centre,AC,300 K €,Sans club,   Sans club,-,,Nottingham Forest
+André AyewA. Ayew,33,Ghana,Ailier gauche,AiG,"1,20 mio. €",Sans club,   Sans club,-,,Nottingham Forest
+Jesse LingardJ. Lingard,30,Angleterre,Milieu offensif,MO,"6,00 mio. €",Sans club,   Sans club,-,,Nottingham Forest
+Andrey SantosAndrey Santos,20,Brésil,Milieu défensif,MDC,"15,00 mio. €",Chelsea FC,Angleterre,Fin du prêt31 mai 2024,,Nottingham Forest
+Renan LodiR. Lodi,25,Brésil,Arrière gauche,ArG,"20,00 mio. €",Atlético de Madrid,Espagne,Fin du prêt30 juin 2023,,Nottingham Forest
+Chris WoodC. Wood,31,Nouvelle-Zélande,Avant-centre,AC,"8,00 mio. €",Newcastle United,Angleterre,Fin du prêt30 juin 2023,,Nottingham Forest
+Keylor NavasK. Navas,36,Costa Rica,Gardien de but,GdB,"3,00 mio. €",Paris Saint-Germain,France,Fin du prêt30 juin 2023,,Nottingham Forest
+Cameron ArcherC. Archer,21,Angleterre,Avant-centre,AC,"18,00 mio. €",Aston Villa,Angleterre,"21,55 mio. €",Sheffield United,
+Gustavo HamerG. Hamer,26,Pays-Bas,Milieu défensif,MDC,"16,00 mio. €",Coventry City,Angleterre,"17,30 mio. €",Sheffield United,
+Vini SouzaV. Souza,24,Brésil,Milieu défensif,MDC,"12,00 mio. €",Lommel SK,Belgique,"12,50 mio. €",Sheffield United,
+Auston TrustyA. Trusty,24,États-Unis,Défenseur central,DC,"8,00 mio. €",Arsenal FC,Angleterre,"5,80 mio. €",Sheffield United,
+Bénie TraoréB. Traoré,20,Côte d'Ivoire,Avant-centre,AC,"4,00 mio. €",BK Häcken,Suède,"4,60 mio. €",Sheffield United,
+Anis SlimaneA. Slimane,22,Tunisie,Milieu central,MC,"2,50 mio. €",Bröndby IF,Danemark,"2,70 mio. €",Sheffield United,
+Tom DaviesT. Davies,25,Angleterre,Milieu central,MC,"9,00 mio. €",FC Everton,Angleterre,Tr. libre,Sheffield United,
+James McAteeJ. McAtee,20,Angleterre,Milieu central,MC,"12,00 mio. €",Manchester City,Angleterre,Prêt,Sheffield United,
+Yasser LarouciY. Larouci,22,Algérie,Arrière gauche,ArG,"3,50 mio. €",ESTAC Troyes,France,Prêt,Sheffield United,
+Luke ThomasL. Thomas,22,Angleterre,Arrière gauche,ArG,"12,00 mio. €",Leicester City,Angleterre,Prêt,Sheffield United,
+Iliman NdiayeI. Ndiaye,23,Sénégal,Deuxième attaquant,2S,"18,00 mio. €",Olympique de Marseille,France,"17,00 mio. €",,Sheffield United
+Sander BergeS. Berge,25,Norvège,Milieu défensif,MDC,"20,00 mio. €",Burnley FC,Angleterre,"13,90 mio. €",,Sheffield United
+Billy SharpB. Sharp,37,Angleterre,Avant-centre,AC,200 K €,Los Angeles Galaxy,États-Unis,Tr. libre,,Sheffield United
+Enda StevensE. Stevens,32,Irlande,Arrière gauche,ArG,600 K €,Stoke City,Angleterre,Tr. libre,,Sheffield United
+Jake EastwoodJ. Eastwood,26,Angleterre,Gardien de but,GdB,100 K €,Grimsby Town,Angleterre,?,,Sheffield United
+Jack O'ConnellJ. O'Connell,29,Angleterre,Défenseur central,DC,-,Fin de carrière,   Fin de carrière,-,,Sheffield United
+Kyron GordonK. Gordon,21,Angleterre,Défenseur central,DC,-,Sans club,   Sans club,-,,Sheffield United
+Luke ThomasL. Thomas,22,Angleterre,Arrière gauche,ArG,"12,00 mio. €",Leicester City,Angleterre,Fin du prêt31 mai 2024,,Sheffield United
+James McAteeJ. McAtee,21,Angleterre,Milieu central,MC,"12,00 mio. €",Manchester City,Angleterre,Fin du prêt31 mai 2024,,Sheffield United
+Brennan JohnsonB. Johnson,22,Pays de Galles,Ailier droit,AiD,"48,00 mio. €",Nottingham Forest,Angleterre,"55,00 mio. €",Tottenham Hotspur,
+James MaddisonJ. Maddison,26,Angleterre,Milieu offensif,MO,"70,00 mio. €",Leicester City,Angleterre,"46,30 mio. €",Tottenham Hotspur,
+Pedro PorroP. Porro,23,Espagne,Arrière droit,ArD,"40,00 mio. €",Sporting CP,Portugal,"40,00 mio. €",Tottenham Hotspur,
+Micky van de VenM. van de Ven,22,Pays-Bas,Défenseur central,DC,"40,00 mio. €",VfL Wolfsburg,Allemagne,"40,00 mio. €",Tottenham Hotspur,
+Dejan KulusevskiD. Kulusevski,23,Suède,Ailier droit,AiD,"50,00 mio. €",Juventus Turin,Italie,"30,00 mio. €",Tottenham Hotspur,
+Guglielmo VicarioG. Vicario,26,Italie,Gardien de but,GdB,"20,00 mio. €",FC Empoli,Italie,"19,00 mio. €",Tottenham Hotspur,
+Alejo VélizA. Véliz,19,Argentine,Avant-centre,AC,"11,00 mio. €",CA Rosario Central,Argentine,"15,00 mio. €",Tottenham Hotspur,
+Ashley PhillipsA. Phillips,18,Angleterre,Défenseur central,DC,"2,00 mio. €",Blackburn Rovers,Angleterre,"2,30 mio. €",Tottenham Hotspur,
+Manor SolomonM. Solomon,23,Israël,Ailier gauche,AiG,"18,00 mio. €",Shakhtar Donetsk,Ukraine,Tr. libre,Tottenham Hotspur,
+Djed SpenceD. Spence,23,Angleterre,Arrière droit,ArD,"8,00 mio. €",Leeds United,Angleterre,Fin du prêt31 mai 2024,Tottenham Hotspur,
+Joe RodonJoe Rodon,25,Pays de Galles,Défenseur central,DC,"5,00 mio. €",Stade Rennais FC,France,Fin du prêt30 juin 2023,Tottenham Hotspur,
+Joe RodonJoe Rodon,26,Pays de Galles,Défenseur central,DC,"5,00 mio. €",Leeds United,Angleterre,Fin du prêt31 mai 2024,Tottenham Hotspur,
+Djed SpenceD. Spence,22,Angleterre,Arrière droit,ArD,"8,00 mio. €",Stade Rennais FC,France,Fin du prêt30 juin 2023,Tottenham Hotspur,
+Giovani Lo CelsoG. Lo Celso,27,Argentine,Milieu offensif,MO,"14,00 mio. €",Villarreal CF,Espagne,Fin du prêt30 juin 2023,Tottenham Hotspur,
+Destiny UdogieD. Udogie,20,Italie,Arrière gauche,ArG,"38,00 mio. €",Udinese Calcio,Italie,Fin du prêt30 juin 2023,Tottenham Hotspur,
+Tanguy NdombéléT. Ndombélé,26,France,Milieu central,MC,"21,00 mio. €",SSC Napoli,Italie,Fin du prêt30 juin 2023,Tottenham Hotspur,
+Harry WinksH. Winks,27,Angleterre,Milieu défensif,MDC,"12,00 mio. €",UC Sampdoria,Italie,Fin du prêt30 juin 2023,Tottenham Hotspur,
+Sergio ReguilónS. Reguilón,26,Espagne,Arrière gauche,ArG,"10,00 mio. €",Atlético de Madrid,Espagne,Fin du prêt30 juin 2023,Tottenham Hotspur,
+Bryan GilBryan Gil,22,Espagne,Ailier gauche,AiG,"15,00 mio. €",Sevilla FC,Espagne,Fin du prêt30 juin 2023,Tottenham Hotspur,
+Harry KaneH. Kane,30,Angleterre,Avant-centre,AC,"110,00 mio. €",Bayern Munich,Allemagne,"95,00 mio. €",,Tottenham Hotspur
+Harry WinksH. Winks,27,Angleterre,Milieu défensif,MDC,"12,00 mio. €",Leicester City,Angleterre,"11,60 mio. €",,Tottenham Hotspur
+Davinson SánchezD. Sánchez,27,Colombie,Défenseur central,DC,"14,00 mio. €",Galatasaray,Turquie,"9,50 mio. €",,Tottenham Hotspur
+Djed SpenceD. Spence,23,Angleterre,Arrière droit,ArD,"8,00 mio. €",Leeds United,Angleterre,"Montant du prêt:1,10 mio. €",,Tottenham Hotspur
+Lucas MouraLucas Moura,30,Brésil,Ailier droit,AiD,"6,00 mio. €",FC São Paulo,Brésil,Tr. libre,,Tottenham Hotspur
+Tanguy NdombéléT. Ndombélé,26,France,Milieu central,MC,"21,00 mio. €",Galatasaray,Turquie,Prêt,,Tottenham Hotspur
+Joe RodonJoe Rodon,25,Pays de Galles,Défenseur central,DC,"5,00 mio. €",Leeds United,Angleterre,Prêt,,Tottenham Hotspur
+Japhet TangangaJ. Tanganga,24,Angleterre,Défenseur central,DC,"5,00 mio. €",FC Augsburg,Allemagne,Prêt,,Tottenham Hotspur
+Sergio ReguilónS. Reguilón,26,Espagne,Arrière gauche,ArG,"10,00 mio. €",Manchester United,Angleterre,Prêt,,Tottenham Hotspur
+Clément LengletC. Lenglet,28,France,Défenseur central,DC,"10,00 mio. €",FC Barcelone,Espagne,Fin du prêt30 juin 2023,,Tottenham Hotspur
+Arnaut DanjumaA. Danjuma,26,Pays-Bas,Ailier gauche,AiG,"20,00 mio. €",Villarreal CF,Espagne,Fin du prêt30 juin 2023,,Tottenham Hotspur
+Pedro PorroP. Porro,23,Espagne,Arrière droit,ArD,"40,00 mio. €",Sporting CP,Portugal,Fin du prêt30 juin 2023,,Tottenham Hotspur
+Dejan KulusevskiD. Kulusevski,23,Suède,Ailier droit,AiD,"50,00 mio. €",Juventus Turin,Italie,Fin du prêt30 juin 2023,,Tottenham Hotspur
+Mohammed KudusM. Kudus,23,Ghana,Milieu offensif,MO,"40,00 mio. €",Ajax Amsterdam,Pays-Bas,"43,00 mio. €",West Ham United,
+Edson ÁlvarezE. Álvarez,25,Mexique,Milieu défensif,MDC,"35,00 mio. €",Ajax Amsterdam,Pays-Bas,"38,00 mio. €",West Ham United,
+James Ward-ProwseJ. Ward-Prowse,28,Angleterre,Milieu central,MC,"38,00 mio. €",FC Southampton,Angleterre,"34,80 mio. €",West Ham United,
+Konstantinos MavropanosK. Mavropanos,25,Grèce,Défenseur central,DC,"15,00 mio. €",VfB Stuttgart,Allemagne,"20,00 mio. €",West Ham United,
+Andy IrvingA. Irving,23,Écosse,Milieu central,MC,"1,50 mio. €",SK Austria Klagenfurt,Autriche,"1,76 mio. €",West Ham United,
+Divin MubamaD. Mubama,18,Angleterre,Avant-centre,AC,800 K €,West Ham United U21,Angleterre,-,West Ham United,
+Arthur MasuakuA. Masuaku,29,RD Congo,Arrière gauche,ArG,"6,00 mio. €",Besiktas JK,Turquie,Fin du prêt30 juin 2023,West Ham United,
+Nikola VlašićN. Vlašić,25,Croatie,Milieu offensif,MO,"15,00 mio. €",Torino FC,Italie,Fin du prêt30 juin 2023,West Ham United,
+Flynn DownesF. Downes,25,Angleterre,Milieu central,MC,"9,00 mio. €",FC Southampton,Angleterre,Fin du prêt31 mai 2024,West Ham United,
+Declan RiceD. Rice,24,Angleterre,Milieu défensif,MDC,"100,00 mio. €",Arsenal FC,Angleterre,"116,60 mio. €",,West Ham United
+Gianluca ScamaccaG. Scamacca,24,Italie,Avant-centre,AC,"25,00 mio. €",Atalanta BC,Italie,"25,00 mio. €",,West Ham United
+Nikola VlašićN. Vlašić,25,Croatie,Milieu offensif,MO,"15,00 mio. €",Torino FC,Italie,"12,80 mio. €",,West Ham United
+Arthur MasuakuA. Masuaku,29,RD Congo,Arrière gauche,ArG,"6,00 mio. €",Besiktas JK,Turquie,"2,00 mio. €",,West Ham United
+Manuel LanziniM. Lanzini,30,Argentine,Milieu offensif,MO,"5,00 mio. €",CA River Plate,Argentine,Tr. libre,,West Ham United
+Flynn DownesF. Downes,24,Angleterre,Milieu central,MC,"9,00 mio. €",FC Southampton,Angleterre,Prêt,,West Ham United
+Andy IrvingA. Irving,23,Écosse,Milieu central,MC,"1,50 mio. €",SK Austria Klagenfurt,Autriche,Prêt,,West Ham United
+Matheus CunhaM. Cunha,24,Brésil,Avant-centre,AC,"28,00 mio. €",Atlético de Madrid,Espagne,"50,00 mio. €",Wolverhampton Wanderers,
+Jean-Ricner BellegardeJ. Bellegarde,25,France,Milieu central,MC,"15,00 mio. €",RC Strasbourg Alsace,France,"15,00 mio. €",Wolverhampton Wanderers,
+Santiago BuenoS. Bueno,24,Uruguay,Défenseur central,DC,"8,00 mio. €",Girona FC,Espagne,"12,00 mio. €",Wolverhampton Wanderers,
+Boubacar TraoréB. Traoré,21,Mali,Milieu défensif,MDC,"5,00 mio. €",FC Metz,France,"11,00 mio. €",Wolverhampton Wanderers,
+Enso GonzálezE. González,18,Paraguay,Ailier gauche,AiG,"4,00 mio. €",Club Libertad Asunción,Paraguay,"6,00 mio. €",Wolverhampton Wanderers,
+Tom KingTom King,28,Pays de Galles,Gardien de but,GdB,175 K €,Northampton Town,Angleterre,Tr. libre,Wolverhampton Wanderers,
+Matt DohertyM. Doherty,31,Irlande,Arrière droit,ArD,"5,00 mio. €",Atlético de Madrid,Espagne,Tr. libre,Wolverhampton Wanderers,
+Tommy DoyleT. Doyle,21,Angleterre,Milieu central,MC,"7,00 mio. €",Manchester City,Angleterre,Prêt,Wolverhampton Wanderers,
+ChiquinhoChiquinho,23,Portugal,Ailier gauche,AiG,"2,00 mio. €",Stoke City,Angleterre,Fin du prêt31 août 2023,Wolverhampton Wanderers,
+Luke CundleL. Cundle,22,Angleterre,Milieu central,MC,"3,00 mio. €",Plymouth Argyle,Angleterre,Fin du prêt31 mai 2024,Wolverhampton Wanderers,
+Ki-Jana HoeverK. Hoever,22,Pays-Bas,Arrière droit,ArD,"3,50 mio. €",Stoke City,Angleterre,Fin du prêt31 mai 2024,Wolverhampton Wanderers,
+Bendegúz BollaB. Bolla,23,Hongrie,Arrière droit,ArD,"1,80 mio. €",Grasshopper Club Zurich,Suisse,Fin du prêt30 juin 2023,Wolverhampton Wanderers,
+Chem CampbellC. Campbell,21,Pays de Galles,Milieu offensif,MO,"1,00 mio. €",Charlton Athletic,Angleterre,Fin du prêt31 mai 2024,Wolverhampton Wanderers,
+Louie MouldenL. Moulden,22,Angleterre,Gardien de but,GdB,200 K €,AFC Rochdale,Angleterre,Fin du prêt31 mai 2024,Wolverhampton Wanderers,
+Yerson MosqueraY. Mosquera,22,Colombie,Défenseur central,DC,"3,00 mio. €",FC Cincinnati,États-Unis,Fin du prêt31 déc. 2023,Wolverhampton Wanderers,
+Fábio SilvaF. Silva,20,Portugal,Avant-centre,AC,"15,00 mio. €",PSV Eindhoven,Pays-Bas,Fin du prêt30 juin 2023,Wolverhampton Wanderers,
+Gonçalo GuedesG. Guedes,26,Portugal,Ailier gauche,AiG,"23,00 mio. €",SL Benfica,Portugal,Fin du prêt30 juin 2023,Wolverhampton Wanderers,
+Bruno JordãoB. Jordão,24,Portugal,Milieu central,MC,"1,30 mio. €",CD Santa Clara,Portugal,Fin du prêt30 juin 2023,Wolverhampton Wanderers,
+Conor CoadyC. Coady,30,Angleterre,Défenseur central,DC,"8,00 mio. €",FC Everton,Angleterre,Fin du prêt30 juin 2023,Wolverhampton Wanderers,
+Hayao KawabeH. Kawabe,27,Japon,Milieu central,MC,"2,80 mio. €",Grasshopper Club Zurich,Suisse,Fin du prêt30 juin 2023,Wolverhampton Wanderers,
+Matheus NunesM. Nunes,25,Portugal,Milieu central,MC,"55,00 mio. €",Manchester City,Angleterre,"62,00 mio. €",,Wolverhampton Wanderers
+Rúben NevesR. Neves,26,Portugal,Milieu défensif,MDC,"40,00 mio. €",Al-Hilal SFC,Arabie Saoudite,"55,00 mio. €",,Wolverhampton Wanderers
+Nathan CollinsN. Collins,22,Irlande,Défenseur central,DC,"22,00 mio. €",FC Brentford,Angleterre,"26,85 mio. €",,Wolverhampton Wanderers
+Conor CoadyC. Coady,30,Angleterre,Défenseur central,DC,"8,00 mio. €",Leicester City,Angleterre,"8,70 mio. €",,Wolverhampton Wanderers
+Raúl JiménezR. Jiménez,32,Mexique,Avant-centre,AC,"6,00 mio. €",FC Fulham,Angleterre,"6,40 mio. €",,Wolverhampton Wanderers
+Ryan GilesR. Giles,23,Angleterre,Arrière gauche,ArG,"6,00 mio. €",Luton Town,Angleterre,"5,85 mio. €",,Wolverhampton Wanderers
+Hayao KawabeH. Kawabe,27,Japon,Milieu central,MC,"2,80 mio. €",Standard de Liège,Belgique,"1,50 mio. €",,Wolverhampton Wanderers
+Daniel PodenceD. Podence,27,Portugal,Ailier droit,AiD,"15,00 mio. €",Olympiakós Le Pirée,Grèce,"Montant du prêt:1,50 mio. €",,Wolverhampton Wanderers
+Matija SarkicM. Sarkic,26,Monténégro,Gardien de but,GdB,"2,00 mio. €",FC Millwall,Angleterre,"1,40 mio. €",,Wolverhampton Wanderers
+Diego CostaDiego Costa,34,Espagne,Avant-centre,AC,"2,00 mio. €",Botafogo de Futebol e Regatas,Brésil,Tr. libre,,Wolverhampton Wanderers
+João MoutinhoJ. Moutinho,36,Portugal,Milieu central,MC,"1,50 mio. €",SC Braga,Portugal,Tr. libre,,Wolverhampton Wanderers
+Adama TraoréA. Traoré,27,Espagne,Ailier droit,AiD,"10,00 mio. €",FC Fulham,Angleterre,Tr. libre,,Wolverhampton Wanderers
+Louie MouldenL. Moulden,21,Angleterre,Gardien de but,GdB,200 K €,AFC Rochdale,Angleterre,Prêt,,Wolverhampton Wanderers
+Gonçalo GuedesG. Guedes,26,Portugal,Ailier gauche,AiG,"23,00 mio. €",SL Benfica,Portugal,Prêt,,Wolverhampton Wanderers
+ChiquinhoChiquinho,23,Portugal,Ailier gauche,AiG,"2,00 mio. €",FC Famalicão,Portugal,Prêt,,Wolverhampton Wanderers
+Bendegúz BollaB. Bolla,23,Hongrie,Arrière droit,ArD,"1,80 mio. €",Servette FC,Suisse,Prêt,,Wolverhampton Wanderers
+Chem CampbellC. Campbell,20,Pays de Galles,Milieu offensif,MO,"1,00 mio. €",Charlton Athletic,Angleterre,Prêt,,Wolverhampton Wanderers
+Luke CundleL. Cundle,21,Angleterre,Milieu central,MC,"3,00 mio. €",Plymouth Argyle,Angleterre,Prêt,,Wolverhampton Wanderers
+Ki-Jana HoeverK. Hoever,21,Pays-Bas,Arrière droit,ArD,"3,50 mio. €",Stoke City,Angleterre,Prêt,,Wolverhampton Wanderers
+ChiquinhoChiquinho,23,Portugal,Ailier gauche,AiG,"2,00 mio. €",Stoke City,Angleterre,Prêt,,Wolverhampton Wanderers
+Matheus CunhaM. Cunha,24,Brésil,Avant-centre,AC,"28,00 mio. €",Atlético de Madrid,Espagne,Fin du prêt30 juin 2023,,Wolverhampton Wanderers
+Tommy DoyleT. Doyle,22,Angleterre,Milieu central,MC,"7,00 mio. €",Manchester City,Angleterre,Fin du prêt31 mai 2024,,Wolverhampton Wanderers
+Boubacar TraoréB. Traoré,21,Mali,Milieu défensif,MDC,"5,00 mio. €",FC Metz,France,Fin du prêt30 juin 2023,,Wolverhampton Wanderers
