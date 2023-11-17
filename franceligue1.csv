@@ -1,0 +1,631 @@
+Nom,age,nationnalité,Position,res Position,valeur marchande,venant de 1,venant de 2,montant de la transaction,team_acheteur,team vendeur
+Randal Kolo MuaniR. Kolo Muani,24,France,Avant-centre,AC,"80,00 mio. €",Eintracht Francfort,Allemagne,"95,00 mio. €",Paris Saint-Germain,
+Manuel UgarteM. Ugarte,22,Uruguay,Milieu défensif,MDC,"55,00 mio. €",Sporting CP,Portugal,"60,00 mio. €",Paris Saint-Germain,
+Ousmane DembéléO. Dembélé,26,France,Ailier droit,AiD,"60,00 mio. €",FC Barcelone,Espagne,"50,00 mio. €",Paris Saint-Germain,
+Bradley BarcolaB. Barcola,20,France,Ailier droit,AiD,"35,00 mio. €",Olympique Lyonnais,France,"45,00 mio. €",Paris Saint-Germain,
+Lucas HernándezL. Hernández,27,France,Défenseur central,DC,"45,00 mio. €",Bayern Munich,Allemagne,"45,00 mio. €",Paris Saint-Germain,
+Hugo EkitikéH. Ekitiké,21,France,Avant-centre,AC,"15,00 mio. €",Stade de Reims,France,"28,50 mio. €",Paris Saint-Germain,
+Kang-in LeeK. Lee,22,Corée du Sud,Milieu offensif,MO,"22,00 mio. €",RCD Mallorca,Espagne,"22,00 mio. €",Paris Saint-Germain,
+Xavi SimonsX. Simons,20,Pays-Bas,Ailier droit,AiD,"70,00 mio. €",PSV Eindhoven,Pays-Bas,"4,00 mio. €",Paris Saint-Germain,
+Arnau TenasA. Tenas,22,Espagne,Gardien de but,GdB,"5,00 mio. €",FC Barcelone Atlètic,Espagne,Tr. libre,Paris Saint-Germain,
+Cher NdourC. Ndour,18,Italie,Milieu central,MC,"4,00 mio. €",SL Benfica B,Portugal,Tr. libre,Paris Saint-Germain,
+Marco AsensioM. Asensio,27,Espagne,Ailier gauche,AiG,"25,00 mio. €",Real Madrid,Espagne,Tr. libre,Paris Saint-Germain,
+Milan SkriniarM. Skriniar,28,Slovaquie,Défenseur central,DC,"50,00 mio. €",Inter Milan,Italie,Tr. libre,Paris Saint-Germain,
+Gonçalo RamosG. Ramos,22,Portugal,Avant-centre,AC,"50,00 mio. €",SL Benfica,Portugal,Prêt,Paris Saint-Germain,
+Noha LeminaN. Lemina,18,France,Milieu offensif,MO,500 K €,Paris Saint-Germain U19,France,-,Paris Saint-Germain,
+Junior Dina EbimbeJ. Dina Ebimbe,22,France,Milieu central,MC,"10,00 mio. €",Eintracht Francfort,Allemagne,Fin du prêt30 juin 2023,Paris Saint-Germain,
+Kenny NageraK. Nagera,21,France,Avant-centre,AC,200 K €,FC Lorient B,France,Fin du prêt30 juin 2023,Paris Saint-Germain,
+Georginio WijnaldumG. Wijnaldum,32,Pays-Bas,Milieu central,MC,"6,00 mio. €",AS Roma,Italie,Fin du prêt30 juin 2023,Paris Saint-Germain,
+Edouard MichutE. Michut,20,France,Milieu central,MC,"2,50 mio. €",AFC Sunderland,Angleterre,Fin du prêt30 juin 2023,Paris Saint-Germain,
+Leandro ParedesL. Paredes,29,Argentine,Milieu défensif,MDC,"9,00 mio. €",Juventus Turin,Italie,Fin du prêt30 juin 2023,Paris Saint-Germain,
+Anfane AhamadaA. Ahamada,21,Comores,Milieu défensif,MDC,100 K €,FC Martigues,France,Fin du prêt30 juin 2023,Paris Saint-Germain,
+Abdou DialloA. Diallo,27,Sénégal,Défenseur central,DC,"10,00 mio. €",RasenBallsport Leipzig,Allemagne,Fin du prêt30 juin 2023,Paris Saint-Germain,
+Layvin KurzawaL. Kurzawa,30,France,Arrière gauche,ArG,"3,00 mio. €",FC Fulham,Angleterre,Fin du prêt30 juin 2023,Paris Saint-Germain,
+Colin DagbaC. Dagba,24,France,Arrière droit,ArD,"2,50 mio. €",RC Strasbourg Alsace,France,Fin du prêt30 juin 2023,Paris Saint-Germain,
+Julian DraxlerJ. Draxler,29,Allemagne,Ailier gauche,AiG,"6,00 mio. €",SL Benfica,Portugal,Fin du prêt30 juin 2023,Paris Saint-Germain,
+Djeidi GassamaD. Gassama,19,France,Ailier gauche,AiG,800 K €,KAS Eupen,Belgique,Fin du prêt30 juin 2023,Paris Saint-Germain,
+Mauro IcardiM. Icardi,30,Argentine,Avant-centre,AC,"20,00 mio. €",Galatasaray,Turquie,Fin du prêt30 juin 2023,Paris Saint-Germain,
+Mathyas RandriamamyM. Randriamamy,20,Madagascar,Gardien de but,GdB,-,Sporting Club Sétois,France,Fin du prêt30 juin 2023,Paris Saint-Germain,
+Keylor NavasK. Navas,36,Costa Rica,Gardien de but,GdB,"3,00 mio. €",Nottingham Forest,Angleterre,Fin du prêt30 juin 2023,Paris Saint-Germain,
+NeymarNeymar,31,Brésil,Ailier gauche,AiG,"50,00 mio. €",Al-Hilal SFC,Arabie Saoudite,"90,00 mio. €",,Paris Saint-Germain
+Marco VerrattiM. Verratti,30,Italie,Milieu central,MC,"40,00 mio. €",Al-Arabi SC,Qatar,"45,00 mio. €",,Paris Saint-Germain
+Abdou DialloA. Diallo,27,Sénégal,Défenseur central,DC,"10,00 mio. €",Al-Arabi SC,Qatar,"15,00 mio. €",,Paris Saint-Germain
+El Chadaille BitshiabuE. Bitshiabu,18,France,Défenseur central,DC,"15,00 mio. €",RasenBallsport Leipzig,Allemagne,"15,00 mio. €",,Paris Saint-Germain
+Mauro IcardiM. Icardi,30,Argentine,Avant-centre,AC,"20,00 mio. €",Galatasaray,Turquie,"10,00 mio. €",,Paris Saint-Germain
+Julian DraxlerJ. Draxler,29,Allemagne,Ailier gauche,AiG,"6,00 mio. €",Al-Ahli SC,Qatar,"9,00 mio. €",,Paris Saint-Germain
+Georginio WijnaldumG. Wijnaldum,32,Pays-Bas,Milieu central,MC,"6,00 mio. €",Al-Ettifaq FC,Arabie Saoudite,"8,00 mio. €",,Paris Saint-Germain
+Junior Dina EbimbeJ. Dina Ebimbe,22,France,Milieu central,MC,"10,00 mio. €",Eintracht Francfort,Allemagne,"6,50 mio. €",,Paris Saint-Germain
+Leandro ParedesL. Paredes,29,Argentine,Milieu défensif,MDC,"9,00 mio. €",AS Roma,Italie,"2,50 mio. €",,Paris Saint-Germain
+Djeidi GassamaD. Gassama,19,France,Ailier gauche,AiG,800 K €,Sheffield Wednesday,Angleterre,"1,00 mio. €",,Paris Saint-Germain
+Renato SanchesR. Sanches,25,Portugal,Milieu central,MC,"14,00 mio. €",AS Roma,Italie,"Montant du prêt:1,00 mio. €",,Paris Saint-Germain
+Lionel MessiL. Messi,36,Argentine,Ailier droit,AiD,"35,00 mio. €",Inter Miami CF,États-Unis,Tr. libre,,Paris Saint-Germain
+Kenny NageraK. Nagera,21,France,Avant-centre,AC,200 K €,FC Differdange 03,Luxembourg,Tr. libre,,Paris Saint-Germain
+Mathyas RandriamamyM. Randriamamy,20,Madagascar,Gardien de but,GdB,-,Ermis Aradippou,Chypre,Tr. libre,,Paris Saint-Germain
+Sergio RamosS. Ramos,37,Espagne,Défenseur central,DC,"4,00 mio. €",Sevilla FC,Espagne,Tr. libre,,Paris Saint-Germain
+Timothée PembéléT. Pembélé,20,France,Arrière droit,ArD,"5,00 mio. €",AFC Sunderland,Angleterre,?,,Paris Saint-Germain
+Noha LeminaN. Lemina,18,France,Milieu offensif,MO,500 K €,UC Sampdoria,Italie,Prêt,,Paris Saint-Germain
+Colin DagbaC. Dagba,24,France,Arrière droit,ArD,"2,50 mio. €",AJ Auxerre,France,Prêt,,Paris Saint-Germain
+Juan BernatJ. Bernat,30,Espagne,Arrière gauche,ArG,"10,00 mio. €",SL Benfica,Portugal,Prêt,,Paris Saint-Germain
+Ismaël GharbiI. Gharbi,19,Espagne,Milieu offensif,MO,"5,00 mio. €",FC Stade-Lausanne-Ouchy,Suisse,Prêt,,Paris Saint-Germain
+Xavi SimonsX. Simons,20,Pays-Bas,Ailier droit,AiD,"70,00 mio. €",RasenBallsport Leipzig,Allemagne,Prêt,,Paris Saint-Germain
+Edouard MichutE. Michut,20,France,Milieu central,MC,"2,50 mio. €",Adana Demirspor,Turquie,Prêt,,Paris Saint-Germain
+Moutanabi BodiangM. Bodiang,20,France,Arrière droit,ArD,100 K €,Sans club,   Sans club,-,,Paris Saint-Germain
+Anfane AhamadaA. Ahamada,21,Comores,Milieu défensif,MDC,100 K €,Sans club,   Sans club,-,,Paris Saint-Germain
+Lucas LavalléeL. Lavallée,20,France,Gardien de but,GdB,300 K €,USL Dunkerque,France,Prêt,,Paris Saint-Germain
+Hugo EkitikéH. Ekitiké,21,France,Avant-centre,AC,"15,00 mio. €",Stade de Reims,France,Fin du prêt30 juin 2023,,Paris Saint-Germain
+Elye WahiElye Wahi,20,France,Avant-centre,AC,"40,00 mio. €",Montpellier Hérault SC,France,"30,00 mio. €",RC Lens,
+Andy DioufA. Diouf,20,France,Milieu central,MC,"13,00 mio. €",FC Bâle 1893,Suisse,"14,00 mio. €",RC Lens,
+Angelo FulginiA. Fulgini,26,France,Milieu offensif,MO,"9,00 mio. €",1.FSV Mainz 05,Allemagne,"7,20 mio. €",RC Lens,
+Óscar CortésÓ. Cortés,19,Colombie,Ailier droit,AiD,"4,20 mio. €",Millonarios FC,Colombie,"4,50 mio. €",RC Lens,
+Morgan GuilavoguiM. Guilavogui,25,Guinée,Ailier droit,AiD,"4,00 mio. €",Paris FC,France,"4,00 mio. €",RC Lens,
+Ruben AguilarR. Aguilar,30,France,Arrière droit,ArD,"6,00 mio. €",AS Monaco,France,"3,50 mio. €",RC Lens,
+Neil El AynaouiN. El Aynaoui,21,Maroc,Milieu central,MC,700 K €,AS Nancy-Lorraine,France,600 K €,RC Lens,
+Abdukodir KhusanovA. Khusanov,19,Ouzbékistan,Défenseur central,DC,800 K €,Energetik-BGU Minsk,Biélorussie,100 K €,RC Lens,
+Stijn SpieringsS. Spierings,27,Pays-Bas,Milieu défensif,MDC,"5,00 mio. €",Toulouse FC,France,Tr. libre,RC Lens,
+Faitout MaouassaF. Maouassa,25,France,Arrière gauche,ArG,"6,00 mio. €",Club Brugge KV,Belgique,Prêt,RC Lens,
+Nampalys MendyN. Mendy,31,Sénégal,Milieu défensif,MDC,"2,50 mio. €",Sans club,   Sans club,-,RC Lens,
+Ibrahima BaldéI. Baldé,20,France,Avant-centre,AC,400 K €,FC Annecy,France,Fin du prêt30 juin 2023,RC Lens,
+Tom DucrocqT. Ducrocq,23,France,Milieu défensif,MDC,"1,20 mio. €",SC Bastia,France,Fin du prêt30 juin 2023,RC Lens,
+Loïs OpendaL. Openda,23,Belgique,Avant-centre,AC,"45,00 mio. €",RasenBallsport Leipzig,Allemagne,"38,50 mio. €",,RC Lens
+Seko FofanaS. Fofana,28,Côte d'Ivoire,Milieu central,MC,"24,00 mio. €",Al-Nassr FC,Arabie Saoudite,"25,00 mio. €",,RC Lens
+Jean OnanaJ. Onana,23,Cameroun,Milieu défensif,MDC,"4,80 mio. €",Besiktas JK,Turquie,"4,04 mio. €",,RC Lens
+Adrien LouveauA. Louveau,23,France,Défenseur central,DC,250 K €,LKS Lodz,Pologne,Tr. libre,,RC Lens
+Ismaël BouraI. Boura,22,France,Arrière gauche,ArG,"1,00 mio. €",ESTAC Troyes,France,Tr. libre,,RC Lens
+Steven FortesS. Fortes,31,Cap-Vert,Défenseur central,DC,400 K €,Quevilly - Rouen Métropole,France,Tr. libre,,RC Lens
+Rémy Labeau LascaryR. Labeau Lascary,20,Guadeloupe,Avant-centre,AC,700 K €,Stade Lavallois,France,Prêt,,RC Lens
+Tom DucrocqT. Ducrocq,23,France,Milieu défensif,MDC,"1,20 mio. €",SC Bastia,France,?,,RC Lens
+Stijn SpieringsS. Spierings,27,Pays-Bas,Milieu défensif,MDC,"5,00 mio. €",Toulouse FC,France,Prêt,,RC Lens
+Lukasz PorebaL. Poreba,23,Pologne,Milieu défensif,MDC,"2,00 mio. €",Hamburger SV,Allemagne,Prêt,,RC Lens
+Julien Le CardinalJ. Le Cardinal,26,France,Arrière droit,ArD,"2,00 mio. €",Stade Brestois 29,France,Prêt,,RC Lens
+Mamadou CamaraM. Camara,20,Sénégal,Milieu central,MC,250 K €,AS Nancy-Lorraine,France,Prêt,,RC Lens
+Adam BuksaA. Buksa,27,Pologne,Avant-centre,AC,"5,00 mio. €",Antalyaspor,Turquie,Prêt,,RC Lens
+Angelo FulginiA. Fulgini,26,France,Milieu offensif,MO,"9,00 mio. €",1.FSV Mainz 05,Allemagne,Fin du prêt30 juin 2023,,RC Lens
+Alexis Claude-MauriceA. Claude-Maurice,25,France,Milieu offensif,MO,"4,50 mio. €",OGC Nice,France,Fin du prêt30 juin 2023,,RC Lens
+Iliman NdiayeI. Ndiaye,23,Sénégal,Avant-centre,AC,"18,00 mio. €",Sheffield United,Angleterre,"17,00 mio. €",Olympique de Marseille,
+Ismaïla SarrI. Sarr,25,Sénégal,Ailier droit,AiD,"20,00 mio. €",FC Watford,Angleterre,"13,00 mio. €",Olympique de Marseille,
+Renan LodiR. Lodi,25,Brésil,Arrière gauche,ArG,"20,00 mio. €",Atlético de Madrid,Espagne,"13,00 mio. €",Olympique de Marseille,
+Ruslan MalinovskyiR. Malinovskyi,30,Ukraine,Milieu offensif,MO,"10,00 mio. €",Atalanta BC,Italie,"10,00 mio. €",Olympique de Marseille,
+Geoffrey KondogbiaG. Kondogbia,30,République Centrafricaine,Milieu défensif,MDC,"14,00 mio. €",Atlético de Madrid,Espagne,"8,00 mio. €",Olympique de Marseille,
+Amine HaritA. Harit,26,Maroc,Milieu offensif,MO,"12,00 mio. €",FC Schalke 04,Allemagne,"5,00 mio. €",Olympique de Marseille,
+Amir MurilloA. Murillo,27,Panama,Arrière droit,ArD,"3,00 mio. €",RSC Anderlecht,Belgique,"2,50 mio. €",Olympique de Marseille,
+Joaquín CorreaJ. Correa,29,Argentine,Deuxième attaquant,2S,"12,00 mio. €",Inter Milan,Italie,"Montant du prêt:2,00 mio. €",Olympique de Marseille,
+Rubén BlancoR. Blanco,28,Espagne,Gardien de but,GdB,"3,00 mio. €",Celta Vigo,Espagne,"1,50 mio. €",Olympique de Marseille,
+Pierre-Emerick AubameyangP. Aubameyang,34,Gabon,Avant-centre,AC,"4,00 mio. €",Chelsea FC,Angleterre,Tr. libre,Olympique de Marseille,
+Bamo MeïtéB. Meïté,21,Côte d'Ivoire,Défenseur central,DC,"4,00 mio. €",FC Lorient,France,Prêt,Olympique de Marseille,
+François MugheF. Mughe,19,Cameroun,Ailier droit,AiD,"1,00 mio. €",Olympique de Marseille B,France,-,Olympique de Marseille,
+Emran SogloE. Soglo,17,Angleterre,Ailier droit,AiD,"1,00 mio. €",Olympique de Marseille B,France,-,Olympique de Marseille,
+Nemanja RadonjićN. Radonjić,27,Serbie,Ailier gauche,AiG,"4,00 mio. €",Torino FC,Italie,Fin du prêt30 juin 2023,Olympique de Marseille,
+Luis HenriqueLuis Henrique,22,Brésil,Ailier gauche,AiG,"6,00 mio. €",Botafogo de Futebol e Regatas,Brésil,Fin du prêt31 déc. 2023,Olympique de Marseille,
+Pol LirolaP. Lirola,25,Espagne,Arrière droit,ArD,"2,00 mio. €",Elche CF,Espagne,Fin du prêt30 juin 2023,Olympique de Marseille,
+Konrad de la FuenteK. de la Fuente,21,États-Unis,Ailier gauche,AiG,"1,50 mio. €",Olympiakós Le Pirée,Grèce,Fin du prêt30 juin 2023,Olympique de Marseille,
+Kevin StrootmanK. Strootman,33,Pays-Bas,Milieu central,MC,"1,30 mio. €",Genoa CFC,Italie,Fin du prêt30 juin 2023,Olympique de Marseille,
+Pape GueyeP. Gueye,24,Sénégal,Milieu défensif,MDC,"10,00 mio. €",Sevilla FC,Espagne,Fin du prêt30 juin 2023,Olympique de Marseille,
+Arkadiusz MilikA. Milik,29,Pologne,Avant-centre,AC,"8,00 mio. €",Juventus Turin,Italie,Fin du prêt30 juin 2023,Olympique de Marseille,
+Jordan AmaviJ. Amavi,29,France,Arrière gauche,ArG,"2,00 mio. €",FC Getafe,Espagne,Fin du prêt30 juin 2023,Olympique de Marseille,
+Luis SuárezL. Suárez,25,Colombie,Avant-centre,AC,"8,00 mio. €",UD Almería,Espagne,Fin du prêt30 juin 2023,Olympique de Marseille,
+Isaak TouréI. Touré,20,France,Défenseur central,DC,"8,00 mio. €",AJ Auxerre,France,Fin du prêt30 juin 2023,Olympique de Marseille,
+Salim Ben SeghirS. Ben Seghir,20,France,Ailier gauche,AiG,500 K €,Valenciennes FC,France,Fin du prêt30 juin 2023,Olympique de Marseille,
+Cengiz ÜnderC. Ünder,26,Turquie,Ailier droit,AiD,"20,00 mio. €",Fenerbahce,Turquie,"15,00 mio. €",,Olympique de Marseille
+Isaak TouréI. Touré,20,France,Défenseur central,DC,"8,00 mio. €",FC Lorient,France,"8,00 mio. €",,Olympique de Marseille
+Luis SuárezL. Suárez,25,Colombie,Avant-centre,AC,"8,00 mio. €",UD Almería,Espagne,"8,00 mio. €",,Olympique de Marseille
+Arkadiusz MilikA. Milik,29,Pologne,Avant-centre,AC,"8,00 mio. €",Juventus Turin,Italie,"6,30 mio. €",,Olympique de Marseille
+Nemanja RadonjićN. Radonjić,27,Serbie,Ailier gauche,AiG,"4,00 mio. €",Torino FC,Italie,"1,70 mio. €",,Olympique de Marseille
+Bartuğ ElmazB. Elmaz,20,Turquie,Milieu défensif,MDC,800 K €,Fenerbahce,Turquie,"1,40 mio. €",,Olympique de Marseille
+Mattéo GuendouziM. Guendouzi,24,France,Milieu central,MC,"20,00 mio. €",Lazio Rome,Italie,"Montant du prêt:1,00 mio. €",,Olympique de Marseille
+Dimitri PayetD. Payet,36,France,Milieu offensif,MO,"1,80 mio. €",Clube de Regatas Vasco da Gama,Brésil,Tr. libre,,Olympique de Marseille
+Sead KolasinacS. Kolasinac,30,Bosnie-Herzégovine,Défenseur central,DC,"8,00 mio. €",Atalanta BC,Italie,Tr. libre,,Olympique de Marseille
+Kevin StrootmanK. Strootman,33,Pays-Bas,Milieu central,MC,"1,30 mio. €",Genoa CFC,Italie,Tr. libre,,Olympique de Marseille
+Alexis SánchezA. Sánchez,34,Chili,Avant-centre,AC,"4,00 mio. €",Inter Milan,Italie,Tr. libre,,Olympique de Marseille
+Pol LirolaP. Lirola,26,Espagne,Arrière droit,ArD,"2,00 mio. €",Frosinone Calcio,Italie,Prêt,,Olympique de Marseille
+Jordan AmaviJ. Amavi,29,France,Arrière gauche,ArG,"2,00 mio. €",Stade Brestois 29,France,Prêt,,Olympique de Marseille
+Konrad de la FuenteK. de la Fuente,22,États-Unis,Ailier gauche,AiG,"1,50 mio. €",SD Eibar,Espagne,Prêt,,Olympique de Marseille
+Ruslan MalinovskyiR. Malinovskyi,30,Ukraine,Milieu offensif,MO,"10,00 mio. €",Genoa CFC,Italie,Prêt,,Olympique de Marseille
+Salim Ben SeghirS. Ben Seghir,20,France,Ailier gauche,AiG,500 K €,Neuchâtel Xamax FCS,Suisse,Prêt,,Olympique de Marseille
+Eric BaillyE. Bailly,29,Côte d'Ivoire,Défenseur central,DC,"4,00 mio. €",Manchester United,Angleterre,Fin du prêt30 juin 2023,,Olympique de Marseille
+Rubén BlancoR. Blanco,27,Espagne,Gardien de but,GdB,"3,00 mio. €",Celta Vigo,Espagne,Fin du prêt30 juin 2023,,Olympique de Marseille
+Nuno TavaresN. Tavares,23,Portugal,Arrière gauche,ArG,"18,00 mio. €",Arsenal FC,Angleterre,Fin du prêt30 juin 2023,,Olympique de Marseille
+Issa KaboréI. Kaboré,22,Burkina Faso,Arrière droit,ArD,"7,00 mio. €",Manchester City,Angleterre,Fin du prêt30 juin 2023,,Olympique de Marseille
+Amine HaritA. Harit,26,Maroc,Milieu offensif,MO,"12,00 mio. €",FC Schalke 04,Allemagne,Fin du prêt30 juin 2023,,Olympique de Marseille
+Ruslan MalinovskyiR. Malinovskyi,30,Ukraine,Milieu offensif,MO,"10,00 mio. €",Atalanta BC,Italie,Fin du prêt30 juin 2023,,Olympique de Marseille
+Folarin BalogunF. Balogun,22,États-Unis,Avant-centre,AC,"30,00 mio. €",Arsenal FC,Angleterre,"30,00 mio. €",AS Monaco,
+Denis ZakariaD. Zakaria,26,Suisse,Milieu défensif,MDC,"20,00 mio. €",Juventus Turin,Italie,"20,00 mio. €",AS Monaco,
+Mohammed SalisuM. Salisu,24,Ghana,Défenseur central,DC,"18,00 mio. €",FC Southampton,Angleterre,"15,00 mio. €",AS Monaco,
+Wilfried SingoW. Singo,22,Côte d'Ivoire,Défenseur central,DC,"15,00 mio. €",Torino FC,Italie,"10,00 mio. €",AS Monaco,
+Philipp KöhnP. Köhn,25,Suisse,Gardien de but,GdB,"7,00 mio. €",Red Bull Salzbourg,Autriche,"8,00 mio. €",AS Monaco,
+Kassoum OuattaraK. Ouattara,19,France,Arrière gauche,ArG,600 K €,Amiens SC,France,"2,00 mio. €",AS Monaco,
+Jean MarcelinJ. Marcelin,23,France,Défenseur central,DC,"1,50 mio. €",Cercle Bruges,Belgique,Fin du prêt30 juin 2023,AS Monaco,
+Edan DiopEdan Diop,18,France,Milieu central,MC,"2,00 mio. €",AS Monaco U21,Monaco,-,AS Monaco,
+Yllan OkouY. Okou,20,France,Défenseur central,DC,300 K €,AS Monaco U21,Monaco,-,AS Monaco,
+Yann LienardY. Lienard,20,France,Gardien de but,GdB,200 K €,AS Monaco U21,Monaco,-,AS Monaco,
+Radoslaw MajeckiR. Majecki,23,Pologne,Gardien de but,GdB,"2,00 mio. €",Cercle Bruges,Belgique,Fin du prêt30 juin 2023,AS Monaco,
+PeléPelé,31,Guinée-Bissau,Milieu défensif,MDC,400 K €,FC Famalicão,Portugal,Fin du prêt30 juin 2023,AS Monaco,
+Anthony MusabaA. Musaba,22,Pays-Bas,Ailier droit,AiD,800 K €,NEC Nijmegen,Pays-Bas,Fin du prêt30 juin 2023,AS Monaco,
+Félix LemaréchalF. Lemaréchal,19,France,Milieu central,MC,"1,00 mio. €",Stade Brestois 29,France,Fin du prêt30 juin 2023,AS Monaco,
+Arthur ZagréA. Zagré,21,France,Arrière gauche,ArG,850 K €,Excelsior Rotterdam,Pays-Bas,Fin du prêt30 juin 2023,AS Monaco,
+Axel DisasiA. Disasi,25,France,Défenseur central,DC,"40,00 mio. €",Chelsea FC,Angleterre,"45,00 mio. €",,AS Monaco
+Jean LucasJean Lucas,25,Brésil,Milieu central,MC,"5,00 mio. €",Santos FC,Brésil,"6,00 mio. €",,AS Monaco
+Kevin VollandK. Volland,31,Allemagne,Avant-centre,AC,"6,00 mio. €",1.FC Union Berlin,Allemagne,"4,00 mio. €",,AS Monaco
+Ruben AguilarR. Aguilar,30,France,Arrière droit,ArD,"6,00 mio. €",RC Lens,France,"3,50 mio. €",,AS Monaco
+Arthur ZagréA. Zagré,21,France,Arrière gauche,ArG,850 K €,Excelsior Rotterdam,Pays-Bas,Tr. libre,,AS Monaco
+Jean MarcelinJ. Marcelin,23,France,Défenseur central,DC,"1,50 mio. €",FC Girondins de Bordeaux,France,Tr. libre,,AS Monaco
+Anthony MusabaA. Musaba,22,Pays-Bas,Ailier droit,AiD,800 K €,Sheffield Wednesday,Angleterre,Tr. libre,,AS Monaco
+Félix LemaréchalF. Lemaréchal,20,France,Milieu central,MC,"1,00 mio. €",Cercle Bruges,Belgique,Prêt,,AS Monaco
+Yllan OkouY. Okou,20,France,Défenseur central,DC,300 K €,SC Bastia,France,?,,AS Monaco
+PeléPelé,31,Guinée-Bissau,Milieu défensif,MDC,400 K €,Sans club,   Sans club,-,,AS Monaco
+Alexander NübelA. Nübel,26,Allemagne,Gardien de but,GdB,"8,00 mio. €",Bayern Munich,Allemagne,Fin du prêt30 juin 2023,,AS Monaco
+Thomas DidillonT. Didillon,27,France,Gardien de but,GdB,700 K €,Cercle Bruges,Belgique,Fin du prêt30 juin 2023,,AS Monaco
+Malang SarrM. Sarr,24,France,Défenseur central,DC,"6,00 mio. €",Chelsea FC,Angleterre,Fin du prêt30 juin 2023,,AS Monaco
+Enzo Le FéeE. Le Fée,23,France,Milieu offensif,MO,"20,00 mio. €",FC Lorient,France,"20,00 mio. €",Stade Rennais FC,
+Ludovic BlasL. Blas,25,France,Milieu offensif,MO,"22,00 mio. €",FC Nantes,France,"15,00 mio. €",Stade Rennais FC,
+Fabian RiederF. Rieder,21,Suisse,Milieu offensif,MO,"15,00 mio. €",BSC Young Boys,Suisse,"15,00 mio. €",Stade Rennais FC,
+Bertuğ YıldırımB. Yıldırım,21,Turquie,Avant-centre,AC,"4,00 mio. €",Hatayspor,Turquie,"5,40 mio. €",Stade Rennais FC,
+Nemanja MaticN. Matic,35,Serbie,Milieu défensif,MDC,"4,00 mio. €",AS Roma,Italie,"2,50 mio. €",Stade Rennais FC,
+Geoffrey LembetG. Lembet,34,République Centrafricaine,Gardien de but,GdB,150 K €,CS Sedan-Ardennes,France,Tr. libre,Stade Rennais FC,
+Gauthier GallonG. Gallon,30,France,Gardien de but,GdB,"2,00 mio. €",ESTAC Troyes,France,?,Stade Rennais FC,
+Alan Do MarcolinoA. Do Marcolino,21,Gabon,Avant-centre,AC,200 K €,Stade Rennais FC B,France,-,Stade Rennais FC,
+Andy DioufA. Diouf,20,France,Milieu central,MC,"13,00 mio. €",FC Bâle 1893,Suisse,Fin du prêt30 juin 2023,Stade Rennais FC,
+Junior KadileJ. Kadile,20,France,Ailier droit,AiD,700 K €,FC Famalicão,Portugal,Fin du prêt30 juin 2023,Stade Rennais FC,
+Loum TchaounaL. Tchaouna,19,France,Ailier droit,AiD,"2,40 mio. €",Dijon FCO,France,Fin du prêt30 juin 2023,Stade Rennais FC,
+Serhou GuirassyS. Guirassy,27,Guinée,Avant-centre,AC,"40,00 mio. €",VfB Stuttgart,Allemagne,Fin du prêt30 juin 2023,Stade Rennais FC,
+Loïc BadéL. Badé,23,France,Défenseur central,DC,"12,00 mio. €",Sevilla FC,Espagne,Fin du prêt30 juin 2023,Stade Rennais FC,
+Matthis AblineM. Abline,20,France,Avant-centre,AC,"4,50 mio. €",AJ Auxerre,France,Fin du prêt30 juin 2023,Stade Rennais FC,
+Alfred GomisA. Gomis,29,Sénégal,Gardien de but,GdB,"2,00 mio. €",Como 1907,Italie,Fin du prêt30 juin 2023,Stade Rennais FC,
+Noah FrançoiseN. Françoise,19,France,Milieu défensif,MDC,350 K €,US Avranches,France,Fin du prêt30 juin 2023,Stade Rennais FC,
+Jérémy DokuJ. Doku,21,Belgique,Ailier gauche,AiG,"60,00 mio. €",Manchester City,Angleterre,"60,00 mio. €",,Stade Rennais FC
+Lesley UgochukwuL. Ugochukwu,19,France,Milieu défensif,MDC,"25,00 mio. €",Chelsea FC,Angleterre,"27,00 mio. €",,Stade Rennais FC
+Lovro MajerL. Majer,25,Croatie,Milieu central,MC,"27,00 mio. €",VfL Wolfsburg,Allemagne,"25,00 mio. €",,Stade Rennais FC
+Loïc BadéL. Badé,23,France,Défenseur central,DC,"12,00 mio. €",Sevilla FC,Espagne,"12,00 mio. €",,Stade Rennais FC
+Serhou GuirassyS. Guirassy,27,Guinée,Avant-centre,AC,"40,00 mio. €",VfB Stuttgart,Allemagne,"9,00 mio. €",,Stade Rennais FC
+Andy DioufA. Diouf,20,France,Milieu central,MC,"13,00 mio. €",FC Bâle 1893,Suisse,"5,50 mio. €",,Stade Rennais FC
+Loum TchaounaL. Tchaouna,19,France,Ailier droit,AiD,"2,40 mio. €",US Salernitana 1919,Italie,"3,00 mio. €",,Stade Rennais FC
+Birger MelingB. Meling,28,Norvège,Arrière gauche,ArG,"5,00 mio. €",FC Copenhague,Danemark,"2,00 mio. €",,Stade Rennais FC
+Flavien TaitF. Tait,30,France,Milieu central,MC,"4,10 mio. €",Samsunspor,Turquie,Tr. libre,,Stade Rennais FC
+Romain SalinR. Salin,38,France,Gardien de but,GdB,-,CS Marítimo,Portugal,Tr. libre,,Stade Rennais FC
+Hamari TraoréH. Traoré,31,Mali,Arrière droit,ArD,"10,00 mio. €",Real Sociedad,Espagne,Tr. libre,,Stade Rennais FC
+Noah FrançoiseN. Françoise,20,France,Milieu défensif,MDC,350 K €,CS Marítimo,Portugal,?,,Stade Rennais FC
+Junior KadileJ. Kadile,20,France,Ailier droit,AiD,700 K €,Stade Lavallois,France,?,,Stade Rennais FC
+Doğan AlemdarD. Alemdar,20,Turquie,Gardien de but,GdB,"3,50 mio. €",ESTAC Troyes,France,Prêt,,Stade Rennais FC
+Alan Do MarcolinoA. Do Marcolino,21,Gabon,Avant-centre,AC,200 K €,Quevilly - Rouen Métropole,France,Prêt,,Stade Rennais FC
+Alfred GomisA. Gomis,29,Sénégal,Gardien de but,GdB,"2,00 mio. €",FC Lorient,France,Prêt,,Stade Rennais FC
+Matthis AblineM. Abline,20,France,Avant-centre,AC,"4,50 mio. €",FC Nantes,France,Prêt,,Stade Rennais FC
+Elias DamergyE. Damergy,20,Tunisie,Gardien de but,GdB,150 K €,Sans club,   Sans club,-,,Stade Rennais FC
+XekaXeka,28,Portugal,Milieu central,MC,"5,00 mio. €",Sans club,   Sans club,-,,Stade Rennais FC
+Joe RodonJoe Rodon,25,Pays de Galles,Défenseur central,DC,"5,00 mio. €",Tottenham Hotspur,Angleterre,Fin du prêt30 juin 2023,,Stade Rennais FC
+Karl Toko EkambiK. Toko Ekambi,30,Cameroun,Avant-centre,AC,"5,00 mio. €",Olympique Lyonnais,France,Fin du prêt30 juin 2023,,Stade Rennais FC
+Djed SpenceD. Spence,22,Angleterre,Arrière droit,ArD,"8,00 mio. €",Tottenham Hotspur,Angleterre,Fin du prêt30 juin 2023,,Stade Rennais FC
+Hákon Arnar HaraldssonH. Haraldsson,20,Islande,Ailier gauche,AiG,"10,00 mio. €",FC Copenhague,Danemark,"15,00 mio. €",LOSC Lille,
+Tiago SantosT. Santos,20,Portugal,Arrière droit,ArD,"5,00 mio. €",GD Estoril Praia,Portugal,"6,50 mio. €",LOSC Lille,
+Nabil BentalebN. Bentaleb,28,Algérie,Milieu central,MC,"7,00 mio. €",Angers SCO,France,"4,50 mio. €",LOSC Lille,
+Ignacio MiramónI. Miramón,20,Argentine,Milieu défensif,MDC,"4,00 mio. €",Club de Gimnasia y Esgrima La Plata,Argentine,"4,00 mio. €",LOSC Lille,
+Vito MannoneV. Mannone,35,Italie,Gardien de but,GdB,300 K €,FC Lorient,France,200 K €,LOSC Lille,
+Samuel UmtitiS. Umtiti,29,France,Défenseur central,DC,"4,00 mio. €",FC Barcelone,Espagne,Tr. libre,LOSC Lille,
+Ivan CavaleiroI. Cavaleiro,29,Angola,Ailier gauche,AiG,"2,50 mio. €",FC Fulham,Angleterre,Tr. libre,LOSC Lille,
+Ugo RaghouberU. Raghouber,19,France,Milieu défensif,MDC,250 K €,LOSC Lille B,France,-,LOSC Lille,
+Akim ZedadkaA. Zedadka,28,Algérie,Arrière droit,ArD,"2,50 mio. €",AJ Auxerre,France,Fin du prêt30 juin 2023,LOSC Lille,
+Yusuf YazıcıY. Yazıcı,26,Turquie,Milieu offensif,MO,"9,00 mio. €",Trabzonspor,Turquie,Fin du prêt30 juin 2023,LOSC Lille,
+Carlos BalebaC. Baleba,19,Cameroun,Milieu défensif,MDC,"20,00 mio. €",Brighton & Hove Albion,Angleterre,"27,00 mio. €",,LOSC Lille
+Timothy WeahT. Weah,23,États-Unis,Milieu droit,MD,"14,00 mio. €",Juventus Turin,Italie,"11,30 mio. €",,LOSC Lille
+José FonteJ. Fonte,39,Portugal,Défenseur central,DC,600 K €,SC Braga,Portugal,Tr. libre,,LOSC Lille
+Jonathan BambaJ. Bamba,27,Côte d'Ivoire,Ailier gauche,AiG,"20,00 mio. €",Celta Vigo,Espagne,Tr. libre,,LOSC Lille
+Jonas MartinJ. Martin,33,France,Milieu défensif,MDC,"1,50 mio. €",Stade Brestois 29,France,Tr. libre,,LOSC Lille
+Benoît CostilB. Costil,36,France,Gardien de but,GdB,"1,00 mio. €",US Salernitana 1919,Italie,Tr. libre,,LOSC Lille
+Ugo RaghouberU. Raghouber,20,France,Milieu défensif,MDC,250 K €,Le Mans FC,France,Prêt,,LOSC Lille
+Mohamed BayoM. Bayo,25,Guinée,Avant-centre,AC,"6,00 mio. €",Le Havre AC,France,Prêt,,LOSC Lille
+André GomesA. Gomes,29,Portugal,Milieu central,MC,"16,00 mio. €",FC Everton,Angleterre,Fin du prêt30 juin 2023,,LOSC Lille
+Clinton MataC. Mata,30,Angola,Arrière droit,ArD,"4,50 mio. €",Club Brugge KV,Belgique,"5,00 mio. €",Olympique Lyonnais,
+Skelly AlveroS. Alvero,21,France,Milieu central,MC,"4,00 mio. €",FC Sochaux-Montbéliard,France,"4,00 mio. €",Olympique Lyonnais,
+Paul AkouokouP. Akouokou,25,Côte d'Ivoire,Milieu défensif,MDC,"3,50 mio. €",Real Betis Balompié,Espagne,"3,00 mio. €",Olympique Lyonnais,
+Diego MoreiraD. Moreira,19,Portugal,Ailier gauche,AiG,"3,00 mio. €",Chelsea FC,Angleterre,"Montant du prêt:2,80 mio. €",Olympique Lyonnais,
+Mama BaldéM. Baldé,27,Guinée-Bissau,Avant-centre,AC,"8,00 mio. €",ESTAC Troyes,France,"Montant du prêt:2,00 mio. €",Olympique Lyonnais,
+Duje Caleta-CarD. Caleta-Car,26,Croatie,Défenseur central,DC,"9,00 mio. €",FC Southampton,Angleterre,"Montant du prêt:1,54 mio. €",Olympique Lyonnais,
+Jake O'BrienJ. O'Brien,22,Irlande,Défenseur central,DC,"1,50 mio. €",Crystal Palace U21,Angleterre,"1,00 mio. €",Olympique Lyonnais,
+Ainsley Maitland-NilesA. Maitland-Niles,25,Angleterre,Milieu central,MC,"6,00 mio. €",Arsenal FC,Angleterre,Tr. libre,Olympique Lyonnais,
+Mahamadou DiawaraM. Diawara,18,France,Milieu central,MC,"1,00 mio. €",Paris Saint-Germain U19,France,Tr. libre,Olympique Lyonnais,
+Ernest NuamahE. Nuamah,19,Ghana,Ailier droit,AiD,"20,00 mio. €",RWD Molenbeek,Belgique,Prêt,Olympique Lyonnais,
+Justin Bengui JoaoJ. Bengui Joao,18,France,Gardien de but,GdB,-,Olympique Lyon B,France,-,Olympique Lyonnais,
+Mathieu PatouilletM. Patouillet,19,France,Gardien de but,GdB,-,Olympique Lyon B,France,-,Olympique Lyonnais,
+Mamadou SarrM. Sarr,17,France,Défenseur central,DC,"1,00 mio. €",Olympique Lyon B,France,-,Olympique Lyonnais,
+Irvyn LomamiI. Lomami,19,France,Arrière droit,ArD,200 K €,Olympique Lyon B,France,-,Olympique Lyonnais,
+Achraf LaâziriA. Laâziri,19,Maroc,Arrière gauche,ArG,250 K €,Olympique Lyon B,France,-,Olympique Lyonnais,
+Abdoulaye NdiayeA. Ndiaye,21,Sénégal,Défenseur central,DC,"3,00 mio. €",SC Bastia,France,Fin du prêt30 juin 2023,Olympique Lyonnais,
+Habib KeïtaH. Keïta,21,Mali,Milieu central,MC,800 K €,KV Kortrijk,Belgique,Fin du prêt30 juin 2023,Olympique Lyonnais,
+Yahya SoumaréY. Soumaré,23,France,Ailier droit,AiD,250 K €,Football Bourg-en-Bresse Péronnas 01,France,Fin du prêt30 juin 2023,Olympique Lyonnais,
+Cenk ÖzkacarC. Özkacar,22,Turquie,Défenseur central,DC,"5,00 mio. €",FC Valencia,Espagne,Fin du prêt30 juin 2023,Olympique Lyonnais,
+Tino KadewereT. Kadewere,27,Zimbabwe,Avant-centre,AC,"3,00 mio. €",RCD Mallorca,Espagne,Fin du prêt30 juin 2023,Olympique Lyonnais,
+Youssouf KonéY. Koné,27,Mali,Arrière gauche,ArG,"1,50 mio. €",AC Ajaccio,France,Fin du prêt30 juin 2023,Olympique Lyonnais,
+Florent SanchezF. Sanchez,20,France,Milieu central,MC,700 K €,FC Volendam,Pays-Bas,Fin du prêt30 juin 2023,Olympique Lyonnais,
+Karl Toko EkambiK. Toko Ekambi,30,Cameroun,Avant-centre,AC,"5,00 mio. €",Stade Rennais FC,France,Fin du prêt30 juin 2023,Olympique Lyonnais,
+Romain FaivreR. Faivre,24,France,Milieu droit,MD,"15,00 mio. €",FC Lorient,France,Fin du prêt30 juin 2023,Olympique Lyonnais,
+CamiloCamilo,24,Brésil,Milieu défensif,MDC,"1,00 mio. €",RWD Molenbeek,Belgique,Fin du prêt30 juin 2023,Olympique Lyonnais,
+TetêTetê,23,Brésil,Ailier droit,AiD,"24,00 mio. €",Leicester City,Angleterre,Fin du prêt29 juin 2023,Olympique Lyonnais,
+Jeff Reine-AdélaïdeJ. Reine-Adélaïde,25,France,Milieu offensif,MO,"3,50 mio. €",ESTAC Troyes,France,Fin du prêt30 juin 2023,Olympique Lyonnais,
+Julian PollersbeckJ. Pollersbeck,28,Allemagne,Gardien de but,GdB,500 K €,FC Lorient,France,Fin du prêt30 juin 2023,Olympique Lyonnais,
+Bradley BarcolaB. Barcola,20,France,Ailier droit,AiD,"35,00 mio. €",Paris Saint-Germain,France,"45,00 mio. €",,Olympique Lyonnais
+Castello LukebaC. Lukeba,20,France,Défenseur central,DC,"35,00 mio. €",RasenBallsport Leipzig,Allemagne,"30,00 mio. €",,Olympique Lyonnais
+Romain FaivreR. Faivre,24,France,Milieu droit,MD,"15,00 mio. €",AFC Bournemouth,Angleterre,"15,00 mio. €",,Olympique Lyonnais
+Cenk ÖzkacarC. Özkacar,22,Turquie,Défenseur central,DC,"5,00 mio. €",FC Valencia,Espagne,"5,00 mio. €",,Olympique Lyonnais
+Thiago MendesT. Mendes,31,Brésil,Milieu défensif,MDC,"5,00 mio. €",Al-Rayyan SC,Qatar,"4,21 mio. €",,Olympique Lyonnais
+Abdoulaye NdiayeA. Ndiaye,21,Sénégal,Défenseur central,DC,"3,00 mio. €",ESTAC Troyes,France,"3,50 mio. €",,Olympique Lyonnais
+Karl Toko EkambiK. Toko Ekambi,30,Cameroun,Avant-centre,AC,"5,00 mio. €",Abha Club,Arabie Saoudite,"1,50 mio. €",,Olympique Lyonnais
+Habib KeïtaH. Keïta,21,Mali,Milieu central,MC,800 K €,Clermont Foot 63,France,"1,20 mio. €",,Olympique Lyonnais
+Amin SarrAmin Sarr,22,Suède,Avant-centre,AC,"8,00 mio. €",VfL Wolfsburg,Allemagne,"Montant du prêt:1,00 mio. €",,Olympique Lyonnais
+CamiloCamilo,24,Brésil,Milieu défensif,MDC,"1,00 mio. €",Akhmat Grozny,Russie,800 K €,,Olympique Lyonnais
+Kayne BonnevieK. Bonnevie,21,France,Gardien de but,GdB,200 K €,Quevilly - Rouen Métropole,France,Tr. libre,,Olympique Lyonnais
+Yahya SoumaréY. Soumaré,23,France,Ailier droit,AiD,250 K €,US Orléans,France,Tr. libre,,Olympique Lyonnais
+Julian PollersbeckJ. Pollersbeck,28,Allemagne,Gardien de but,GdB,500 K €,1.FC Magdeburg,Allemagne,Tr. libre,,Olympique Lyonnais
+Houssem AouarH. Aouar,25,Algérie,Milieu central,MC,"13,00 mio. €",AS Roma,Italie,Tr. libre,,Olympique Lyonnais
+Moussa DembéléM. Dembélé,27,France,Avant-centre,AC,"12,00 mio. €",Al-Ettifaq FC,Arabie Saoudite,Tr. libre,,Olympique Lyonnais
+Youssouf KonéY. Koné,28,Mali,Arrière gauche,ArG,"1,50 mio. €",RWD Molenbeek,Belgique,Tr. libre,,Olympique Lyonnais
+Jeff Reine-AdélaïdeJ. Reine-Adélaïde,25,France,Milieu offensif,MO,"3,50 mio. €",RWD Molenbeek,Belgique,Tr. libre,,Olympique Lyonnais
+Mathieu PatouilletM. Patouillet,19,France,Gardien de but,GdB,-,FC Sochaux-Montbéliard,France,Prêt,,Olympique Lyonnais
+Irvyn LomamiI. Lomami,19,France,Arrière droit,ArD,200 K €,Stade Lavallois,France,Prêt,,Olympique Lyonnais
+Achraf LaâziriA. Laâziri,20,Maroc,Arrière gauche,ArG,250 K €,USL Dunkerque,France,Prêt,,Olympique Lyonnais
+Florent SanchezF. Sanchez,20,France,Milieu central,MC,700 K €,RWD Molenbeek,Belgique,Prêt,,Olympique Lyonnais
+Jérôme BoatengJ. Boateng,34,Allemagne,Défenseur central,DC,500 K €,Sans club,   Sans club,-,,Olympique Lyonnais
+Malo GustoM. Gusto,20,France,Arrière droit,ArD,"25,00 mio. €",Chelsea FC,Angleterre,Fin du prêt30 juin 2023,,Olympique Lyonnais
+TetêTetê,23,Brésil,Ailier droit,AiD,"24,00 mio. €",Shakhtar Donetsk,Ukraine,Fin du prêt30 juin 2023,,Olympique Lyonnais
+Maximiliano CaufriezM. Caufriez,26,Belgique,Défenseur central,DC,"3,00 mio. €",Spartak Moscou,Russie,"3,50 mio. €",Clermont Foot 63,
+Andy PelmardA. Pelmard,23,France,Défenseur central,DC,"4,00 mio. €",FC Bâle 1893,Suisse,"1,90 mio. €",Clermont Foot 63,
+Habib KeïtaH. Keïta,21,Mali,Milieu central,MC,800 K €,Olympique Lyonnais,France,"1,20 mio. €",Clermont Foot 63,
+Shamar NicholsonS. Nicholson,26,Jamaïque,Avant-centre,AC,"4,50 mio. €",Spartak Moscou,Russie,Montant du prêt:500 K €,Clermont Foot 63,
+Thomas PerchaudT. Perchaud,25,France,Avant-centre,AC,-,Asd Città di Gallipoli,Italie,Tr. libre,Clermont Foot 63,
+Bilal BoutobbaB. Boutobba,24,France,Ailier droit,AiD,"2,50 mio. €",Chamois Niortais FC,France,Tr. libre,Clermont Foot 63,
+Théo BorneT. Borne,20,France,Gardien de but,GdB,100 K €,Angers SCO,France,Tr. libre,Clermont Foot 63,
+Abdoulaye CoulibalyA. Coulibaly,21,France,Ailier gauche,AiG,150 K €,AS Saint-Étienne B,France,Tr. libre,Clermont Foot 63,
+Nassim L'GhoulN. L'Ghoul,26,France,Milieu offensif,MO,-,Sporting Club de Toulon,France,Tr. libre,Clermont Foot 63,
+Yoël ArmougomY. Armougom,25,France,Arrière gauche,ArG,400 K €,FC Sochaux-Montbéliard,France,?,Clermont Foot 63,
+Massamba N'DiayeM. N'Diaye,21,Sénégal,Gardien de but,GdB,500 K €,Pau FC,France,?,Clermont Foot 63,
+Cem TürkmenC. Türkmen,21,Turquie,Milieu central,MC,"1,00 mio. €",SC Austria Lustenau,Autriche,Fin du prêt30 juin 2023,Clermont Foot 63,
+Charly KeitaC. Keita,24,France,Avant-centre,AC,200 K €,FC Biel-Bienne 1896,Suisse,Fin du prêt30 juin 2023,Clermont Foot 63,
+Adama DiakitéA. Diakité,23,France,Ailier gauche,AiG,150 K €,FC Biel-Bienne 1896,Suisse,Fin du prêt30 juin 2023,Clermont Foot 63,
+Yuliwes BellacheY. Bellache,20,Algérie,Milieu central,MC,150 K €,SC Austria Lustenau,Autriche,Fin du prêt30 juin 2023,Clermont Foot 63,
+Mateusz WieteskaM. Wieteska,26,Pologne,Défenseur central,DC,"4,00 mio. €",Cagliari Calcio,Italie,"5,00 mio. €",,Clermont Foot 63
+Charly KeitaC. Keita,24,France,Avant-centre,AC,200 K €,Beerschot V.A.,Belgique,Tr. libre,,Clermont Foot 63
+Saîf-Eddine KhaouiS. Khaoui,28,Tunisie,Milieu offensif,MO,"2,00 mio. €",Khor Fakkan SSC,Émirats Arabes Unis,Tr. libre,,Clermont Foot 63
+Lucas MargueronL. Margueron,22,France,Gardien de but,GdB,150 K €,RFC Seraing,Belgique,Tr. libre,,Clermont Foot 63
+Souleymane CisséS. Cissé,20,France,Défenseur central,DC,100 K €,Dijon FCO,France,Tr. libre,,Clermont Foot 63
+Yuliwes BellacheY. Bellache,20,Algérie,Milieu central,MC,150 K €,JS Kabylie,Algérie,Tr. libre,,Clermont Foot 63
+Thomas PerchaudT. Perchaud,25,France,Avant-centre,AC,-,FC Biel-Bienne 1896,Suisse,Prêt,,Clermont Foot 63
+Abdoulaye CoulibalyA. Coulibaly,21,France,Ailier gauche,AiG,150 K €,FC Biel-Bienne 1896,Suisse,Prêt,,Clermont Foot 63
+Cem TürkmenC. Türkmen,21,Turquie,Milieu central,MC,"1,00 mio. €",MKE Ankaragücü,Turquie,?,,Clermont Foot 63
+Yanis MassolinY. Massolin,20,France,Milieu central,MC,250 K €,Royal Francs Borains,Belgique,?,,Clermont Foot 63
+Adama DiakitéA. Diakité,24,France,Ailier gauche,AiG,150 K €,Trélissac FC,France,Prêt,,Clermont Foot 63
+Baïla DialloB. Diallo,22,Sénégal,Arrière gauche,ArG,200 K €,SC Austria Lustenau,Autriche,Prêt,,Clermont Foot 63
+Ouparine DjocoO. Djoco,25,Guinée-Bissau,Gardien de but,GdB,500 K €,Royal Francs Borains,Belgique,Prêt,,Clermont Foot 63
+Oliver KamdemO. Kamdem,20,France,Arrière droit,ArD,100 K €,Sans club,   Sans club,-,,Clermont Foot 63
+Nassim L'GhoulN. L'Ghoul,26,France,Milieu offensif,MO,-,FC Biel-Bienne 1896,Suisse,Prêt,,Clermont Foot 63
+Maximiliano CaufriezM. Caufriez,26,Belgique,Défenseur central,DC,"3,00 mio. €",Spartak Moscou,Russie,Fin du prêt30 juin 2023,,Clermont Foot 63
+Terem MoffiT. Moffi,24,Nigeria,Avant-centre,AC,"25,00 mio. €",FC Lorient,France,"22,50 mio. €",OGC Nice,
+Jérémie BogaJ. Boga,26,Côte d'Ivoire,Ailier gauche,AiG,"14,00 mio. €",Atalanta BC,Italie,"18,00 mio. €",OGC Nice,
+Aliou BaldéA. Baldé,20,Sénégal,Ailier gauche,AiG,"1,20 mio. €",FC Lausanne-Sport,Suisse,"2,50 mio. €",OGC Nice,
+Amidou DoumbouyaA. Doumbouya,16,France,Défenseur central,DC,500 K €,FC Sochaux-Montbéliard U19,France,500 K €,OGC Nice,
+Morgan SansonM. Sanson,28,France,Milieu central,MC,"7,00 mio. €",Aston Villa,Angleterre,Prêt,OGC Nice,
+Romain PerraudR. Perraud,25,France,Arrière gauche,ArG,"12,00 mio. €",FC Southampton,Angleterre,Prêt,OGC Nice,
+Yannis NahounouY. Nahounou,19,France,Défenseur central,DC,150 K €,OGC Nice B,France,-,OGC Nice,
+Salvatore SiriguS. Sirigu,36,Italie,Gardien de but,GdB,500 K €,Sans club,   Sans club,-,OGC Nice,
+Ange AhoussouA. Ahoussou,19,Côte d'Ivoire,Défenseur central,DC,500 K €,FC Sochaux-Montbéliard,France,Fin du prêt12 juil. 2023,OGC Nice,
+Rareș IlieR. Ilie,20,Roumanie,Ailier gauche,AiG,"3,20 mio. €",Maccabi Tel Aviv,Israël,Fin du prêt30 juin 2023,OGC Nice,
+Andy DelortA. Delort,31,Algérie,Avant-centre,AC,"7,00 mio. €",FC Nantes,France,Fin du prêt30 juin 2023,OGC Nice,
+Morgan SchneiderlinM. Schneiderlin,33,France,Milieu défensif,MDC,"1,50 mio. €",Western Sydney Wanderers,Australie,Fin du prêt30 juin 2023,OGC Nice,
+Robson BambuRobson Bambu,26,Brésil,Défenseur central,DC,"2,50 mio. €",Clube de Regatas Vasco da Gama,Brésil,Fin du prêt31 déc. 2023,OGC Nice,
+Kasper DolbergK. Dolberg,25,Danemark,Avant-centre,AC,"7,00 mio. €",TSG 1899 Hoffenheim,Allemagne,Fin du prêt30 juin 2023,OGC Nice,
+Alexis Claude-MauriceA. Claude-Maurice,25,France,Milieu offensif,MO,"4,50 mio. €",RC Lens,France,Fin du prêt30 juin 2023,OGC Nice,
+Calvin StengsC. Stengs,24,Pays-Bas,Milieu offensif,MO,"10,00 mio. €",Royal Antwerp FC,Belgique,Fin du prêt30 juin 2023,OGC Nice,
+Evann GuessandE. Guessand,21,France,Avant-centre,AC,"4,50 mio. €",FC Nantes,France,Fin du prêt30 juin 2023,OGC Nice,
+Ange AhoussouA. Ahoussou,19,Côte d'Ivoire,Défenseur central,DC,500 K €,LB Châteauroux,France,Fin du prêt30 juin 2023,OGC Nice,
+Jean N'GuessanJ. N'Guessan,20,Côte d'Ivoire,Milieu central,MC,"1,20 mio. €",Nîmes Olympique,France,Fin du prêt30 juin 2023,OGC Nice,
+Calvin StengsC. Stengs,24,Pays-Bas,Milieu offensif,MO,"10,00 mio. €",Feyenoord Rotterdam,Pays-Bas,"6,00 mio. €",,OGC Nice
+Kasper DolbergK. Dolberg,25,Danemark,Avant-centre,AC,"7,00 mio. €",RSC Anderlecht,Belgique,"5,00 mio. €",,OGC Nice
+Andy DelortA. Delort,31,Algérie,Avant-centre,AC,"7,00 mio. €",FC Nantes,France,"5,00 mio. €",,OGC Nice
+Ange AhoussouA. Ahoussou,19,Côte d'Ivoire,Défenseur central,DC,500 K €,Pau FC,France,400 K €,,OGC Nice
+Kasper SchmeichelK. Schmeichel,36,Danemark,Gardien de but,GdB,"1,50 mio. €",RSC Anderlecht,Belgique,Tr. libre,,OGC Nice
+Morgan SchneiderlinM. Schneiderlin,33,France,Milieu défensif,MDC,"1,50 mio. €",Konyaspor,Turquie,Tr. libre,,OGC Nice
+Ross BarkleyR. Barkley,29,Angleterre,Milieu central,MC,"4,50 mio. €",Luton Town,Angleterre,Tr. libre,,OGC Nice
+Aaron RamseyA. Ramsey,32,Pays de Galles,Milieu central,MC,"2,50 mio. €",Cardiff City,Angleterre,Tr. libre,,OGC Nice
+Ange AhoussouA. Ahoussou,19,Côte d'Ivoire,Défenseur central,DC,500 K €,FC Sochaux-Montbéliard,France,Prêt,,OGC Nice
+Jean N'GuessanJ. N'Guessan,20,Côte d'Ivoire,Milieu central,MC,"1,20 mio. €",FC Metz,France,?,,OGC Nice
+Mattia VitiM. Viti,21,Italie,Défenseur central,DC,"7,00 mio. €",US Sassuolo,Italie,Prêt,,OGC Nice
+Rareș IlieR. Ilie,20,Roumanie,Ailier gauche,AiG,"3,20 mio. €",FC Lausanne-Sport,Suisse,Prêt,,OGC Nice
+Billal BrahimiB. Brahimi,23,Algérie,Ailier gauche,AiG,"5,00 mio. €",Stade Brestois 29,France,Prêt,,OGC Nice
+Terem MoffiT. Moffi,24,Nigeria,Avant-centre,AC,"25,00 mio. €",FC Lorient,France,Fin du prêt30 juin 2023,,OGC Nice
+Joe BryanJoe Bryan,29,Angleterre,Arrière gauche,ArG,"2,20 mio. €",FC Fulham,Angleterre,Fin du prêt30 juin 2023,,OGC Nice
+Nicolas PépéN. Pépé,28,Côte d'Ivoire,Ailier droit,AiD,"14,00 mio. €",Arsenal FC,Angleterre,Fin du prêt30 juin 2023,,OGC Nice
+Isaak TouréI. Touré,20,France,Défenseur central,DC,"8,00 mio. €",Olympique de Marseille,France,"8,00 mio. €",FC Lorient,
+Formose MendyF. Mendy,22,Sénégal,Défenseur central,DC,"5,00 mio. €",Amiens SC,France,"7,50 mio. €",FC Lorient,
+Aiyegun TosinA. Tosin,25,Bénin,Avant-centre,AC,"4,00 mio. €",FC Zürich,Suisse,"4,00 mio. €",FC Lorient,
+Dembo SyllaD. Sylla,20,Guinée,Arrière droit,ArD,600 K €,Stade Lavallois,France,"1,00 mio. €",FC Lorient,
+Dominique YoufeiganeD. Youfeigane,23,République Centrafricaine,Gardien de but,GdB,300 K €,EA Guingamp,France,Tr. libre,FC Lorient,
+Benjamin MendyB. Mendy,29,France,Arrière gauche,ArG,"3,00 mio. €",Manchester City,Angleterre,Tr. libre,FC Lorient,
+Tiemoué BakayokoT. Bakayoko,29,France,Milieu défensif,MDC,"2,50 mio. €",Chelsea FC,Angleterre,Tr. libre,FC Lorient,
+Alfred GomisA. Gomis,29,Sénégal,Gardien de but,GdB,"2,00 mio. €",Stade Rennais FC,France,Prêt,FC Lorient,
+Romain FaivreR. Faivre,25,France,Milieu droit,MD,"15,00 mio. €",AFC Bournemouth,Angleterre,Prêt,FC Lorient,
+Eli Junior KroupiE. Kroupi,17,France,Milieu offensif,MO,"8,00 mio. €",FC Lorient B,France,-,FC Lorient,
+Loris MouyokoloL. Mouyokolo,22,France,Défenseur central,DC,500 K €,Rodez AF,France,Fin du prêt30 juin 2023,FC Lorient,
+Joel MvukaJ. Mvuka,20,Norvège,Ailier droit,AiD,"4,50 mio. €",FK Bodø/Glimt,Norvège,Fin du prêt30 juin 2023,FC Lorient,
+Adrian GrbicA. Grbic,26,Autriche,Avant-centre,AC,"1,50 mio. €",Valenciennes FC,France,Fin du prêt30 juin 2023,FC Lorient,
+Terem MoffiT. Moffi,24,Nigeria,Avant-centre,AC,"25,00 mio. €",OGC Nice,France,Fin du prêt30 juin 2023,FC Lorient,
+Moritz JenzM. Jenz,24,Allemagne,Défenseur central,DC,"7,50 mio. €",FC Schalke 04,Allemagne,Fin du prêt30 juin 2023,FC Lorient,
+Quentin BoisgardQ. Boisgard,26,France,Milieu offensif,MO,"1,00 mio. €",Pau FC,France,Fin du prêt30 juin 2023,FC Lorient,
+Sambou SoumanoS. Soumano,22,Sénégal,Avant-centre,AC,800 K €,Rodez AF,France,Fin du prêt30 juin 2023,FC Lorient,
+Samuel LoricS. Loric,22,France,Arrière gauche,ArG,500 K €,Quevilly - Rouen Métropole,France,Fin du prêt30 juin 2023,FC Lorient,
+Pablo PagisP. Pagis,20,France,Avant-centre,AC,"1,50 mio. €",Nîmes Olympique,France,Fin du prêt30 juin 2023,FC Lorient,
+Terem MoffiT. Moffi,24,Nigeria,Avant-centre,AC,"25,00 mio. €",OGC Nice,France,"22,50 mio. €",,FC Lorient
+Enzo Le FéeE. Le Fée,23,France,Milieu offensif,MO,"20,00 mio. €",Stade Rennais FC,France,"20,00 mio. €",,FC Lorient
+Moritz JenzM. Jenz,24,Allemagne,Défenseur central,DC,"7,50 mio. €",VfL Wolfsburg,Allemagne,"8,00 mio. €",,FC Lorient
+Ibrahima KonéI. Koné,24,Mali,Avant-centre,AC,"4,00 mio. €",UD Almería,Espagne,"7,50 mio. €",,FC Lorient
+Vito MannoneV. Mannone,35,Italie,Gardien de but,GdB,300 K €,LOSC Lille,France,200 K €,,FC Lorient
+Teddy BartoucheT. Bartouche,26,Guadeloupe,Gardien de but,GdB,150 K €,EA Guingamp,France,Tr. libre,,FC Lorient
+Samuel LoricS. Loric,23,France,Arrière gauche,ArG,500 K €,Quevilly - Rouen Métropole,France,?,,FC Lorient
+Adil AouchicheA. Aouchiche,21,France,Milieu offensif,MO,"2,20 mio. €",AFC Sunderland,Angleterre,?,,FC Lorient
+Sambou SoumanoS. Soumano,22,Sénégal,Avant-centre,AC,800 K €,Quevilly - Rouen Métropole,France,Prêt,,FC Lorient
+Stéphane DiarraS. Diarra,24,Côte d'Ivoire,Ailier droit,AiD,"2,00 mio. €",AS Saint-Étienne,France,Prêt,,FC Lorient
+Yoann CathlineY. Cathline,21,France,Ailier gauche,AiG,"2,00 mio. €",Almere City FC,Pays-Bas,Prêt,,FC Lorient
+Bamo MeïtéB. Meïté,21,Côte d'Ivoire,Défenseur central,DC,"4,00 mio. €",Olympique de Marseille,France,Prêt,,FC Lorient
+Julian PollersbeckJ. Pollersbeck,28,Allemagne,Gardien de but,GdB,500 K €,Olympique Lyonnais,France,Fin du prêt30 juin 2023,,FC Lorient
+Romain FaivreR. Faivre,24,France,Milieu droit,MD,"15,00 mio. €",Olympique Lyonnais,France,Fin du prêt30 juin 2023,,FC Lorient
+Joseph OkumuJ. Okumu,26,Kenya,Défenseur central,DC,"9,00 mio. €",KAA La Gantoise,Belgique,"12,00 mio. €",Stade de Reims,
+Keito NakamuraK. Nakamura,23,Japon,Ailier gauche,AiG,"12,00 mio. €",LASK,Autriche,"12,00 mio. €",Stade de Reims,
+Mohamed DaramyM. Daramy,21,Danemark,Ailier gauche,AiG,"10,00 mio. €",Ajax Amsterdam,Pays-Bas,"12,00 mio. €",Stade de Reims,
+Teddy TeumaT. Teuma,29,Malte,Milieu central,MC,"6,00 mio. €",Royale Union Saint-Gilloise,Belgique,"4,60 mio. €",Stade de Reims,
+Amine SalamaA. Salama,22,France,Avant-centre,AC,"3,00 mio. €",Angers SCO,France,"4,00 mio. €",Stade de Reims,
+Oumar DiakitéO. Diakité,19,Côte d'Ivoire,Avant-centre,AC,"2,50 mio. €",Red Bull Salzbourg,Autriche,"2,50 mio. €",Stade de Reims,
+Reda KhadraR. Khadra,22,Allemagne,Milieu offensif,MO,"1,80 mio. €",Brighton & Hove Albion,Angleterre,"1,90 mio. €",Stade de Reims,
+Ludovic ButelleL. Butelle,40,France,Gardien de but,GdB,100 K €,Red Star FC,France,Tr. libre,Stade de Reims,
+Adama BojangA. Bojang,19,Gambie,Avant-centre,AC,500 K €,Steve Biko FC,Gambie,?,Stade de Reims,
+Josh Wilson-EsbrandJ. Wilson-Esbrand,20,Angleterre,Arrière gauche,ArG,"1,50 mio. €",Manchester City,Angleterre,Prêt,Stade de Reims,
+Valentin Atangana EdoaV. Atangana Edoa,17,France,Milieu défensif,MDC,800 K €,Stade Reims B,France,-,Stade de Reims,
+Thérence KoudouT. Koudou,18,France,Arrière droit,ArD,400 K €,Stade Reims B,France,-,Stade de Reims,
+Dario MaresicD. Maresic,23,Autriche,Défenseur central,DC,500 K €,NK Istra 1961,Croatie,Fin du prêt30 juin 2023,Stade de Reims,
+Hugo EkitikéH. Ekitiké,21,France,Avant-centre,AC,"15,00 mio. €",Paris Saint-Germain,France,Fin du prêt30 juin 2023,Stade de Reims,
+Fraser HornbyF. Hornby,23,Écosse,Avant-centre,AC,"1,80 mio. €",KV Oostende,Belgique,Fin du prêt30 juin 2023,Stade de Reims,
+Anastasios DonisA. Donis,26,Grèce,Ailier droit,AiD,700 K €,APOEL Nikosia,Chypre,Fin du prêt30 juin 2023,Stade de Reims,
+Ilan KebbalI. Kebbal,24,Algérie,Milieu offensif,MO,"2,00 mio. €",Paris FC,France,Fin du prêt30 juin 2023,Stade de Reims,
+Moustapha MbowM. Mbow,23,Sénégal,Défenseur central,DC,600 K €,RFC Seraing,Belgique,Fin du prêt30 juin 2023,Stade de Reims,
+Amir RichardsonA. Richardson,21,Maroc,Milieu central,MC,"3,50 mio. €",Le Havre AC,France,Fin du prêt30 juin 2023,Stade de Reims,
+Valon BerishaV. Berisha,30,Kosovo,Milieu central,MC,"1,50 mio. €",Melbourne City FC,Australie,Fin du prêt30 juin 2023,Stade de Reims,
+Ibrahim DiakitéI. Diakité,19,Guinée,Arrière droit,ArD,700 K €,KAS Eupen,Belgique,Fin du prêt30 juin 2023,Stade de Reims,
+N'Dri KoffiN. Koffi,21,Côte d'Ivoire,Avant-centre,AC,800 K €,Le Mans FC,France,Fin du prêt30 juin 2023,Stade de Reims,
+Martin AdelineM. Adeline,19,France,Milieu central,MC,800 K €,Rodez AF,France,Fin du prêt30 juin 2023,Stade de Reims,
+Andreaw GravillonA. Gravillon,25,Guadeloupe,Défenseur central,DC,"4,30 mio. €",Torino FC,Italie,Fin du prêt30 juin 2023,Stade de Reims,
+Bradley LockoB. Locko,21,France,Arrière gauche,ArG,"5,00 mio. €",Stade Brestois 29,France,Fin du prêt30 juin 2023,Stade de Reims,
+Rafik GuitaneR. Guitane,24,France,Ailier droit,AiD,"1,00 mio. €",GD Estoril Praia,Portugal,Fin du prêt30 juin 2023,Stade de Reims,
+Hugo EkitikéH. Ekitiké,21,France,Avant-centre,AC,"15,00 mio. €",Paris Saint-Germain,France,"28,50 mio. €",,Stade de Reims
+Jens CajusteJ. Cajuste,24,Suède,Milieu central,MC,"10,00 mio. €",SSC Napoli,Italie,"12,00 mio. €",,Stade de Reims
+Dion LopyDion Lopy,21,Sénégal,Milieu défensif,MDC,"6,00 mio. €",UD Almería,Espagne,"6,50 mio. €",,Stade de Reims
+Alexis FlipsA. Flips,23,France,Ailier gauche,AiG,"5,00 mio. €",RSC Anderlecht,Belgique,"3,50 mio. €",,Stade de Reims
+Andreaw GravillonA. Gravillon,25,Guadeloupe,Défenseur central,DC,"4,30 mio. €",Adana Demirspor,Turquie,"2,50 mio. €",,Stade de Reims
+Ilan KebbalI. Kebbal,25,Algérie,Milieu offensif,MO,"2,00 mio. €",Paris FC,France,"2,00 mio. €",,Stade de Reims
+Fraser HornbyF. Hornby,23,Écosse,Avant-centre,AC,"1,80 mio. €",SV Darmstadt 98,Allemagne,"1,80 mio. €",,Stade de Reims
+Mitchell van BergenM. van Bergen,24,Pays-Bas,Ailier gauche,AiG,"1,20 mio. €",FC Twente Enschede,Pays-Bas,"1,00 mio. €",,Stade de Reims
+Moustapha MbowM. Mbow,23,Sénégal,Défenseur central,DC,600 K €,Paris FC,France,500 K €,,Stade de Reims
+Bradley LockoB. Locko,21,France,Arrière gauche,ArG,"5,00 mio. €",Stade Brestois 29,France,500 K €,,Stade de Reims
+Kaj SierhuisK. Sierhuis,25,Pays-Bas,Avant-centre,AC,"1,20 mio. €",Fortuna Sittard,Pays-Bas,500 K €,,Stade de Reims
+Rafik GuitaneR. Guitane,24,France,Ailier droit,AiD,"1,00 mio. €",GD Estoril Praia,Portugal,250 K €,,Stade de Reims
+N'Dri KoffiN. Koffi,21,Côte d'Ivoire,Avant-centre,AC,800 K €,FC Sochaux-Montbéliard,France,Tr. libre,,Stade de Reims
+Anastasios DonisA. Donis,26,Grèce,Ailier droit,AiD,700 K €,APOEL Nikosia,Chypre,Tr. libre,,Stade de Reims
+Cheick KeitaC. Keita,20,France,Défenseur central,DC,"1,50 mio. €",SC Bastia,France,Prêt,,Stade de Reims
+Dario MaresicD. Maresic,23,Autriche,Défenseur central,DC,500 K €,NK Istra 1961,Croatie,?,,Stade de Reims
+Arbër ZeneliA. Zeneli,28,Kosovo,Ailier gauche,AiG,"3,00 mio. €",Adana Demirspor,Turquie,?,,Stade de Reims
+Martin AdelineM. Adeline,19,France,Milieu central,MC,800 K €,FC Annecy,France,Prêt,,Stade de Reims
+Thérence KoudouT. Koudou,18,France,Arrière droit,ArD,400 K €,Pau FC,France,Prêt,,Stade de Reims
+Kamory DoumbiaK. Doumbia,20,Mali,Milieu offensif,MO,"2,50 mio. €",Stade Brestois 29,France,Prêt,,Stade de Reims
+Valon BerishaV. Berisha,30,Kosovo,Milieu central,MC,"1,50 mio. €",Sans club,   Sans club,-,,Stade de Reims
+Nicolas PenneteauN. Penneteau,42,France,Gardien de but,GdB,-,Fin de carrière,   Fin de carrière,-,,Stade de Reims
+Noah Jean HolmN. Holm,22,Norvège,Avant-centre,AC,700 K €,Rosenborg BK,Norvège,Fin du prêt3 août 2023,,Stade de Reims
+Folarin BalogunF. Balogun,21,États-Unis,Avant-centre,AC,"30,00 mio. €",Arsenal FC,Angleterre,Fin du prêt30 juin 2023,,Stade de Reims
+Myziane MaolidaM. Maolida,24,Comores,Ailier gauche,AiG,900 K €,Hertha BSC,Allemagne,Fin du prêt30 juin 2023,,Stade de Reims
+Akor AdamsA. Adams,23,Nigeria,Avant-centre,AC,"8,00 mio. €",Lillestrøm SK,Norvège,"4,50 mio. €",Montpellier Hérault SC,
+Falaye SackoF. Sacko,28,Mali,Arrière droit,ArD,"4,00 mio. €",Vitória Guimarães SC,Portugal,"1,30 mio. €",Montpellier Hérault SC,
+Belmin DizdarevicB. Dizdarevic,21,Bosnie-Herzégovine,Gardien de but,GdB,200 K €,FK Sarajevo,Bosnie-Herzégovine,150 K €,Montpellier Hérault SC,
+Becir OmeragicB. Omeragic,21,Suisse,Défenseur central,DC,"5,00 mio. €",FC Zürich,Suisse,Tr. libre,Montpellier Hérault SC,
+Mousa Al-TamariM. Al-Tamari,26,Jordanie,Ailier droit,AiD,"5,00 mio. €",Oud-Heverlee Leuven,Belgique,Tr. libre,Montpellier Hérault SC,
+Kelvin YeboahK. Yeboah,23,Italie,Avant-centre,AC,"3,50 mio. €",Genoa CFC,Italie,Prêt,Montpellier Hérault SC,
+Sacha DelayeS. Delaye,21,France,Milieu offensif,MO,400 K €,Le Puy Foot 43 Auvergne,France,Fin du prêt30 juin 2023,Montpellier Hérault SC,
+Gabriel BarèsG. Barès,22,Suisse,Milieu défensif,MDC,400 K €,FC Thun,Suisse,Fin du prêt30 juin 2023,Montpellier Hérault SC,
+Elye WahiElye Wahi,20,France,Avant-centre,AC,"40,00 mio. €",RC Lens,France,"30,00 mio. €",,Montpellier Hérault SC
+Stephy MavididiS. Mavididi,25,Angleterre,Ailier gauche,AiG,"9,00 mio. €",Leicester City,Angleterre,"7,50 mio. €",,Montpellier Hérault SC
+Béni MakouanaB. Makouana,20,Congo,Ailier gauche,AiG,600 K €,FK Polissya Zhytomyr,Ukraine,250 K €,,Montpellier Hérault SC
+Pedro MendesP. Mendes,32,Portugal,Défenseur central,DC,"1,80 mio. €",CF Estrela Amadora SAD,Portugal,Tr. libre,,Montpellier Hérault SC
+Thibault TamasT. Tamas,22,France,Arrière gauche,ArG,-,Stade Briochin,France,Tr. libre,,Montpellier Hérault SC
+Valère GermainV. Germain,33,France,Avant-centre,AC,"1,50 mio. €",Macarthur FC,Australie,Tr. libre,,Montpellier Hérault SC
+Bingourou KamaraB. Kamara,26,Sénégal,Gardien de but,GdB,800 K €,Pau FC,France,Tr. libre,,Montpellier Hérault SC
+Gabriel BarèsG. Barès,22,Suisse,Milieu défensif,MDC,400 K €,US Concarneau,France,Prêt,,Montpellier Hérault SC
+Matis CarvalhoM. Carvalho,24,Portugal,Gardien de but,GdB,-,Sans club,   Sans club,-,,Montpellier Hérault SC
+Mamadou SakhoM. Sakho,33,France,Défenseur central,DC,"1,50 mio. €",Sans club,   Sans club,-,,Montpellier Hérault SC
+Mathías SuárezM. Suárez,27,Uruguay,Arrière droit,ArD,275 K €,Sans club,   Sans club,-,,Montpellier Hérault SC
+Faitout MaouassaF. Maouassa,24,France,Arrière gauche,ArG,"6,00 mio. €",Club Brugge KV,Belgique,Fin du prêt30 juin 2023,,Montpellier Hérault SC
+Falaye SackoF. Sacko,28,Mali,Arrière droit,ArD,"4,00 mio. €",Vitória Guimarães SC,Portugal,Fin du prêt30 juin 2023,,Montpellier Hérault SC
+Aron DønnumA. Dønnum,25,Norvège,Ailier droit,AiD,"4,00 mio. €",Standard de Liège,Belgique,"4,50 mio. €",Toulouse FC,
+Ibrahim CissokoI. Cissoko,20,Pays-Bas,Ailier gauche,AiG,"2,50 mio. €",NEC Nijmegen,Pays-Bas,"3,00 mio. €",Toulouse FC,
+Niklas SchmidtN. Schmidt,25,Allemagne,Milieu offensif,MO,"2,50 mio. €",SV Werder Bremen,Allemagne,"2,50 mio. €",Toulouse FC,
+Frank MagriF. Magri,23,Cameroun,Avant-centre,AC,"2,50 mio. €",SC Bastia,France,"2,00 mio. €",Toulouse FC,
+Cristian Cásseres Jr.C. Cásseres Jr.,23,Venezuela,Milieu central,MC,"3,50 mio. €",New York Red Bulls,États-Unis,"1,00 mio. €",Toulouse FC,
+César GelabertC. Gelabert,22,Espagne,Milieu offensif,MO,"1,50 mio. €",CD Mirandés,Espagne,Tr. libre,Toulouse FC,
+Álex DomínguezÁ. Domínguez,24,Espagne,Gardien de but,GdB,300 K €,UD Las Palmas,Espagne,?,Toulouse FC,
+Stijn SpieringsS. Spierings,27,Pays-Bas,Milieu défensif,MDC,"5,00 mio. €",RC Lens,France,Prêt,Toulouse FC,
+Christian Mawissa ElebiC. Mawissa Elebi,18,France,Défenseur central,DC,250 K €,Toulouse FC B,France,-,Toulouse FC,
+Ylies AradjY. Aradj,18,France,Arrière gauche,ArG,50 K €,Toulouse FC U19,France,-,Toulouse FC,
+Guillaume RestesG. Restes,18,France,Gardien de but,GdB,"9,00 mio. €",Toulouse FC B,France,-,Toulouse FC,
+Justin LacombeJ. Lacombe,20,France,Gardien de but,GdB,150 K €,Toulouse FC B,France,-,Toulouse FC,
+Bonota TraoréB. Traoré,20,France,Avant-centre,AC,50 K €,Toulouse FC B,France,-,Toulouse FC,
+Junior FlemmingsJ. Flemmings,27,Jamaïque,Ailier gauche,AiG,350 K €,Chamois Niortais FC,France,Fin du prêt30 juin 2023,Toulouse FC,
+Kjetil HaugK. Haug,25,Norvège,Gardien de but,GdB,400 K €,Sarpsborg 08 FF,Norvège,Fin du prêt31 déc. 2023,Toulouse FC,
+Naatan SkyttäN. Skyttä,21,Finlande,Milieu offensif,MO,500 K €,Odense Boldklub,Danemark,Fin du prêt30 juin 2023,Toulouse FC,
+Yanis BegraouiY. Begraoui,21,Maroc,Avant-centre,AC,"1,00 mio. €",Pau FC,France,Fin du prêt30 juin 2023,Toulouse FC,
+Kléri SerberK. Serber,24,France,Milieu central,MC,300 K €,Botev Vratsa,Bulgarie,Fin du prêt30 juin 2023,Toulouse FC,
+Tom RapnouilT. Rapnouil,22,France,Arrière gauche,ArG,300 K €,Botev Vratsa,Bulgarie,Fin du prêt30 juin 2023,Toulouse FC,
+Sam SannaSam Sanna,24,France,Milieu défensif,MDC,700 K €,Stade Lavallois,France,Fin du prêt30 juin 2023,Toulouse FC,
+Mamady BangréM. Bangré,22,Burkina Faso,Milieu gauche,MG,"1,00 mio. €",Quevilly - Rouen Métropole,France,Fin du prêt30 juin 2023,Toulouse FC,
+Farès ChaïbiF. Chaïbi,20,Algérie,Ailier gauche,AiG,"10,00 mio. €",Eintracht Francfort,Allemagne,"10,00 mio. €",,Toulouse FC
+Rafael RatãoRafael Ratão,27,Brésil,Ailier gauche,AiG,"2,50 mio. €",Esporte Clube Bahia,Brésil,"2,50 mio. €",,Toulouse FC
+Ado OnaiwuA. Onaiwu,27,Japon,Avant-centre,AC,"1,50 mio. €",AJ Auxerre,France,700 K €,,Toulouse FC
+Maxime DupéM. Dupé,30,France,Gardien de but,GdB,"2,50 mio. €",RSC Anderlecht,Belgique,Tr. libre,,Toulouse FC
+Branco van den BoomenB. van den Boomen,27,Pays-Bas,Milieu central,MC,"9,00 mio. €",Ajax Amsterdam,Pays-Bas,Tr. libre,,Toulouse FC
+Tom RapnouilT. Rapnouil,22,France,Arrière gauche,ArG,300 K €,CSKA 1948,Bulgarie,Tr. libre,,Toulouse FC
+Rhys HealeyR. Healey,28,Angleterre,Avant-centre,AC,"2,00 mio. €",FC Watford,Angleterre,Tr. libre,,Toulouse FC
+Brecht DejaegereB. Dejaegere,32,Belgique,Milieu central,MC,"1,20 mio. €",Charlotte FC,États-Unis,Tr. libre,,Toulouse FC
+Stijn SpieringsS. Spierings,27,Pays-Bas,Milieu défensif,MDC,"5,00 mio. €",RC Lens,France,Tr. libre,,Toulouse FC
+Sam SannaSam Sanna,24,France,Milieu défensif,MDC,700 K €,Stade Lavallois,France,Tr. libre,,Toulouse FC
+Anthony RouaultA. Rouault,22,France,Défenseur central,DC,"10,00 mio. €",VfB Stuttgart,Allemagne,Prêt,,Toulouse FC
+Said HamulicS. Hamulic,22,Bosnie-Herzégovine,Avant-centre,AC,"1,50 mio. €",Vitesse Arnhem,Pays-Bas,Prêt,,Toulouse FC
+Junior FlemmingsJ. Flemmings,27,Jamaïque,Ailier gauche,AiG,350 K €,FK Vozdovac,Serbie,Prêt,,Toulouse FC
+Veljko BirmancevicV. Birmancevic,25,Serbie,Ailier gauche,AiG,"3,00 mio. €",AC Sparta Prague,Tchéquie,Prêt,,Toulouse FC
+Kjetil HaugK. Haug,25,Norvège,Gardien de but,GdB,400 K €,Sarpsborg 08 FF,Norvège,Prêt,,Toulouse FC
+Theocharis TsingarasT. Tsingaras,22,Grèce,Milieu central,MC,"1,20 mio. €",PAOK Thessaloniki,Grèce,Fin du prêt30 juin 2023,,Toulouse FC
+Mahdi CamaraM. Camara,25,France,Milieu central,MC,"5,00 mio. €",AS Saint-Étienne,France,"3,00 mio. €",Stade Brestois 29,
+Bradley LockoB. Locko,21,France,Arrière gauche,ArG,"5,00 mio. €",Stade de Reims,France,500 K €,Stade Brestois 29,
+Jonas MartinJ. Martin,33,France,Milieu défensif,MDC,"1,50 mio. €",LOSC Lille,France,Tr. libre,Stade Brestois 29,
+Adrien LebeauA. Lebeau,24,France,Ailier gauche,AiG,250 K €,SV Waldhof Mannheim,Allemagne,Tr. libre,Stade Brestois 29,
+Martín SatrianoM. Satriano,22,Uruguay,Avant-centre,AC,"7,00 mio. €",Inter Milan,Italie,Prêt,Stade Brestois 29,
+Jordan AmaviJ. Amavi,29,France,Arrière gauche,ArG,"2,00 mio. €",Olympique de Marseille,France,Prêt,Stade Brestois 29,
+Billal BrahimiB. Brahimi,23,Algérie,Ailier gauche,AiG,"5,00 mio. €",OGC Nice,France,Prêt,Stade Brestois 29,
+Julien Le CardinalJ. Le Cardinal,26,France,Arrière droit,ArD,"2,00 mio. €",RC Lens,France,Prêt,Stade Brestois 29,
+Kamory DoumbiaK. Doumbia,20,Mali,Milieu offensif,MO,"2,50 mio. €",Stade de Reims,France,Prêt,Stade Brestois 29,
+Yan MarillatY. Marillat,29,France,Gardien de but,GdB,200 K €,Sans club,   Sans club,-,Stade Brestois 29,
+Luck ZogbéL. Zogbé,18,Côte d'Ivoire,Arrière droit,ArD,-,Sans club,   Sans club,-,Stade Brestois 29,
+Axel CamblanA. Camblan,19,France,Milieu gauche,MG,400 K €,US Concarneau,France,Fin du prêt30 juin 2023,Stade Brestois 29,
+Jere UronenJ. Uronen,28,Finlande,Arrière gauche,ArG,"1,00 mio. €",FC Schalke 04,Allemagne,Fin du prêt30 juin 2023,Stade Brestois 29,
+Hianga'a MbockH. Mbock,23,France,Milieu central,MC,"1,20 mio. €",SM Caen,France,Fin du prêt30 juin 2023,Stade Brestois 29,
+Franck HonoratF. Honorat,26,France,Ailier droit,AiD,"10,00 mio. €",Borussia Mönchengladbach,Allemagne,"8,00 mio. €",,Stade Brestois 29
+Jere UronenJ. Uronen,29,Finlande,Arrière gauche,ArG,"1,00 mio. €",Charlotte FC,États-Unis,600 K €,,Stade Brestois 29
+Noah FadigaN. Fadiga,23,Sénégal,Arrière droit,ArD,"1,20 mio. €",KAA La Gantoise,Belgique,Tr. libre,,Stade Brestois 29
+Haris BelkeblaH. Belkebla,29,Algérie,Milieu central,MC,"2,50 mio. €",Ohod Club,Arabie Saoudite,Tr. libre,,Stade Brestois 29
+Jean-Kévin DuverneJ. Duverne,26,Haïti,Défenseur central,DC,"4,00 mio. €",FC Nantes,France,Tr. libre,,Stade Brestois 29
+Christophe HérelleC. Hérelle,31,Martinique,Défenseur central,DC,"2,00 mio. €",FC Metz,France,?,,Stade Brestois 29
+Karamoko DembéléK. Dembélé,20,Angleterre,Ailier droit,AiD,500 K €,Blackpool FC,Angleterre,Prêt,,Stade Brestois 29
+Taïryk ArconteT. Arconte,19,Guadeloupe,Ailier droit,AiD,500 K €,Rodez AF,France,Prêt,,Stade Brestois 29
+Hianga'a MbockH. Mbock,23,France,Milieu central,MC,"1,20 mio. €",SM Caen,France,Prêt,,Stade Brestois 29
+Loïc RémyL. Rémy,36,France,Avant-centre,AC,-,Sans club,   Sans club,-,,Stade Brestois 29
+Bradley LockoB. Locko,21,France,Arrière gauche,ArG,"5,00 mio. €",Stade de Reims,France,Fin du prêt30 juin 2023,,Stade Brestois 29
+Félix LemaréchalF. Lemaréchal,19,France,Milieu central,MC,"1,00 mio. €",AS Monaco,France,Fin du prêt30 juin 2023,,Stade Brestois 29
+Alberth ElisA. Elis,27,Honduras,Ailier droit,AiD,"2,00 mio. €",FC Girondins de Bordeaux,France,Fin du prêt30 juin 2023,,Stade Brestois 29
+Mahdi CamaraM. Camara,25,France,Milieu central,MC,"5,00 mio. €",AS Saint-Étienne,France,Fin du prêt30 juin 2023,,Stade Brestois 29
+Joaquín BlázquezJ. Blázquez,22,Argentine,Gardien de but,GdB,400 K €,CA Talleres,Argentine,Fin du prêt30 juin 2023,,Stade Brestois 29
+Abakar SyllaA. Sylla,20,Côte d'Ivoire,Défenseur central,DC,"15,00 mio. €",Club Brugge KV,Belgique,"20,00 mio. €",RC Strasbourg Alsace,
+Emanuel EmeghaE. Emegha,20,Pays-Bas,Avant-centre,AC,"11,00 mio. €",SK Sturm Graz,Autriche,"13,00 mio. €",RC Strasbourg Alsace,
+Junior MwangaJ. Mwanga,20,France,Défenseur central,DC,"6,00 mio. €",FC Girondins de Bordeaux,France,"10,00 mio. €",RC Strasbourg Alsace,
+Dilane BakwaD. Bakwa,20,France,Ailier gauche,AiG,"7,00 mio. €",FC Girondins de Bordeaux,France,"10,00 mio. €",RC Strasbourg Alsace,
+Saïdou SowS. Sow,21,Guinée,Défenseur central,DC,"3,00 mio. €",AS Saint-Étienne,France,"3,00 mio. €",RC Strasbourg Alsace,
+Jessy DeminguetJ. Deminguet,25,France,Milieu central,MC,"2,00 mio. €",SM Caen,France,Tr. libre,RC Strasbourg Alsace,
+Steven BaseyaS. Baseya,18,France,Défenseur central,DC,50 K €,AS Nancy-Lorraine B,France,?,RC Strasbourg Alsace,
+Karol FilaK. Fila,25,Pologne,Arrière droit,ArD,900 K €,SV Zulte Waregem,Belgique,Fin du prêt30 juin 2023,RC Strasbourg Alsace,
+Jordan RobinandJ. Robinand,19,France,Milieu offensif,MO,50 K €,Racing Strasbourg B,France,-,RC Strasbourg Alsace,
+Dany JeanDany Jean,20,Haïti,Milieu gauche,MG,150 K €,Racing Strasbourg B,France,-,RC Strasbourg Alsace,
+ÂngeloÂngelo,18,Brésil,Ailier droit,AiD,"15,00 mio. €",Chelsea FC,Angleterre,Prêt,RC Strasbourg Alsace,
+Maxime BastianM. Bastian,22,France,Arrière gauche,ArG,"1,20 mio. €",FC Annecy,France,Fin du prêt30 juin 2023,RC Strasbourg Alsace,
+Marvin SenayaM. Senaya,22,France,Arrière droit,ArD,"1,00 mio. €",Rodez AF,France,Fin du prêt30 juin 2023,RC Strasbourg Alsace,
+Moïse Sahi DionM. Dion,21,Côte d'Ivoire,Avant-centre,AC,"3,00 mio. €",FC Annecy,France,Fin du prêt30 juin 2023,RC Strasbourg Alsace,
+Marvin ElimbiM. Elimbi,20,France,Défenseur central,DC,300 K €,US Orléans,France,Fin du prêt30 juin 2023,RC Strasbourg Alsace,
+Mehdi ChahiriM. Chahiri,26,France,Ailier gauche,AiG,700 K €,Paris FC,France,Fin du prêt30 juin 2023,RC Strasbourg Alsace,
+Alaa BellaarouchA. Bellaarouch,21,Maroc,Gardien de but,GdB,200 K €,Stade Briochin,France,Fin du prêt30 juin 2023,RC Strasbourg Alsace,
+Habib DialloH. Diallo,28,Sénégal,Avant-centre,AC,"14,00 mio. €",Al-Shabab FC,Arabie Saoudite,"18,00 mio. €",,RC Strasbourg Alsace
+Jean-Ricner BellegardeJ. Bellegarde,25,France,Milieu central,MC,"15,00 mio. €",Wolverhampton Wanderers,Angleterre,"15,00 mio. €",,RC Strasbourg Alsace
+Dimitri LiénardD. Liénard,35,France,Milieu gauche,MG,400 K €,SC Bastia,France,Tr. libre,,RC Strasbourg Alsace
+Mehdi ChahiriM. Chahiri,27,France,Ailier gauche,AiG,700 K €,Pau FC,France,Tr. libre,,RC Strasbourg Alsace
+Alexander DjikuA. Djiku,28,Ghana,Défenseur central,DC,"8,00 mio. €",Fenerbahce,Turquie,Tr. libre,,RC Strasbourg Alsace
+Robin RisserR. Risser,18,France,Gardien de but,GdB,150 K €,Dijon FCO,France,Prêt,,RC Strasbourg Alsace
+Marvin ElimbiM. Elimbi,20,France,Défenseur central,DC,300 K €,SC União Torreense,Portugal,?,,RC Strasbourg Alsace
+Nordine KandilN. Kandil,21,Maroc,Milieu offensif,MO,600 K €,FC Annecy,France,Prêt,,RC Strasbourg Alsace
+Eiji KawashimaE. Kawashima,40,Japon,Gardien de but,GdB,150 K €,Sans club,   Sans club,-,,RC Strasbourg Alsace
+Maxime Le MarchandM. Le Marchand,33,France,Défenseur central,DC,-,Fin de carrière,   Fin de carrière,-,,RC Strasbourg Alsace
+Jordan RobinandJ. Robinand,19,France,Milieu offensif,MO,50 K €,SO Cholet,France,Prêt,,RC Strasbourg Alsace
+Dany JeanDany Jean,20,Haïti,Milieu gauche,MG,150 K €,US Avranches,France,Prêt,,RC Strasbourg Alsace
+Yuito SuzukiY. Suzuki,21,Japon,Avant-centre,AC,600 K €,Shimizu S-Pulse,Japon,Fin du prêt30 juin 2023,,RC Strasbourg Alsace
+Morgan SansonM. Sanson,28,France,Milieu central,MC,"7,00 mio. €",Aston Villa,Angleterre,Fin du prêt30 juin 2023,,RC Strasbourg Alsace
+Colin DagbaC. Dagba,24,France,Arrière droit,ArD,"2,50 mio. €",Paris Saint-Germain,France,Fin du prêt30 juin 2023,,RC Strasbourg Alsace
+Mostafa MohamedMostafa Mohamed,25,Égypte,Avant-centre,AC,"9,00 mio. €",Galatasaray,Turquie,"5,75 mio. €",FC Nantes,
+Douglas AugustoD. Augusto,26,Brésil,Milieu central,MC,"4,50 mio. €",PAOK Thessaloniki,Grèce,"5,50 mio. €",FC Nantes,
+AdsonAdson,22,Brésil,Milieu offensif,MO,"6,00 mio. €",Corinthians São Paulo,Brésil,"5,00 mio. €",FC Nantes,
+Andy DelortA. Delort,31,Algérie,Avant-centre,AC,"7,00 mio. €",OGC Nice,France,"5,00 mio. €",FC Nantes,
+Lamine DiackL. Diack,22,Sénégal,Milieu défensif,MDC,"1,80 mio. €",MKE Ankaragücü,Turquie,Montant du prêt:400 K €,FC Nantes,
+MarquinhosMarquinhos,20,Brésil,Ailier droit,AiD,"10,00 mio. €",Arsenal FC,Angleterre,Montant du prêt:300 K €,FC Nantes,
+Ronaël Pierre-GabrielR. Pierre-Gabriel,25,France,Arrière droit,ArD,"4,00 mio. €",1.FSV Mainz 05,Allemagne,Tr. libre,FC Nantes,
+Jean-Kévin DuverneJ. Duverne,26,Haïti,Défenseur central,DC,"4,00 mio. €",Stade Brestois 29,France,Tr. libre,FC Nantes,
+Matthis AblineM. Abline,20,France,Avant-centre,AC,"4,50 mio. €",Stade Rennais FC,France,Prêt,FC Nantes,
+Eray CömertE. Cömert,25,Suisse,Défenseur central,DC,"3,50 mio. €",FC Valencia,Espagne,Prêt,FC Nantes,
+Nathan ZezeN. Zeze,18,France,Défenseur central,DC,400 K €,FC Nantes B,France,-,FC Nantes,
+Stredair AppuahS. Appuah,19,France,Ailier gauche,AiG,800 K €,FC Nantes U19,France,-,FC Nantes,
+Bastien MeupiyouB. Meupiyou,17,France,Défenseur central,DC,250 K €,FC Nantes B,France,-,FC Nantes,
+Junior DiazJ. Diaz,19,Côte d'Ivoire,Défenseur central,DC,100 K €,FC Nantes B,France,-,FC Nantes,
+Abdoul Kader BambaA. Bamba,29,France,Ailier droit,AiD,900 K €,AS Saint-Étienne,France,Fin du prêt30 juin 2023,FC Nantes,
+Bridge NdiluB. Ndilu,22,France,Avant-centre,AC,250 K €,SO Cholet,France,Fin du prêt30 juin 2023,FC Nantes,
+Ludovic BlasL. Blas,25,France,Milieu offensif,MO,"22,00 mio. €",Stade Rennais FC,France,"15,00 mio. €",,FC Nantes
+Andrei GirottoA. Girotto,31,Brésil,Défenseur central,DC,"4,00 mio. €",Al-Taawoun FC,Arabie Saoudite,"4,00 mio. €",,FC Nantes
+Andy DelortA. Delort,31,Algérie,Avant-centre,AC,"7,00 mio. €",Umm Salal SC,Qatar,"2,50 mio. €",,FC Nantes
+Gor ManvelyanG. Manvelyan,21,Arménie,Milieu offensif,MO,300 K €,FC Noah Yerevan,Arménie,Tr. libre,,FC Nantes
+Charles TraoréC. Traoré,31,Mali,Arrière gauche,ArG,500 K €,SC Bastia,France,Tr. libre,,FC Nantes
+Bridge NdiluB. Ndilu,23,France,Avant-centre,AC,250 K €,Swift Hesperange,Luxembourg,Tr. libre,,FC Nantes
+Sébastien CorchiaS. Corchia,32,France,Arrière droit,ArD,"1,00 mio. €",Amiens SC,France,Tr. libre,,FC Nantes
+Samuel Yépié YépiéS. Yépié Yépié,20,France,Milieu offensif,MO,125 K €,Adanaspor,Turquie,Tr. libre,,FC Nantes
+Lohann DoucetL. Doucet,20,France,Milieu défensif,MDC,700 K €,Paris FC,France,Prêt,,FC Nantes
+Junior DiazJ. Diaz,20,Côte d'Ivoire,Défenseur central,DC,100 K €,FC Annecy,France,Prêt,,FC Nantes
+Evann GuessandE. Guessand,21,France,Avant-centre,AC,"4,50 mio. €",OGC Nice,France,Fin du prêt30 juin 2023,,FC Nantes
+Andy DelortA. Delort,31,Algérie,Avant-centre,AC,"7,00 mio. €",OGC Nice,France,Fin du prêt30 juin 2023,,FC Nantes
+João VictorJoão Victor,24,Brésil,Défenseur central,DC,"7,00 mio. €",SL Benfica,Portugal,Fin du prêt30 juin 2023,,FC Nantes
+Mostafa MohamedMostafa Mohamed,25,Égypte,Avant-centre,AC,"9,00 mio. €",Galatasaray,Turquie,Fin du prêt30 juin 2023,,FC Nantes
+Rassoul NdiayeR. Ndiaye,21,Sénégal,Milieu central,MC,"4,00 mio. €",FC Sochaux-Montbéliard,France,"1,50 mio. €",Le Havre AC,
+Emmanuel SabbiE. Sabbi,25,États-Unis,Ailier droit,AiD,800 K €,Odense Boldklub,Danemark,"1,00 mio. €",Le Havre AC,
+Issa SoumaréI. Soumaré,22,Sénégal,Ailier gauche,AiG,"1,00 mio. €",Beerschot V.A.,Belgique,400 K €,Le Havre AC,
+Daler KuzyaevD. Kuzyaev,30,Russie,Milieu central,MC,"10,00 mio. €",Zenit St. Pétersbourg,Russie,Tr. libre,Le Havre AC,
+Abdoulaye TouréA. Touré,29,Guinée,Milieu défensif,MDC,"1,20 mio. €",Genoa CFC,Italie,Tr. libre,Le Havre AC,
+Yoann SalmierY. Salmier,30,Guyane Française,Défenseur central,DC,"2,00 mio. €",ESTAC Troyes,France,Tr. libre,Le Havre AC,
+Kandet DiawaraK. Diawara,23,France,Ailier gauche,AiG,250 K €,APOEL Nikosia,Chypre,Tr. libre,Le Havre AC,
+Loïc NegoL. Nego,32,Hongrie,Arrière droit,ArD,"1,00 mio. €",Fehérvár FC,Hongrie,Tr. libre,Le Havre AC,
+Cheick DoumbiaC. Doumbia,18,France,Arrière gauche,ArG,100 K €,FC Lorient B,France,?,Le Havre AC,
+Mohamed BayoM. Bayo,25,Guinée,Avant-centre,AC,"6,00 mio. €",LOSC Lille,France,Prêt,Le Havre AC,
+André AyewA. Ayew,33,Ghana,Ailier gauche,AiG,"1,20 mio. €",Sans club,   Sans club,-,Le Havre AC,
+Mokrane BentoumiM. Bentoumi,18,France,Milieu offensif,MO,50 K €,Le Havre AC U19,France,-,Le Havre AC,
+Yoni GomisY. Gomis,17,France,Défenseur central,DC,50 K €,Le Havre AC U19,France,-,Le Havre AC,
+Ylan GomesY. Gomes,20,France,Ailier gauche,AiG,250 K €,Paris 13 Atletico,France,Fin du prêt30 juin 2023,Le Havre AC,
+Pape Ibnou BaP. Ba,30,Mauritanie,Avant-centre,AC,400 K €,Pau FC,France,Fin du prêt30 juin 2023,Le Havre AC,
+Jamal ThiaréJ. Thiaré,30,Sénégal,Avant-centre,AC,600 K €,Atlanta United FC,États-Unis,Tr. libre,,Le Havre AC
+Ylan GomesY. Gomes,20,France,Ailier gauche,AiG,250 K €,FC Martigues,France,Tr. libre,,Le Havre AC
+Victor LekhalV. Lekhal,29,Algérie,Milieu défensif,MDC,"2,50 mio. €",Umm Salal SC,Qatar,Tr. libre,,Le Havre AC
+Quentin CornetteQ. Cornette,29,France,Ailier droit,AiD,800 K €,Volos NPS,Grèce,Tr. libre,,Le Havre AC
+Nassim ChadliN. Chadli,22,Maroc,Ailier droit,AiD,500 K €,US Concarneau,France,Prêt,,Le Havre AC
+Djamal MoussadekD. Moussadek,21,Maroc,Défenseur central,DC,150 K €,FC Villefranche-Beaujolais,France,Prêt,,Le Havre AC
+Salifou SoumahS. Soumah,19,Guinée,Ailier droit,AiD,100 K €,Zira FK,Azerbaïdjan,?,,Le Havre AC
+Elies MahmoudE. Mahmoud,22,France,Milieu droit,MD,800 K €,FC Stade-Lausanne-Ouchy,Suisse,?,,Le Havre AC
+Abdelwahed WahibA. Wahib,23,Maroc,Arrière gauche,ArG,400 K €,US Concarneau,France,?,,Le Havre AC
+Pape Ibnou BaP. Ba,30,Mauritanie,Avant-centre,AC,400 K €,US Concarneau,France,Prêt,,Le Havre AC
+Yann KitalaY. Kitala,25,RD Congo,Avant-centre,AC,900 K €,Almere City FC,Pays-Bas,Prêt,,Le Havre AC
+Aristide WamA. Wam,21,Cameroun,Milieu défensif,MDC,50 K €,Sans club,   Sans club,-,,Le Havre AC
+Terence KongoloT. Kongolo,29,Pays-Bas,Défenseur central,DC,900 K €,FC Fulham,Angleterre,Fin du prêt30 juin 2023,,Le Havre AC
+Check Oumar DiakitéC. Diakité,20,France,Milieu central,MC,550 K €,Paris FC,France,Fin du prêt30 juin 2023,,Le Havre AC
+Amir RichardsonA. Richardson,21,Maroc,Milieu central,MC,"3,50 mio. €",Stade de Reims,France,Fin du prêt30 juin 2023,,Le Havre AC
+Kevin Van Den KerkhofK. Van Den Kerkhof,27,Algérie,Arrière droit,ArD,"2,50 mio. €",SC Bastia,France,"2,50 mio. €",FC Metz,
+Benjamin TettehB. Tetteh,26,Ghana,Avant-centre,AC,"1,50 mio. €",Hull City,Angleterre,"1,80 mio. €",FC Metz,
+Joel AsoroJ. Asoro,24,Suède,Ailier droit,AiD,"1,50 mio. €",Djurgårdens IF,Suède,"1,20 mio. €",FC Metz,
+Simon ElisorS. Elisor,23,France,Avant-centre,AC,800 K €,RFC Seraing,Belgique,400 K €,FC Metz,
+Maxime ColinM. Colin,31,France,Arrière droit,ArD,"1,20 mio. €",Birmingham City,Angleterre,Tr. libre,FC Metz,
+Jean N'GuessanJ. N'Guessan,20,Côte d'Ivoire,Milieu central,MC,"1,20 mio. €",OGC Nice,France,?,FC Metz,
+Christophe HérelleC. Hérelle,31,Martinique,Défenseur central,DC,"2,00 mio. €",Stade Brestois 29,France,?,FC Metz,
+Sadibou SanéS. Sané,19,Sénégal,Défenseur central,DC,150 K €,Génération Foot,Sénégal,?,FC Metz,
+Ibou SanéI. Sané,18,Sénégal,Avant-centre,AC,150 K €,Génération Foot,Sénégal,?,FC Metz,
+Óscar EstupiñánÓ. Estupiñán,26,Colombie,Avant-centre,AC,"5,00 mio. €",Hull City,Angleterre,Prêt,FC Metz,
+Joseph NduquidiJ. Nduquidi,18,France,Milieu central,MC,500 K €,FC Metz B,France,-,FC Metz,
+Malick MbayeM. Mbaye,19,Sénégal,Ailier droit,AiD,400 K €,FC Metz B,France,-,FC Metz,
+Papa Amadou DialloP. Diallo,19,Sénégal,Ailier gauche,AiG,150 K €,FC Metz B,France,-,FC Metz,
+Lamine CamaraL. Camara,19,Sénégal,Milieu central,MC,800 K €,FC Metz B,France,-,FC Metz,
+Othmane ChraibiO. Chraibi,20,Maroc,Milieu défensif,MDC,-,FC Metz B,France,-,FC Metz,
+Maïdine DouaneM. Douane,21,Algérie,Milieu offensif,MO,250 K €,RFC Seraing,Belgique,Fin du prêt30 juin 2024,FC Metz,
+Ibrahima NianeI. Niane,24,Sénégal,Avant-centre,AC,"2,00 mio. €",Angers SCO,France,Fin du prêt30 juin 2023,FC Metz,
+VagnerVagner,27,Cap-Vert,Ailier droit,AiD,600 K €,RFC Seraing,Belgique,Fin du prêt30 juin 2023,FC Metz,
+Boubacar TraoréB. Traoré,21,Mali,Milieu défensif,MDC,"5,00 mio. €",Wolverhampton Wanderers,Angleterre,Fin du prêt30 juin 2023,FC Metz,
+Papa Ndiaga YadeP. Yade,23,Sénégal,Ailier gauche,AiG,"1,00 mio. €",ESTAC Troyes,France,Fin du prêt30 juin 2023,FC Metz,
+Warren TchimbembéW. Tchimbembé,25,Congo,Ailier droit,AiD,500 K €,EA Guingamp,France,Fin du prêt30 juin 2023,FC Metz,
+Sami LahssainiS. Lahssaini,24,Belgique,Milieu central,MC,450 K €,RFC Seraing,Belgique,Fin du prêt30 juin 2023,FC Metz,
+Guillaume DietschG. Dietsch,22,France,Gardien de but,GdB,700 K €,RFC Seraing,Belgique,Fin du prêt30 juin 2023,FC Metz,
+Georges MikautadzeG. Mikautadze,22,Géorgie,Avant-centre,AC,"10,00 mio. €",Ajax Amsterdam,Pays-Bas,"16,00 mio. €",,FC Metz
+Boubacar TraoréB. Traoré,21,Mali,Milieu défensif,MDC,"5,00 mio. €",Wolverhampton Wanderers,Angleterre,"11,00 mio. €",,FC Metz
+Youssef MazizY. Maziz,25,France,Milieu offensif,MO,"1,50 mio. €",Oud-Heverlee Leuven,Belgique,"1,50 mio. €",,FC Metz
+Ibrahima NianeI. Niane,24,Sénégal,Avant-centre,AC,"2,00 mio. €",Angers SCO,France,500 K €,,FC Metz
+Maïdine DouaneM. Douane,20,Algérie,Milieu offensif,MO,250 K €,RFC Seraing,Belgique,Prêt,,FC Metz
+Othmane ChraibiO. Chraibi,20,Maroc,Milieu défensif,MDC,-,LB Châteauroux,France,Prêt,,FC Metz
+Xhuliano SkukaX. Skuka,24,Albanie,Avant-centre,AC,400 K €,NK Maribor,Slovénie,Prêt,,FC Metz
+Lamine GueyeL. Gueye,25,Sénégal,Ailier droit,AiD,800 K €,Paris FC,France,?,,FC Metz
+Lenny JosephL. Joseph,22,France,Ailier droit,AiD,500 K €,Grenoble Foot 38,France,?,,FC Metz
+Sofiane AlakouchS. Alakouch,25,Maroc,Arrière droit,ArD,600 K €,Paris FC,France,Prêt,,FC Metz
+VagnerVagner,27,Cap-Vert,Ailier droit,AiD,600 K €,Sans club,   Sans club,-,,FC Metz
+Papa Ndiaga YadeP. Yade,23,Sénégal,Ailier gauche,AiG,"1,00 mio. €",Quevilly - Rouen Métropole,France,Prêt,,FC Metz
+Ousmane BaO. Ba,21,Sénégal,Gardien de but,GdB,400 K €,SO Cholet,France,Prêt,,FC Metz
